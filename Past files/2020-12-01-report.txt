@@ -1,0 +1,165 @@
+Total: 13
+
+1. Backbone: 0
+2. Multi-site: 3
+3. UC: 0
+4. CSU: 1
+5. CC: 2
+6. K12/COE: 4
+7. Library: 3
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-636391
+    SCOPE: Circuits Impacted During CENIC Maintenance
+    START: 2020-11-30 00:13:00
+    END: 2020-11-30 00:19:00
+    DURATION: 00:06
+    DIVERSITY: Palomar CC South Education Center ;; Palomar College North Education Center ;; Palomar Rancho Santa Fe CC ;; Southwestern CCD ;; Southwestern CCD HEC - Otay Mesa
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [other] Unexpected impact from CENIC maintenance
+
+ISSUE: NOC-636324
+    SCOPE: Multiple circuits in the SoCal Region are down.
+    START: 2020-11-27 19:36:00
+    END: 2020-11-28 16:15:00
+    DURATION: 20:39
+    DIVERSITY: CSU Long Beach ;; LA Harbor College ;; Long Beach City College ;; Los Angeles COE
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [fiber cut] 
+
+ISSUE: NOC-636217
+    SCOPE: Multiple circuits in the Central Valley are down.
+    START: 2020-11-25 00:05:00
+    END: 2020-11-25 01:53:00
+    DURATION: 01:48
+    DIVERSITY: CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+
+3. UC
+
+
+4. CSU
+
+ISSUE: NOC-636328
+    SCOPE: Cal Poly Pomona flap
+    START: 2020-11-28 06:48:00
+    END: 2020-11-28 06:49:00
+    DURATION: 00:01
+    DIVERSITY: Cal Poly Pomona
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [unknown] 
+
+
+5. CC
+
+ISSUE: NOC-636325
+    SCOPE: Mendocino CC circuit bounce
+    START: 2020-11-28 04:59:00
+    END: 2020-11-28 05:00:00
+    DURATION: 00:01
+    DIVERSITY: 
+    CONNECTIVITY: Mendocino College
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+ISSUE: NOC-636293
+    SCOPE: Canyon Country Education Center is Down.
+    START: 2020-11-26 17:08:00
+    END: 2020-11-27 13:30:00
+    DURATION: 20:22
+    DIVERSITY: College of the Canyons
+    CONNECTIVITY: Canyon Country Education Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-636406
+    SCOPE: The circuit to Sierra COE West is up.
+    START: 2020-11-30 07:36:00
+    END: 2020-11-30 08:33:00
+    DURATION: 00:57
+    DIVERSITY: 
+    CONNECTIVITY: Sierra COE - WEST
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636314
+    SCOPE: 100GE Circuit Instability
+    START: 2020-11-27 14:50:00
+    END: 2020-11-27 17:09:00
+    DURATION: 02:19
+    DIVERSITY: Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Sunesys
+    REASON: [unknown] 
+
+ISSUE: NOC-636246
+    SCOPE: The 10GE circuit to Los Angeles has restored.
+    START: 2020-11-25 11:43:00
+    END: 2020-11-25 11:49:00
+    DURATION: 00:06
+    DIVERSITY: Whittier UHSD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-636220
+    SCOPE: Frontier circuits bounced.
+    START: 2020-11-25 01:27:00
+    END: 2020-11-25 01:29:00
+    DURATION: 00:02
+    DIVERSITY: 
+    CONNECTIVITY: Alpine COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-636392
+    SCOPE: Corona Public Library restored
+    START: 2020-11-30 01:11:00
+    END: 2020-11-30 09:33:00
+    DURATION: 08:22
+    DIVERSITY: 
+    CONNECTIVITY: Corona Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636295
+    SCOPE: Palmdale City Library is unreachable.
+    START: 2020-11-26 22:27:00
+    END: 2020-11-27 02:00:00
+    DURATION: 03:33
+    DIVERSITY: 
+    CONNECTIVITY: Palmdale City Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636207
+    SCOPE: Humboldt County Library is unreachable.
+    START: 2020-11-24 22:00:00
+    END: 2020-11-25 06:22:00
+    DURATION: 08:22
+    DIVERSITY: 
+    CONNECTIVITY: Humboldt County Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+

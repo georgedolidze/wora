@@ -1,0 +1,245 @@
+Total: 21
+
+1. Backbone: 0
+2. Multi-site: 2
+3. UC: 4
+4. CSU: 2
+5. CC: 4
+6. K12/COE: 6
+7. Library: 3
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-636992
+    SCOPE: Multiple connections in Northern California bounced.
+    START: 2020-12-07 12:32:00
+    END: 2020-12-07 12:35:00
+    DURATION: 00:03
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [unknown] 
+
+ISSUE: NOC-636939
+    SCOPE: Multiple circuits in the Central Valley region are down.
+    START: 2020-12-06 23:32:00
+    END: 2020-12-07 04:37:00
+    DURATION: 05:05
+    DIVERSITY: Amador COE ;; Calaveras COE ;; Columbia CC ;; Colusa COE ;; CSU Stanislaus ;; CSU Stanislaus - Stockton Center ;; El Dorado COE ;; Nevada Joint Union HSD ;; Placer COE ;; Sierra COE - WEST ;; Sutter COE ;; Tuolumne COE ;; Woodland CC ;; Yosemite CCD Office ;; Yuba CC ;; Yuba COE
+    CONNECTIVITY: El Dorado County Library ;; Stanislaus County Library
+    PROVIDER: Vast
+    REASON: [provider maintenance] 
+
+
+3. UC
+
+ISSUE: NOC-636877
+    SCOPE: UCANR Desert REC is unavailable
+    START: 2020-12-05 13:43:00
+    END: 2020-12-05 15:51:00
+    DURATION: 02:08
+    DIVERSITY: 
+    CONNECTIVITY: UC Agricultural and Natural Resources - Desert
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636555
+    SCOPE: Route 87 between UC Irvine and Los Angeles is unstable.
+    START: 2020-12-01 19:11:00
+    END: 2020-12-03 01:00:00
+    DURATION: 29:49
+    DIVERSITY: University of California, Irvine - DC/HPR
+    CONNECTIVITY: 
+    PROVIDER: Cisco
+    REASON: [faulty line card] CENIC issue
+
+ISSUE: NOC-636645
+    SCOPE: The UCSF Health System Tertiary 10G to Quincy is Down
+    START: 2020-12-02 20:34:00
+    END: 2020-12-03 00:15:00
+    DURATION: 03:41
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [fiber cut] 
+
+ISSUE: NOC-636714
+    SCOPE: UCANR Hopland REC is unavailable
+    START: 2020-12-03 10:04:00
+    END: 2020-12-03 10:36:00
+    DURATION: 00:32
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Hopland REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+4. CSU
+
+ISSUE: NOC-636612
+    SCOPE: CMS Santa Clara circuit to Los Angeles is down.
+    START: 2020-12-02 11:20:00
+    END: 2020-12-04 00:39:00
+    DURATION: 37:19
+    DIVERSITY: CMS - Santa Clara
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [fiber cut] 
+
+ISSUE: NOC-636612
+    SCOPE: CMS Santa Clara circuit to Los Angeles is down.
+    START: 2020-12-02 11:20:00
+    END: 2020-12-04 04:00:00
+    DURATION: 40:40
+    DIVERSITY: CMS - Santa Clara
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [fiber cut] 
+
+
+5. CC
+
+ISSUE: NOC-636888
+    SCOPE: College of the Alameda Science Annex Center stable
+    START: 2020-12-05 23:00:00
+    END: 2020-12-06 10:30:00
+    DURATION: 11:30
+    DIVERSITY: College of the Alameda Aviation Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [fiber damage] 
+
+ISSUE: NOC-636889
+    SCOPE: College of the Alameda Science Annex Center stable
+    START: 2020-12-05 17:15:00
+    END: 2020-12-06 10:30:00
+    DURATION: 17:15
+    DIVERSITY: College of the Alameda Science Annex Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [fiber damage] 
+
+ISSUE: NOC-636751
+    SCOPE: Canyon Country Education Center is down.
+    START: 2020-12-03 15:26:00
+    END: 2020-12-03 16:06:00
+    DURATION: 00:40
+    DIVERSITY: College of the Canyons
+    CONNECTIVITY: Canyon Country Education Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636721
+    SCOPE: Shasta Trinity CC is unavailable
+    START: 2020-12-03 10:37:00
+    END: 2020-12-03 10:45:00
+    DURATION: 00:08
+    DIVERSITY: Shasta CC - Tehama ;; Shasta CC Burney Center ;; Shasta CCD ;; Shasta CCD Health Sciences
+    CONNECTIVITY: Shasta CCD Trinity Center
+    PROVIDER: Frontier
+    REASON: [faulty line card] 
+
+
+6. K12/COE
+
+ISSUE: NOC-636839
+    SCOPE: Bishop USD's circuit to Los Angeles restored
+    START: 2020-12-05 10:00:00
+    END: 2020-12-06 21:48:00
+    DURATION: 35:48
+    DIVERSITY: Bishop Union Elementary - Inyo County ;; Mono COE
+    CONNECTIVITY: 
+    PROVIDER: CBC
+    REASON: [fiber damage] 
+
+ISSUE: NOC-636868
+    SCOPE: Sierra COE West is unreachable.
+    START: 2020-12-05 05:35:00
+    END: 2020-12-05 05:40:00
+    DURATION: 00:05
+    DIVERSITY: 
+    CONNECTIVITY: Sierra COE - WEST
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636810
+    SCOPE: Sierra COE West is unreachable.
+    START: 2020-12-04 06:09:00
+    END: 2020-12-04 06:15:00
+    DURATION: 00:06
+    DIVERSITY: 
+    CONNECTIVITY: Sierra COE - WEST
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636769
+    SCOPE: LA USD - Van Nuys Circuit to Tustin hub is unstable.
+    START: 2020-12-03 22:36:00
+    END: 2020-12-03 23:20:00
+    DURATION: 00:44
+    DIVERSITY: 
+    CONNECTIVITY: Los Angeles USD - Van Nuys
+    PROVIDER: Crown Castle
+    REASON: [provider maintenance] Impact during unrelated maintenance
+
+ISSUE: NOC-636739
+    SCOPE: The 100G between Contra Costa COE and Alameda COE experienced brief instability.
+    START: 2020-12-03 12:56:00
+    END: 2020-12-03 12:57:00
+    DURATION: 00:01
+    DIVERSITY: Alameda COE ;; Contra Costa COE
+    CONNECTIVITY: 
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+ISSUE: NOC-636716
+    SCOPE: Stanislaus COE 10G to Fergus is down
+    START: 2020-12-03 10:09:00
+    END: 2020-12-03 12:50:00
+    DURATION: 02:41
+    DIVERSITY: Stanislaus COE
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+
+7. Library
+
+ISSUE: NOC-636961
+    SCOPE: El Dorado County Library - Pollock Pines Library Branch restored
+    START: 2020-12-07 06:37:00
+    END: 2020-12-07 08:12:00
+    DURATION: 01:35
+    DIVERSITY: 
+    CONNECTIVITY: El Dorado County Library - Pollock Pines Branch
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-636990
+    SCOPE: Stanislaus County Library connectivity was down.
+    START: 2020-12-07 12:24:00
+    END: 2020-12-07 12:45:00
+    DURATION: 00:21
+    DIVERSITY: 
+    CONNECTIVITY: Stanislaus County Library
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-636948
+    SCOPE: San Benito County Free Library down.
+    START: 2020-12-07 00:36:00
+    END: 2020-12-07 00:49:00
+    DURATION: 00:13
+    DIVERSITY: 
+    CONNECTIVITY: San Benito County Free Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+

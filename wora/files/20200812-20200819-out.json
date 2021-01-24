@@ -1,0 +1,785 @@
+[
+    {
+        "issue": "NOC-628478",
+        "start": "2020-08-18 16:33:00",
+        "end": "2020-08-18 18:27:00",
+        "scope": "Torrance Public Library - North Torrance Branch Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Torrance Public Library - North Torrance Branch Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628442",
+        "start": "2020-08-18 07:44:00",
+        "end": "2020-08-18 09:19:00",
+        "scope": "Merced County Library is unreachable.",
+        "diversity": [
+            "Madera County Library",
+            "Mariposa County Library"
+        ],
+        "connectivity": [
+            "Merced County Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628424",
+        "start": "2020-08-18 03:08:00",
+        "end": "2020-08-18 03:11:00",
+        "scope": "Multiple circuits in the SoCal Region bounced.",
+        "diversity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology",
+            "Victorville City Library"
+        ],
+        "connectivity": [
+            "Corona Public Library",
+            "UC Agricultural and Natural Resources - Desert",
+            "UCANR Rubidoux REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "Spectrum (ECT-8267063 ECT-8267062) AT&T (LE123113, LE123114, LE123115)",
+        "category": "Multi-site",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628432",
+        "start": "2020-08-18 05:11:00",
+        "end": "2020-08-18 05:14:00",
+        "scope": "Multiple circuits in the SoCal Region bounced.",
+        "diversity": [
+            "College of the Desert"
+        ],
+        "connectivity": [
+            "Copper Mountain CCD",
+            "Riverside - Indio COE"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628296",
+        "start": "2020-08-17 00:21:00",
+        "end": "2020-08-17 21:43:00",
+        "scope": "Line card failure at Fergus hubsite.",
+        "diversity": [
+            "Fresno COE",
+            "Kern COE",
+            "San Joaquin COE",
+            "San Luis Obispo COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": "689711897",
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": "CENIC LC replacement"
+    },
+    {
+        "issue": "NOC-628325",
+        "start": "2020-08-17 08:04:00",
+        "end": "2020-08-17 18:51:00",
+        "scope": "Yuba Community College District is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Yuba Community College District"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "286177765 286177697",
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628376",
+        "start": "2020-08-17 13:23:00",
+        "end": "2020-08-17 14:11:00",
+        "scope": "Cuesta College North County Campus GE circuit to Riverside was unstable.",
+        "diversity": [
+            "Cuesta College",
+            "Cuesta College North County Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80266919",
+        "category": "CC",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628167",
+        "start": "2020-08-14 11:25:00",
+        "end": "2020-08-17 10:21:00",
+        "scope": "Mt. San Jacinto's 10G circuit to Riverside outage.",
+        "diversity": [
+            "Mt. San Jacinto CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20322464",
+        "category": "CC",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628269",
+        "start": "2020-08-16 03:27:00",
+        "end": "2020-08-17 08:39:00",
+        "scope": "UCANR Elkus Ranch REC unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628268",
+        "start": "2020-08-16 04:55:00",
+        "end": "2020-08-17 13:56:00",
+        "scope": "St Helena Public Library restored",
+        "diversity": [],
+        "connectivity": [
+            "St. Helena Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "286141469 , FE141339(ADE 888-457-3087  3 1 2)",
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628375",
+        "start": "2020-08-17 13:14:00",
+        "end": "2020-08-17 13:18:00",
+        "scope": "Santa Clara COE 100G circuit to Sunnyvale brief bounce.",
+        "diversity": [
+            "Santa Clara COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF-20322970",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628319",
+        "start": "2020-08-17 08:17:00",
+        "end": "2020-08-17 10:41:00",
+        "scope": "Multiple circuits down in the Central Valley due to power outages.",
+        "diversity": [
+            "Sutter COE",
+            "Yuba COE"
+        ],
+        "connectivity": [
+            "Lincoln Public Library",
+            "Yuba County Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628313",
+        "start": "2020-08-17 07:39:00",
+        "end": "2020-08-17 07:40:00",
+        "scope": "Brief multiple circuit outage in the NorCal region.",
+        "diversity": [
+            "Lake Tahoe CC",
+            "Lake Tahoe USD",
+            "Los Rios CCD",
+            "Tahoe Truckee USD",
+            "Yuba CCD - Sutter County Center",
+            "Yuba Community College District"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286177752 286177260 286177687 286177759",
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628301",
+        "start": "2020-08-17 03:35:00",
+        "end": "2020-08-17 05:17:00",
+        "scope": "Mt San Antonio CC circuit to Los Angeles is down.",
+        "diversity": [
+            "Mt. San Antonio CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80265705",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628039",
+        "start": "2020-08-13 05:05:00",
+        "end": "2020-08-13 08:32:00",
+        "scope": "Pacific Grove Public Library unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Pacific Grove Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628050",
+        "start": "2020-08-13 09:24:00",
+        "end": "2020-08-13 09:47:00",
+        "scope": "CSU Human Resources - Information Support and Analysis Unit Circuit Instability",
+        "diversity": [],
+        "connectivity": [
+            "CSU Human Resources - Information Support and Analysis"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286056130",
+        "category": "CSU",
+        "rfo_category": "faulty line card",
+        "rfo_description": "ATT device lost power"
+    },
+    {
+        "issue": "NOC-628278",
+        "start": "2020-08-16 15:51:00",
+        "end": "2020-08-16 22:42:00",
+        "scope": "Cuesta College North County Campus GE circuit to Riverside is down.",
+        "diversity": [
+            "Cuesta College",
+            "Cuesta College North County Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628248",
+        "start": "2020-08-15 18:29:00",
+        "end": "2020-08-16 09:39:00",
+        "scope": "Sites down in Monterey",
+        "diversity": [
+            "CSU Monterey Bay"
+        ],
+        "connectivity": [
+            "Monterey Peninsula CCD - Marina Ed Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628276",
+        "start": "2020-08-16 10:45:00",
+        "end": "2020-08-16 10:46:00",
+        "scope": "Multiple CVIN circuits bounced in the Central Valley.",
+        "diversity": [
+            "Coalinga District Library",
+            "CSU Bakersfield",
+            "Earlimart School District",
+            "Fresno City College",
+            "Kern CCD",
+            "Kern COE",
+            "Kern County Library",
+            "San Luis Obispo COE",
+            "State Center CCD (Fresno)",
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628252",
+        "start": "2020-08-15 20:08:00",
+        "end": "2020-08-15 20:30:00",
+        "scope": "Several Frontier circuits bounced.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences",
+            "Shasta CCD Trinity Center",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD",
+            "Yuba Community College District"
+        ],
+        "connectivity": [
+            "Yuba CCD Colusa County Campus"
+        ],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628239",
+        "start": "2020-08-15 14:20:00",
+        "end": "2020-08-15 21:00:00",
+        "scope": "100M Circuit is unstable",
+        "diversity": [
+            "Coalinga District Library",
+            "Kern County Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286136395",
+        "category": "Library",
+        "rfo_category": "other",
+        "rfo_description": "Likely weather related"
+    },
+    {
+        "issue": "NOC-628246",
+        "start": "2020-08-15 18:43:00",
+        "end": "2020-08-15 18:52:00",
+        "scope": "10GE Circuit Outage",
+        "diversity": [
+            "Santa Monica College",
+            "Santa Monica College - Center for Media and Design"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20322670",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": "Pending"
+    },
+    {
+        "issue": "NOC-628196",
+        "start": "2020-08-14 17:39:00",
+        "end": "2020-08-15 04:10:00",
+        "scope": "Tahoe Truckee USD is unreachable.",
+        "diversity": [
+            "Lake Tahoe USD"
+        ],
+        "connectivity": [
+            "Tahoe Truckee USD"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628144",
+        "start": "2020-08-14 16:23:00",
+        "end": "2020-08-14 23:00:00",
+        "scope": "Multiple Spectrum circuits down.",
+        "diversity": [
+            "Cuesta College",
+            "Cuesta College North County Campus",
+            "Mt. San Antonio CCD"
+        ],
+        "connectivity": [
+            "Rancho Cucamonga Public Library",
+            "Victorville City Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628192",
+        "start": "2020-08-14 14:51:00",
+        "end": "2020-08-14 18:00:00",
+        "scope": "CVIN circuits instability",
+        "diversity": [
+            "Fresno County Library",
+            "Kings County Library",
+            "Madera County Library",
+            "Mariposa County Library",
+            "Merced County Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": "CVIN-0814-00014",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628217",
+        "start": "2020-08-14 19:11:00",
+        "end": "2020-08-14 21:30:00",
+        "scope": "Northern California outage",
+        "diversity": [
+            "Santa Rosa JC Public Safety Training Center",
+            "Santa Rosa Junior College - Petaluma Campus"
+        ],
+        "connectivity": [
+            "El Dorado County Library - Cameron Park Library",
+            "El Dorado County Library - El Dorado Hills Branch",
+            "El Dorado County Library - Georgetown Branch",
+            "El Dorado County Library - Pollock Pines Branch",
+            "Santa Rosa JC Shone Agriculture Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628209",
+        "start": "2020-08-14 18:39:00",
+        "end": "2020-08-14 22:15:00",
+        "scope": "Los Rios CCD El Dorado Center is down",
+        "diversity": [],
+        "connectivity": [
+            "Los Rios CCD El Dorado Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628221",
+        "start": "2020-08-14 19:37:00",
+        "end": "2020-08-14 20:06:00",
+        "scope": "GE Circuit Instablity",
+        "diversity": [],
+        "connectivity": [
+            "Salinas Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "286111533",
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628220",
+        "start": "2020-08-14 19:53:00",
+        "end": "2020-08-14 20:05:00",
+        "scope": "GE Circuit Went Down",
+        "diversity": [],
+        "connectivity": [
+            "Southwestern CCD HEC - San Ysidro"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628206",
+        "start": "2020-08-14 18:01:00",
+        "end": "2020-08-14 18:03:00",
+        "scope": "Multiple circuits bounced in the Bay Area",
+        "diversity": [
+            "City College of San Francisco CCD",
+            "Lake COE",
+            "Mendocino College",
+            "Skyline College",
+            "Solano COE",
+            "Sonoma COE"
+        ],
+        "connectivity": [
+            "Sonoma County Library - Central Library",
+            "St. Helena Public Library",
+            "University of California, Hastings College of Law"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628150",
+        "start": "2020-08-14 08:57:00",
+        "end": "2020-08-14 09:38:00",
+        "scope": "The circuit to Riverside - Indio COE is up.",
+        "diversity": [
+            "Riverside - Indio COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628058",
+        "start": "2020-08-13 09:40:00",
+        "end": "2020-08-14 08:46:00",
+        "scope": "1G Circuit between Victor Valley - SOA and Victory Valley CCD is down.",
+        "diversity": [
+            "Victor Valley CCD",
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80261690",
+        "category": "CC",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628160",
+        "start": "2020-08-14 10:02:00",
+        "end": "2020-08-14 10:03:00",
+        "scope": "Several AT&T circuits bounced in the Los Angeles area.",
+        "diversity": [],
+        "connectivity": [
+            "Beaumont Library District",
+            "Crafton Hills College"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286095625, 286094722, 286095631",
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628144",
+        "start": "2020-08-14 07:46:00",
+        "end": "2020-08-14 07:55:00",
+        "scope": "Multiple Spectrum circuits were down.",
+        "diversity": [
+            "Cuesta College",
+            "Cuesta College North County Campus",
+            "Mt. San Antonio CCD"
+        ],
+        "connectivity": [
+            "Rancho Cucamonga Public Library",
+            "Victorville City Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628127",
+        "start": "2020-08-14 02:18:00",
+        "end": "2020-08-14 02:24:00",
+        "scope": "The 100GE circuit for LAUSD was briefly unavailable.",
+        "diversity": [
+            "Los Angeles USD",
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20322299",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628040",
+        "start": "2020-08-13 05:46:00",
+        "end": "2020-08-13 10:10:00",
+        "scope": "UCANR Elkus Ranch REC unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "286047274",
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627955",
+        "start": "2020-08-12 08:01:00",
+        "end": "2020-08-13 15:29:00",
+        "scope": "Los Angeles COE Secondary 10G circuit to Tustin is down.",
+        "diversity": [
+            "Los Angeles COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628001",
+        "start": "2020-08-12 18:27:00",
+        "end": "2020-08-12 23:20:00",
+        "scope": "Cameron Park Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Cameron Park Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-628003",
+        "start": "2020-08-12 18:30:00",
+        "end": "2020-08-12 18:54:00",
+        "scope": "Palm Springs Public Library was down.",
+        "diversity": [],
+        "connectivity": [
+            "Palm Springs Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627994",
+        "start": "2020-08-12 16:46:00",
+        "end": "2020-08-12 17:24:00",
+        "scope": "UCSF Health System's tertiary 10G to Quincy is down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "4330609",
+        "category": "UC",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627981",
+        "start": "2020-08-12 12:18:00",
+        "end": "2020-08-12 12:51:00",
+        "scope": "2 of the circuits to Sutter COE are currently up.",
+        "diversity": [
+            "Sutter COE",
+            "Yuba City Schools"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    }
+]

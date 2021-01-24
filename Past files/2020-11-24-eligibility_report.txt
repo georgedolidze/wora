@@ -1,0 +1,129 @@
+
+
+
+Eligible outages per Vendor SLAs
+
+
+
+
+CenturyLink
+------------------------------
+> 8-10hrs
+
+
+
+> 10-16hrs
+
+
+
+> 16+hrs
+
+
+
+Charter/TWC/Spectrum
+------------------------------
+> 4-8hrs
+NOC-632530: Duration is over 240 minutes (6:25)
+NOC-632531: Duration is over 240 minutes (6:25)
+
+
+> 8+hrs
+NOC-632630: Duration is over 480 minutes (12:34)
+NOC-111152: Duration is over 480 minutes (21:05)
+
+
+
+
+Verizon/Frontier
+------------------------------
+> 216+ minutes
+NOC-111135: Duration is over 216 minutes (21:05)
+
+
+
+
+
+Comcast
+------------------------------
+> 40+ minutes
+NOC-111140: Duration is over 40 minutes (21:05)
+
+
+
+
+
+Zayo
+------------------------------
+> 4+ hrs
+NOC-111142: Duration is over 240 minutes (21:05)
+
+
+
+
+
+CVIN/Vast
+------------------------------
+> 4+ hrs
+NOC-111143: Duration is over 240 minutes (21:05)
+
+
+
+
+
+Plumas-Sierra Telecom
+------------------------------
+> 15+ minutes
+NOC-111151: Duration is over 15 minutes (21:05)
+
+
+
+
+
+CBC/Digital 395
+------------------------------
+> 15+ minutes
+NOC-111145: Duration is over 15 minutes (21:05)
+
+
+
+
+
+GeoLinks
+------------------------------
+> 4+ hours
+NOC-111149: Duration is over 240 minutes (21:05)
+
+
+
+
+
+Southern California Edison
+------------------------------
+> 4+ hours
+NOC-111155: Duration is over 240 minutes (21:05)
+
+
+
+
+
+Wave Broadband
+------------------------------
+> 1+ minutes
+NOC-111121: Duration is over 1 minutes (0:01)
+NOC-111144: Duration is over 1 minutes (21:05)
+
+
+
+
+
+Vendors with no SLA
+------------------------------
+NOC-111123 - Cal-Ore - Duration: 0:01
+NOC-111124 - Cox - Duration: 0:01
+NOC-111127 - Hunter Communications - Duration: 0:01
+NOC-111130 - SuddenLink - Duration: 0:01
+NOC-111146 - Cal-Ore - Duration: 21:05
+NOC-111147 - Cox - Duration: 21:05
+NOC-111150 - Hunter Communications - Duration: 21:05
+NOC-111153 - SuddenLink - Duration: 21:05
+

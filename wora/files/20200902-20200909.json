@@ -1,0 +1,545 @@
+[
+    {
+        "issue": "NOC-630198",
+        "start": "2020-09-08 12:39:00",
+        "end": "2020-09-08 12:56:00",
+        "scope": "Multiple circuits are unstable.",
+        "diversity": [
+            "College of the Sequoias - Hanford Campus",
+            "College of the Sequoias - Tulare Campus",
+            "College of the Sequoias CCD",
+            "Tulare COE",
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630108",
+        "start": "2020-09-06 14:43:00",
+        "end": "2020-09-07 18:24:00",
+        "scope": "Multiple 100GE circuits were down in Central Valley.",
+        "diversity": [
+            "Fresno COE",
+            "Kern COE",
+            "San Luis Obispo COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Level3",
+            "Vast"
+        ],
+        "telco_ticket_id": "2103"
+    },
+    {
+        "issue": "NOC-630112",
+        "start": "2020-09-06 15:27:00",
+        "end": "2020-09-08 09:00:00",
+        "scope": "Monterey Park Bruggemeyer Library circuit to Los Angeles was down",
+        "diversity": [],
+        "connectivity": [
+            "Monterey Park Bruggemeyer Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE124259"
+    },
+    {
+        "issue": "NOC-630152",
+        "start": "2020-09-07 19:21:00",
+        "end": "2020-09-08 02:06:00",
+        "scope": "Circuit between West Hills Lemoore CC and West Hills North District Center CC is not passing traffic.",
+        "diversity": [
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286975249"
+    },
+    {
+        "issue": "NOC-630086",
+        "start": "2020-09-05 21:37:00",
+        "end": "2020-09-07 09:55:00",
+        "scope": "Stanislaus COE CVIN 10GE to Fergus hub was unavailable.",
+        "diversity": [
+            "Stanislaus COE",
+            "Modesto City Schools"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630142",
+        "start": "2020-09-07 10:00:00",
+        "end": "2020-09-07 12:00:00",
+        "scope": "Multiple circuits bounced in Central Valley",
+        "diversity": [
+            "CSU Bakersfield",
+            "Fresno City College",
+            "Kern CCD",
+            "Kern COE",
+            "San Luis Obispo COE",
+            "State Center CCD (Fresno)",
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630108",
+        "start": "2020-09-06 14:43:00",
+        "end": "2020-09-07 10:04:00",
+        "scope": "Multiple 100GE circuits were down in Central Valley.",
+        "diversity": [
+            "Fresno COE",
+            "Kern COE",
+            "San Luis Obispo COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Level3",
+            "Vast"
+        ],
+        "telco_ticket_id": "2103"
+    },
+    {
+        "issue": "NOC-630084",
+        "start": "2020-09-05 19:51:00",
+        "end": "2020-09-05 19:54:00",
+        "scope": "GE Connection Down",
+        "diversity": [],
+        "connectivity": [
+            "Alhambra Public Libary"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630113",
+        "start": "2020-09-06 15:36:00",
+        "end": "2020-09-06 18:18:00",
+        "scope": "GE circuit is unstable",
+        "diversity": [
+            "CSU Fullerton Irvine"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": "19614107"
+    },
+    {
+        "issue": "NOC-629781",
+        "start": "2020-09-03 00:57:00",
+        "end": "2020-09-05 14:08:00",
+        "scope": "CSU Northridge circuit to Los Angeles Hub is unavailable.",
+        "diversity": [
+            "CSU Northridge"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": "CCF20328407  /  1-200468217127 (Equinix) / New CCF ticket 20329106"
+    },
+    {
+        "issue": "NOC-630063",
+        "start": "2020-09-05 10:45:00",
+        "end": "2020-09-05 10:47:00",
+        "scope": "AT&T Disruption",
+        "diversity": [
+            "LA Southwest College"
+        ],
+        "connectivity": [
+            "Los Angeles County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630040",
+        "start": "2020-09-04 20:47:00",
+        "end": "2020-09-04 20:48:00",
+        "scope": "10GE to Bakersfield is unstable",
+        "diversity": [
+            "Kings COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": "CVIN Ticket 2099"
+    },
+    {
+        "issue": "NOC-630051",
+        "start": "2020-09-04 21:13:00",
+        "end": "2020-09-04 21:16:00",
+        "scope": "Several Central Valley circuits are unstable.",
+        "diversity": [
+            "CSU Bakersfield",
+            "Earlimart School District",
+            "Fresno City College",
+            "Kern CCD",
+            "Kern COE",
+            "Kings County Library",
+            "Taft College",
+            "West Hills Lemoore CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629916",
+        "start": "2020-09-03 14:40:00",
+        "end": "2020-09-03 14:42:00",
+        "scope": "Modoc COE circuit bounces",
+        "diversity": [
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630023",
+        "start": "2020-09-04 13:32:00",
+        "end": "2020-09-04 16:06:00",
+        "scope": "Taft CC's circuit to Los Angeles is down.",
+        "diversity": [
+            "Taft College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629902",
+        "start": "2020-09-03 13:42:00",
+        "end": "2020-09-03 23:44:00",
+        "scope": "Multiple circuits in the NorCal region are down.",
+        "diversity": [
+            "Lake Tahoe USD",
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD",
+            "Tahoe Truckee USD",
+            "Yuba CC",
+            "Yuba CCD - Sutter County Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286824454 / 286824316 / 286824435 / 286823896"
+    },
+    {
+        "issue": "NOC-629954",
+        "start": "2020-09-03 15:16:00",
+        "end": "2020-09-04 00:14:00",
+        "scope": "UCANR Desert REC down.",
+        "diversity": [],
+        "connectivity": [
+            "UC Agricultural and Natural Resources - Desert"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "GCSC 286846538"
+    },
+    {
+        "issue": "NOC-629901",
+        "start": "2020-09-03 13:32:00",
+        "end": "2020-09-04 00:37:00",
+        "scope": "The City of Alameda's circuit to Oakland is bouncing.",
+        "diversity": [],
+        "connectivity": [
+            "City of Alameda"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "Comcast SI045312085   /  Centurylink 19598693"
+    },
+    {
+        "issue": "NOC-629926",
+        "start": "2020-09-03 15:03:00",
+        "end": "2020-09-03 21:41:00",
+        "scope": "Amador County Library is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Amador County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629946",
+        "start": "2020-09-03 17:20:00",
+        "end": "2020-09-03 17:25:00",
+        "scope": "Los Angeles USD Van Nuys optical bounce",
+        "diversity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629829",
+        "start": "2020-09-03 04:10:00",
+        "end": "2020-09-03 12:38:00",
+        "scope": "Copper Mountain CCD 10G to Los Angeles is Down.",
+        "diversity": [
+            "College of the Desert",
+            "Copper Mountain CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80287057"
+    },
+    {
+        "issue": "NOC-629830",
+        "start": "2020-09-03 04:10:00",
+        "end": "2020-09-03 12:38:00",
+        "scope": "Copper Mountain CCD 10G to Los Angeles is Down.",
+        "diversity": [
+            "College of the Desert",
+            "Copper Mountain CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Time Warner Cable"
+        ],
+        "telco_ticket_id": "ECT-80287065"
+    },
+    {
+        "issue": "NOC-629769",
+        "start": "2020-09-02 20:18:00",
+        "end": "2020-09-02 23:30:00",
+        "scope": "UCANR Sierra Foothill REC's circuit to Sacramento is degraded",
+        "diversity": [
+            "UCANR Sierra Foothill REC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "GeoLinks"
+        ],
+        "telco_ticket_id": "JG-0903-0830"
+    },
+    {
+        "issue": "NOC-629790",
+        "start": "2020-09-03 01:40:00",
+        "end": "2020-09-03 02:34:00",
+        "scope": "Multiple Comcast circuits are unstable.",
+        "diversity": [
+            "Contra Costa CCDO",
+            "CSU East Bay Concord",
+            "Mendocino College",
+            "San Jose Public Library",
+            "San Mateo COE",
+            "Santa Cruz COE",
+            "Santa Rosa JC Public Safety Training Center",
+            "Santa Rosa JC Shone Agriculture Center",
+            "Santa Rosa Junior College",
+            "UC Berkeley International House"
+        ],
+        "connectivity": [
+            "El Dorado County Library - Cameron Park Library",
+            "El Dorado County Library - El Dorado Hills Branch",
+            "El Dorado County Library - Pollock Pines Branch",
+            "MARINet",
+            "Orland Free Library"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI045292147"
+    },
+    {
+        "issue": "NOC-629868",
+        "start": "2020-09-03 09:36:00",
+        "end": "2020-09-03 09:38:00",
+        "scope": "Multiple AT&T circuits went down in the Bay Area",
+        "diversity": [
+            "Lake COE",
+            "Marin COE",
+            "Napa COE",
+            "San Francisco State University",
+            "Sonoma State University"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286815740 / 286815506 / 286815612 / 286815493 / 286815302"
+    },
+    {
+        "issue": "NOC-629677",
+        "start": "2020-09-02 09:22:00",
+        "end": "2020-09-02 13:35:00",
+        "scope": "Santa Rosa JC circuit to San Francisco was down",
+        "diversity": [],
+        "connectivity": [
+            "Santa Rosa Junior College"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "286778661 (GCSC)"
+    },
+    {
+        "issue": "NOC-629536",
+        "start": "2020-09-01 10:42:00",
+        "end": "2020-09-02 10:52:00",
+        "scope": "Multi circuits disruption in SoCal",
+        "diversity": [
+            "Ventura COE",
+            "Ventura County CCD Office"
+        ],
+        "connectivity": [
+            "Camarillo Public Library",
+            "Monrovia Public Library",
+            "Signal Hill Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80284789 / ECT-80284784 / ECT-80284771 / ECT-80284765 / ECT-80284760"
+    },
+    {
+        "issue": "NOC-629676",
+        "start": "2020-09-02 09:22:00",
+        "end": "2020-09-02 13:35:00",
+        "scope": "Napa Valley CC's circuit to Sunnyvale is not passing traffic.",
+        "diversity": [
+            "Napa Valley CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286784413"
+    },
+    {
+        "issue": "NOC-629676",
+        "start": "2020-09-02 09:22:00",
+        "end": "2020-09-02 18:57:00",
+        "scope": "Napa Valley CC's circuit to Sunnyvale is unstable.",
+        "diversity": [
+            "Napa Valley CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "286784413"
+    },
+    {
+        "issue": "NOC-629819",
+        "start": "2020-09-03 02:15:00",
+        "end": "2020-09-03 02:21:00",
+        "scope": "Santa Barbara CC - Schott Center unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Santa Barbara City College - Schott Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "YJ006446"
+    },
+    {
+        "issue": "NOC-629787",
+        "start": "2020-09-03 01:36:00",
+        "end": "2020-09-03 01:38:00",
+        "scope": "Victor Valley - SCLA School of Aviation Technology down.",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "80287024"
+    },
+    {
+        "issue": "NOC-629504",
+        "start": "2020-09-02 03:12:00",
+        "end": "2020-09-02 23:30:00",
+        "scope": "Equipment failure at UC Berkeley",
+        "diversity": [
+            "University of California, Berkeley",
+            "University of California, Office of the President - UC Berkeley"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629677",
+        "start": "2020-09-02 09:22:00",
+        "end": "2020-09-02 18:57:00",
+        "scope": "Santa Rosa JC's circuit to San Francisco is unstable.",
+        "diversity": [
+            "Santa Rosa Junior College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": "286778661 (GCSC)"
+    },
+    {
+        "issue": "NOC-629655",
+        "start": "2020-09-02 04:04:00",
+        "end": "2020-09-02 07:08:00",
+        "scope": "Napa COE is up.",
+        "diversity": [
+            "Napa Valley USD"
+        ],
+        "connectivity": [
+            "Napa COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-629248",
+        "start": "2020-08-27 18:34:00",
+        "end": "2020-08-30 09:53:00",
+        "scope": "Multiple BGP peers instability in Triangle Court hub router.",
+        "diversity": [
+            "California Maritime Academy",
+            "CSU Stanislaus",
+            "Santa Clara COE",
+            "Stanford University - HPR",
+            "University of California, Merced - HPR",
+            "University of California, San Francisco - HPR"
+        ],
+        "connectivity": [
+            "Jackson Labs - DC",
+            "UC Davis Heath System - HPR"
+        ],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null
+    }
+]

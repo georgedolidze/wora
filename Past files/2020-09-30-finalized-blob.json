@@ -1,0 +1,477 @@
+[
+    {
+        "issue": "NOC-631555",
+        "start": "2020-09-27 22:50:00",
+        "end": "2020-09-29 15:50:00",
+        "scope": "St. Helena Public Library down.",
+        "diversity": [],
+        "connectivity": [
+            "St. Helena Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631647",
+        "start": "2020-09-29 08:00:00",
+        "end": "2020-09-29 08:02:00",
+        "scope": "Multiple Spectrum circuits bounced in Southern California.",
+        "diversity": [
+            "Citrus CCD",
+            "Copper Mountain CCD",
+            "Del Norte COE",
+            "Mt. San Antonio CCD",
+            "Pepperdine University"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "EIT80319712",
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631641",
+        "start": "2020-09-29 01:56:00",
+        "end": "2020-09-29 02:51:00",
+        "scope": "UCANR Desert REC is unavailable",
+        "diversity": [],
+        "connectivity": [
+            "UC Agricultural and Natural Resources - Desert"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631598",
+        "start": "2020-09-28 11:56:00",
+        "end": "2020-09-28 16:52:00",
+        "scope": "Multiple circuits are down in the Bay Area",
+        "diversity": [
+            "Humboldt COE",
+            "Humboldt State University",
+            "Northern Humboldt USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "FE144414",
+        "category": "Multi-site",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631547",
+        "start": "2020-09-27 18:51:00",
+        "end": "2020-09-28 15:25:00",
+        "scope": "Router Down",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Georgetown Branch"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631543",
+        "start": "2020-09-27 18:18:00",
+        "end": "2020-09-28 16:25:00",
+        "scope": "Router is down",
+        "diversity": [
+            "Nevada Joint Union HSD",
+            "Nevada Joint Union HSD at Bear River HS"
+        ],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631541",
+        "start": "2020-09-27 18:36:00",
+        "end": "2020-09-28 16:00:00",
+        "scope": "Router is down",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Pollock Pines Branch"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631608",
+        "start": "2020-09-28 14:49:00",
+        "end": "2020-09-28 15:02:00",
+        "scope": "Pepperdine's 10G circuit to LAX was unstable.",
+        "diversity": [],
+        "connectivity": [
+            "Pepperdine University"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80318856",
+        "category": "Other",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631528",
+        "start": "2020-09-27 15:45:00",
+        "end": "2020-09-27 21:53:00",
+        "scope": "Plumas COE down",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Plumas COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631584",
+        "start": "2020-09-28 10:19:00",
+        "end": "2020-09-28 10:20:00",
+        "scope": "Multiple circuits bounced in the NorCal region.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences",
+            "Shasta CCD Trinity Center",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "AT&T: 288917434 288917199, Frontier: 2856266",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631566",
+        "start": "2020-09-28 04:10:00",
+        "end": "2020-09-28 06:02:00",
+        "scope": "College of the Alameda Aviation Center circuit to Sunnyvale was down.",
+        "diversity": [
+            "College of the Alameda Aviation Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "288892876",
+        "category": "CC",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631549",
+        "start": "2020-09-27 21:19:00",
+        "end": "2020-09-28 06:02:00",
+        "scope": "10GE Connections are down",
+        "diversity": [],
+        "connectivity": [
+            "Merritt College"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "FE144353",
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631540",
+        "start": "2020-09-27 15:45:00",
+        "end": "2020-09-27 20:51:00",
+        "scope": "Feather River College is down",
+        "diversity": [],
+        "connectivity": [
+            "Feather River College"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631552",
+        "start": "2020-09-27 21:38:00",
+        "end": "2020-09-27 21:44:00",
+        "scope": "Arcadia Public Library down.",
+        "diversity": [],
+        "connectivity": [
+            "Arcadia Public Library"
+        ],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "CPE reset",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631544",
+        "start": "2020-09-27 19:02:00",
+        "end": "2020-09-27 19:05:00",
+        "scope": "Brief Circuit Outage",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "288869328",
+        "category": "Library",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631528",
+        "start": "2020-09-27 07:57:00",
+        "end": "2020-09-27 09:35:00",
+        "scope": "Plumas COE down",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Plumas COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631527",
+        "start": "2020-09-27 07:53:00",
+        "end": "2020-09-27 08:28:00",
+        "scope": "Alhambra Public Library Outage",
+        "diversity": [],
+        "connectivity": [
+            "Alhambra Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "288857015 -288857522 ",
+        "category": "Library",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631495",
+        "start": "2020-09-26 12:22:00",
+        "end": "2020-09-26 12:24:00",
+        "scope": "Multiple circuits in the SoCal Region experienced a moment of instability.",
+        "diversity": [
+            "LA Southwest College"
+        ],
+        "connectivity": [
+            "Los Angeles County Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "other",
+        "rfo_description": "LoS from customer side"
+    },
+    {
+        "issue": "NOC-631430",
+        "start": "2020-09-25 14:07:00",
+        "end": "2020-09-25 19:53:00",
+        "scope": "CSU Chancellor's Office circuit to Tustin is down.",
+        "diversity": [
+            "CSU Chancellor's Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80316460",
+        "category": "CSU",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631373",
+        "start": "2020-09-25 01:17:00",
+        "end": "2020-09-25 09:04:00",
+        "scope": "Victor Valley CCD - School of Aviation Technology stable",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT- 80315055",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": "Bounces happened for 40min, outage was dispatched and instusive tested unnecessarily. Original RFO unknown"
+    },
+    {
+        "issue": "NOC-631393",
+        "start": "2020-09-25 08:51:00",
+        "end": "2020-09-25 08:52:00",
+        "scope": "Multiple Frontier circuits bounced.",
+        "diversity": [
+            "Alpine COE",
+            "Del Norte COE",
+            "Shasta CCD Trinity Center",
+            "Siskiyou COE",
+            "Yuba CCD Colusa County Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2855315 2855317 2855386 2855390 2855392",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631344",
+        "start": "2020-09-24 09:09:00",
+        "end": "2020-09-24 15:47:00",
+        "scope": "Multiple circuits down in the Sacramento region.",
+        "diversity": [
+            "Alameda COE",
+            "Contra Costa COE",
+            "Woodland CC",
+            "Yuba CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "WaveBroadband"
+        ],
+        "telco_ticket_id": "CS0006044",
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631272",
+        "start": "2020-09-23 21:20:00",
+        "end": "2020-09-24 10:47:00",
+        "scope": "Santa Fe Springs City Library William C Gordon Learning Center is Up.",
+        "diversity": [],
+        "connectivity": [
+            "Santa Fe Springs City Library William C Gordon Learning Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631301",
+        "start": "2020-09-23 17:57:00",
+        "end": "2020-09-23 18:11:00",
+        "scope": "Santa Barbara City College CPE reload.",
+        "diversity": [
+            "Santa Barbara CC",
+            "Santa Barbara City College - Schott Center",
+            "Santa Barbara City College - Wake Center",
+            "Santa Barbara City College Cosmetology Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "CENIC Internal"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "CPE reset",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-631231",
+        "start": "2020-09-23 00:56:00",
+        "end": "2020-09-23 05:14:00",
+        "scope": "Multiple Comcast circuits down.",
+        "diversity": [
+            "Mendocino College"
+        ],
+        "connectivity": [
+            "Pleasanton Public Library"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI045664062 SI045664143",
+        "category": "Multi-site",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    }
+]

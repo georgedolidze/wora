@@ -1,0 +1,215 @@
+Total: 18
+
+1. Backbone: 0
+2. Multi-site: 5
+3. UC: 3
+4. CSU: 5
+5. CC: 2
+6. K12/COE: 2
+7. Library: 1
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-631156
+    SCOPE: Multiple circuits are down in Northern California.
+    START: 2020-09-22 00:01:00
+    END: 2020-09-22 00:18:00
+    DURATION: 00:17
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Shasta CC - Tehama ;; Shasta CCD Health Sciences ;; Shasta CCD Trinity Center ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: Shasta CC Burney Center ;; Shasta CCD Trinity Center ;; Yuba CCD Colusa County Campus
+    PROVIDER: Frontier
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-631022
+    SCOPE: Multiple Spectrum circuits were down in the SoCal region.
+    START: 2020-09-20 00:02:00
+    END: 2020-09-20 09:37:00
+    DURATION: 09:35
+    DIVERSITY: Copper Mountain CCD
+    CONNECTIVITY: Rancho Mirage Public Library ;; Upland Public Library
+    PROVIDER: Spectrum
+    REASON: [fiber cut] 
+
+ISSUE: NOC-630873
+    SCOPE: Services restored
+    START: 2020-09-18 03:04:00
+    END: 2020-09-19 02:15:00
+    DURATION: 23:11
+    DIVERSITY: Antelope Valley College ;; Antelope Valley College Palmdale Education Center ;; Chaffey Joint UHSD ;; CSU Long Beach ;; San Bernardino CSS
+    CONNECTIVITY: Long Beach Public Library ;; Signal Hill Public Library
+    PROVIDER: Spectrum
+    REASON: [fiber cut] 
+
+ISSUE: NOC-630651
+    SCOPE: Multiple AT&T circuits down in the Central Valley.
+    START: 2020-09-15 08:09:00
+    END: 2020-09-17 14:49:00
+    DURATION: 54:40
+    DIVERSITY: Coalinga District Library ;; Fresno COE ;; Kern County Library ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [fiber cut] 
+
+ISSUE: NOC-630712
+    SCOPE: Multiple AT&T circuits down.
+    START: 2020-09-16 01:34:00
+    END: 2020-09-16 02:04:00
+    DURATION: 00:30
+    DIVERSITY: CSU Northridge ;; Moorpark College ;; Ventura College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+
+3. UC
+
+ISSUE: NOC-631210
+    SCOPE: UCOP's circuit to Oakland is unstable.
+    START: 2020-09-22 17:37:00
+    END: 2020-09-22 17:42:00
+    DURATION: 00:05
+    DIVERSITY: University of California, Office of the President
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-631177
+    SCOPE: UC Health System 100G from Triangle Court to Quincy brief bounce
+    START: 2020-09-22 08:58:00
+    END: 2020-09-22 08:59:00
+    DURATION: 00:01
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [other] Loss of signal at telco demarc, fault unknown
+
+ISSUE: NOC-630738
+    SCOPE: UC Health System 100G from Triangle Court to Quincy was down
+    START: 2020-09-16 11:49:00
+    END: 2020-09-16 12:23:00
+    DURATION: 00:34
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [provider maintenance] 
+
+
+4. CSU
+
+ISSUE: NOC-631145
+    SCOPE: CSU Channel Islands 10G circuit to Tustin outage.
+    START: 2020-09-22 21:48:00
+    END: 2020-09-22 22:03:00
+    DURATION: 00:15
+    DIVERSITY: CSU Channel Islands
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-631145
+    SCOPE: CSU Channel Islands 10G circuit to Tustin outage.
+    START: 2020-09-21 21:50:00
+    END: 2020-09-21 22:05:00
+    DURATION: 00:15
+    DIVERSITY: CSU Channel Islands
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-630958
+    SCOPE: 10GE to the Tustin hub is up.
+    START: 2020-09-18 18:28:00
+    END: 2020-09-18 20:20:00
+    DURATION: 01:52
+    DIVERSITY: CSU Chancellor's Office
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [fiber damage] 
+
+ISSUE: NOC-630799
+    SCOPE: CSUN Circuit to Los Angeles Hub is unstable.
+    START: 2020-09-17 01:53:00
+    END: 2020-09-17 02:12:00
+    DURATION: 00:19
+    DIVERSITY: CSU Northridge
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] RFO pending
+
+ISSUE: NOC-630689
+    SCOPE: SDSU experienced brief instability.
+    START: 2020-09-16 14:18:00
+    END: 2020-09-16 14:27:00
+    DURATION: 00:09
+    DIVERSITY: San Diego State University
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+5. CC
+
+ISSUE: NOC-630644
+    SCOPE: Palomar Rancho Santa Fe Circuit to North Education Center was Down
+    START: 2020-09-15 06:21:00
+    END: 2020-09-16 08:49:00
+    DURATION: 26:28
+    DIVERSITY: Palomar College Escondido Center ;; Palomar College North Education Center ;; Palomar Rancho Santa Fe CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [other] config issue
+
+ISSUE: NOC-630705
+    SCOPE: Rio Hondo CC Fire Academy 1GE circuit to Tustin hubsite is down.
+    START: 2020-09-16 00:33:00
+    END: 2020-09-16 02:00:00
+    DURATION: 01:27
+    DIVERSITY: Rio Hondo CC ;; Rio Hondo CC - Fire Academy ;; Rio Hondo CC - Pico Rivera Education Center ;; Rio Hondo CC - South Whittier Education Center ;; Rio Hondo CCD El Monte Education Center
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [provider maintenance] 
+
+
+6. K12/COE
+
+ISSUE: NOC-630904
+    SCOPE: The circuits between Riverside COE and Riverside-Indio COE are up.
+    START: 2020-09-18 10:27:00
+    END: 2020-09-18 21:19:00
+    DURATION: 10:52
+    DIVERSITY: Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [fiber damage] 
+
+ISSUE: NOC-630732
+    SCOPE: Several circuits to Sutter COE are up.
+    START: 2020-09-16 09:19:00
+    END: 2020-09-16 10:23:00
+    DURATION: 01:04
+    DIVERSITY: Sutter COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-630389
+    SCOPE: St. Helena Public Library circuit to San Francisco was down
+    START: 2020-09-16 13:12:00
+    END: 2020-09-16 14:04:00
+    DURATION: 00:52
+    DIVERSITY: 
+    CONNECTIVITY: St. Helena Public Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+8. Other
+
+

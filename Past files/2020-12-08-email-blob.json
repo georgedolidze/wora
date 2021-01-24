@@ -1,0 +1,295 @@
+[
+    {
+        "issue": "NOC-636961",
+        "start": "2020-12-07 06:37:00",
+        "end": "2020-12-07 08:12:00",
+        "scope": "El Dorado County Library - Pollock Pines Library Branch restored",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Pollock Pines Branch"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636990",
+        "start": "2020-12-07 12:24:00",
+        "end": "2020-12-07 12:45:00",
+        "scope": "Stanislaus County Library connectivity was down.",
+        "diversity": [],
+        "connectivity": [
+            "Stanislaus County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636992",
+        "start": "2020-12-07 12:32:00",
+        "end": "2020-12-07 12:35:00",
+        "scope": "Multiple connections in Northern California bounced.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "TTN-0004637073"
+    },
+    {
+        "issue": "NOC-636948",
+        "start": "2020-12-07 00:36:00",
+        "end": "2020-12-07 00:49:00",
+        "scope": "San Benito County Free Library down.",
+        "diversity": [],
+        "connectivity": [
+            "San Benito County Free Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636939",
+        "start": "2020-12-06 23:32:00",
+        "end": "2020-12-07 04:37:00",
+        "scope": "Multiple circuits in the Central Valley region are down.",
+        "diversity": [
+            "Amador COE",
+            "Calaveras COE",
+            "Columbia CC",
+            "Colusa COE",
+            "CSU Stanislaus",
+            "CSU Stanislaus - Stockton Center",
+            "El Dorado COE",
+            "Nevada Joint Union HSD",
+            "Placer COE",
+            "Sierra COE - WEST",
+            "Sutter COE",
+            "Tuolumne COE",
+            "Woodland CC",
+            "Yosemite CCD Office",
+            "Yuba CC",
+            "Yuba COE"
+        ],
+        "connectivity": [
+            "El Dorado County Library",
+            "Stanislaus County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636888",
+        "start": "2020-12-05 23:00:00",
+        "end": "2020-12-06 10:30:00",
+        "scope": "College of the Alameda Science Annex Center stable",
+        "diversity": [
+            "College of the Alameda Aviation Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": "295230049"
+    },
+    {
+        "issue": "NOC-636889",
+        "start": "2020-12-05 17:15:00",
+        "end": "2020-12-06 10:30:00",
+        "scope": "College of the Alameda Science Annex Center stable",
+        "diversity": [
+            "College of the Alameda Science Annex Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295222493"
+    },
+    {
+        "issue": "NOC-636839",
+        "start": "2020-12-05 10:00:00",
+        "end": "2020-12-06 21:48:00",
+        "scope": "Bishop USD's circuit to Los Angeles restored",
+        "diversity": [
+            "Bishop Union Elementary - Inyo County",
+            "Mono COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636877",
+        "start": "2020-12-05 13:43:00",
+        "end": "2020-12-05 15:51:00",
+        "scope": "UCANR Desert REC is unavailable",
+        "diversity": [],
+        "connectivity": [
+            "UC Agricultural and Natural Resources - Desert"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295219289"
+    },
+    {
+        "issue": "NOC-636868",
+        "start": "2020-12-05 05:35:00",
+        "end": "2020-12-05 05:40:00",
+        "scope": "Sierra COE West is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636612",
+        "start": "2020-12-02 11:20:00",
+        "end": "2020-12-04 00:39:00",
+        "scope": "CMS Santa Clara circuit to Los Angeles is down.",
+        "diversity": [
+            "CMS - Santa Clara"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "TTN-0004626377 "
+    },
+    {
+        "issue": "NOC-636810",
+        "start": "2020-12-04 06:09:00",
+        "end": "2020-12-04 06:15:00",
+        "scope": "Sierra COE West is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "295183733"
+    },
+    {
+        "issue": "NOC-636769",
+        "start": "2020-12-03 22:36:00",
+        "end": "2020-12-03 23:20:00",
+        "scope": "LA USD - Van Nuys Circuit to Tustin hub is unstable.",
+        "diversity": [],
+        "connectivity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "CCF20353738"
+    },
+    {
+        "issue": "NOC-636612",
+        "start": "2020-12-02 11:20:00",
+        "end": "2020-12-04 04:00:00",
+        "scope": "CMS Santa Clara circuit to Los Angeles is down.",
+        "diversity": [
+            "CMS - Santa Clara"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "TTN-0004626377 "
+    },
+    {
+        "issue": "NOC-636555",
+        "start": "2020-12-01 19:11:00",
+        "end": "2020-12-03 01:00:00",
+        "scope": "Route 87 between UC Irvine and Los Angeles is unstable.",
+        "diversity": [
+            "University of California, Irvine - DC/HPR"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636645",
+        "start": "2020-12-02 20:34:00",
+        "end": "2020-12-03 00:15:00",
+        "scope": "The UCSF Health System Tertiary 10G to Quincy is Down",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "0004627470"
+    },
+    {
+        "issue": "NOC-636751",
+        "start": "2020-12-03 15:26:00",
+        "end": "2020-12-03 16:06:00",
+        "scope": "Canyon Country Education Center is down.",
+        "diversity": [
+            "College of the Canyons"
+        ],
+        "connectivity": [
+            "Canyon Country Education Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636739",
+        "start": "2020-12-03 12:56:00",
+        "end": "2020-12-03 12:57:00",
+        "scope": "The 100G between Contra Costa COE and Alameda COE experienced brief instability.",
+        "diversity": [
+            "Alameda COE",
+            "Contra Costa COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI046869935"
+    },
+    {
+        "issue": "NOC-636716",
+        "start": "2020-12-03 10:09:00",
+        "end": "2020-12-03 12:50:00",
+        "scope": "Stanislaus COE 10G to Fergus is down",
+        "diversity": [
+            "Stanislaus COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636714",
+        "start": "2020-12-03 10:04:00",
+        "end": "2020-12-03 10:36:00",
+        "scope": "UCANR Hopland REC is unavailable",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Hopland REC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636721",
+        "start": "2020-12-03 10:37:00",
+        "end": "2020-12-03 10:45:00",
+        "scope": "Shasta Trinity CC is unavailable",
+        "diversity": [
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences"
+        ],
+        "connectivity": [
+            "Shasta CCD Trinity Center"
+        ],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2883528, 2883423"
+    }
+]

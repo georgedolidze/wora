@@ -1,0 +1,463 @@
+[
+    {
+        "issue": "NOC-625204",
+        "start": "2020-07-07 10:57:00",
+        "end": "2020-07-07 14:26:00",
+        "scope": "Butte Glenn College is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Butte Glenn CCD"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "YJ006375 YJ006376",
+        "category": "CC",
+        "rfo_category": "wildfire",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-625275",
+        "start": "2020-07-07 04:10:00",
+        "end": "2020-07-07 04:48:00",
+        "scope": "CENIC NOC VoIP Service down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Other",
+        "rfo_category": "unknown",
+        "rfo_description": "Mitel issue affecting CENIC voip"
+    },
+    {
+        "issue": "NOC-625275",
+        "start": "2020-07-07 04:10:00",
+        "end": "2020-07-07 04:48:00",
+        "scope": "CENIC NOC VoIP Services down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Other",
+        "rfo_category": "unknown",
+        "rfo_description": "Duplicate"
+    },
+    {
+        "issue": "NOC-625207",
+        "start": "2020-07-06 10:42:00",
+        "end": "2020-07-06 16:11:00",
+        "scope": "Redondo Beach Public Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Redondo Beach Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT80210904",
+        "category": "Library",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO never provided by spectrum"
+    },
+    {
+        "issue": "NOC-625208",
+        "start": "2020-07-06 10:46:00",
+        "end": "2020-07-06 14:10:00",
+        "scope": "Multiple CVIN circuits down in the Central Valley.",
+        "diversity": [
+            "Coalinga District Library",
+            "CSU Bakersfield",
+            "Earlimart School District",
+            "Fresno City College",
+            "Kern CCD",
+            "Kern COE",
+            "Kern County Library",
+            "Porterville Public Library",
+            "San Luis Obispo COE",
+            "State Center CCD (Fresno)",
+            "Taft College",
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-625248",
+        "start": "2020-07-06 19:19:00",
+        "end": "2020-07-06 19:21:00",
+        "scope": "Los Angeles USD- Van Nuys 100GE circuit to Tustin bounced.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF-20309398",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": "Generic DF RFO"
+    },
+    {
+        "issue": "NOC-625184",
+        "start": "2020-07-05 20:47:00",
+        "end": "2020-07-05 23:47:00",
+        "scope": "Multiple Circuits Down in the Central Valley",
+        "diversity": [
+            "Amador COE",
+            "Calaveras COE",
+            "Central Valley Independent Network",
+            "Ceres Unified School District",
+            "Chowchilla USD",
+            "Colusa COE",
+            "CSU Fresno",
+            "CSU Stanislaus",
+            "El Dorado COE",
+            "Fresno COE",
+            "Kern COE",
+            "Madera COE",
+            "Nevada Joint Union HSD",
+            "Placer COE",
+            "San Joaquin COE",
+            "San Joaquin Delta College",
+            "San Luis Obispo COE",
+            "Sierra COE - WEST",
+            "Stanislaus COE",
+            "Sutter COE",
+            "Tuolumne COE",
+            "Woodland CC",
+            "Yosemite CCD Office",
+            "Yuba CC",
+            "Yuba COE",
+            "Yuba City USD"
+        ],
+        "connectivity": [
+            "Amador County Library",
+            "Calaveras County Library",
+            "Tuolumne County Library"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO not provided"
+    },
+    {
+        "issue": "NOC-625153",
+        "start": "2020-07-05 15:17:00",
+        "end": "2020-07-06 01:32:00",
+        "scope": "Multiple circuits are down in Central Valley.",
+        "diversity": [
+            "CSU Stanislaus - Stockton Center",
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Madera COE",
+            "Madera County Library",
+            "Mariposa COE",
+            "Mariposa County Library",
+            "Merced County Library",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO not provided"
+    },
+    {
+        "issue": "NOC-625191",
+        "start": "2020-07-06 00:21:00",
+        "end": "2020-07-06 00:51:00",
+        "scope": "UCSF 10G XD circuit to Los Angeles went down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "CENIC Internal"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "other",
+        "rfo_description": "Tech pulled wrong fiber during CENIC maintenance"
+    },
+    {
+        "issue": "NOC-625151",
+        "start": "2020-07-05 11:53:00",
+        "end": "2020-07-05 11:54:00",
+        "scope": "Multiple circuits brief bounce in Bay area.",
+        "diversity": [
+            "San Jose Public Library"
+        ],
+        "connectivity": [
+            "City of Alameda",
+            "UC Berkeley International House"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-625089",
+        "start": "2020-07-03 14:33:00",
+        "end": "2020-07-03 14:40:00",
+        "scope": "Central Valley Outage",
+        "diversity": [
+            "Calaveras COE",
+            "Columbia CC",
+            "Colusa COE",
+            "CSU Stanislaus - Stockton Center",
+            "El Dorado COE",
+            "Placer COE",
+            "Sutter COE",
+            "Tuolumne COE",
+            "Woodland CC",
+            "Yosemite CCD Office",
+            "Yuba CC",
+            "Yuba COE"
+        ],
+        "connectivity": [
+            "Stanislaus County Library"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO not provided"
+    },
+    {
+        "issue": "NOC-625063",
+        "start": "2020-07-02 19:20:00",
+        "end": "2020-07-03 00:10:00",
+        "scope": "Multiple circuits in the NorCal region are down.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": "Not 100% sure on RFO, equipment issues"
+    },
+    {
+        "issue": "NOC-624997",
+        "start": "2020-07-01 21:09:00",
+        "end": "2020-07-01 23:00:00",
+        "scope": "UC Irvine's Optical Route 95 to Los Angeles outage.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20308606",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": "Generic DF RFO"
+    },
+    {
+        "issue": "NOC-624996",
+        "start": "2020-07-01 21:44:00",
+        "end": "2020-07-01 23:00:00",
+        "scope": "The dark fiber connection from LAUSD to Los Angeles Hub is unstable.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": "No RFO provided"
+    },
+    {
+        "issue": "NOC-624997",
+        "start": "2020-07-01 21:09:00",
+        "end": "2020-07-01 21:10:00",
+        "scope": "Optical Route 95 outage.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20308606",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624992",
+        "start": "2020-07-01 20:24:00",
+        "end": "2020-07-01 20:25:00",
+        "scope": "OCDE's 100G circuit to Los Angeles bounced briefly.",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF-20308584",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624317",
+        "start": "2020-06-29 02:46:00",
+        "end": "2020-06-29 05:02:00",
+        "scope": "Dark fiber unstable.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco",
+            "SCE (So Cal Edison)"
+        ],
+        "telco_ticket_id": "2869830, CCF20307858",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": "No RFO from CCF"
+    },
+    {
+        "issue": "NOC-624973",
+        "start": "2020-07-01 14:21:00",
+        "end": "2020-07-01 14:53:00",
+        "scope": "Both circuits to Loyalton HS - Sierra COE East are currently up.",
+        "diversity": [
+            "Lassen COE",
+            "Modoc COE",
+            "Plumas COE"
+        ],
+        "connectivity": [
+            "Loyalton HS - Sierra COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624803",
+        "start": "2020-06-29 19:49:00",
+        "end": "2020-07-01 05:46:00",
+        "scope": "CSU Northridge 100G circuit to Los Angeles was unstable.",
+        "diversity": [
+            "CSU Northridge"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20308082",
+        "category": "CSU",
+        "rfo_category": "unknown",
+        "rfo_description": "Circuit restored after OTDR testing, exact RFO unknown"
+    },
+    {
+        "issue": "NOC-624924",
+        "start": "2020-07-01 06:00:00",
+        "end": "2020-07-01 13:00:00",
+        "scope": "UCB 10G circuit to San Diego is down.",
+        "diversity": [
+            "University of California, Berkeley"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "CENIC Internal"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624894",
+        "start": "2020-06-30 16:36:00",
+        "end": "2020-06-30 18:07:00",
+        "scope": "Loss of connectivity to Santa Clarita Public Library.",
+        "diversity": [],
+        "connectivity": [
+            "Santa Clarita Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624936",
+        "start": "2020-07-01 05:24:00",
+        "end": "2020-07-01 05:39:00",
+        "scope": "Router reboot.",
+        "diversity": [
+            "Sutter COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624912",
+        "start": "2020-06-30 21:05:00",
+        "end": "2020-06-30 21:08:00",
+        "scope": "Sierra COE loss of connectivity.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    }
+]

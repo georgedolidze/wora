@@ -1,0 +1,254 @@
+Total: 23
+
+1. Backbone: 0
+2. Multi-site: 7
+3. UC: 4
+4. CSU: 1
+5. CC: 1
+6. K12/COE: 6
+7. Library: 2
+8. Other: 1
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-625208
+    SCOPE: Multiple CVIN circuits down in the Central Valley.
+    START: 2020-07-06 10:46:00
+    END: 2020-07-06 14:10:00
+    DURATION: 03:24
+    DIVERSITY: Coalinga District Library ;; CSU Bakersfield ;; Earlimart School District ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Porterville Public Library ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-625184
+    SCOPE: Multiple Circuits Down in the Central Valley
+    START: 2020-07-05 20:47:00
+    END: 2020-07-05 23:47:00
+    DURATION: 03:00
+    DIVERSITY: Amador COE ;; Calaveras COE ;; Central Valley Independent Network ;; Ceres Unified School District ;; Chowchilla USD ;; Colusa COE ;; CSU Fresno ;; CSU Stanislaus ;; El Dorado COE ;; Fresno COE ;; Kern COE ;; Madera COE ;; Nevada Joint Union HSD ;; Placer COE ;; San Joaquin COE ;; San Joaquin Delta College ;; San Luis Obispo COE ;; Sierra COE - WEST ;; Stanislaus COE ;; Sutter COE ;; Tuolumne COE ;; Woodland CC ;; Yosemite CCD Office ;; Yuba CC ;; Yuba COE ;; Yuba City USD
+    CONNECTIVITY: Amador County Library ;; Calaveras County Library ;; Tuolumne County Library
+    PROVIDER: Vast
+    REASON: [unknown] RFO not provided
+
+ISSUE: NOC-625153
+    SCOPE: Multiple circuits are down in Central Valley.
+    START: 2020-07-05 15:17:00
+    END: 2020-07-06 01:32:00
+    DURATION: 10:15
+    DIVERSITY: CSU Stanislaus - Stockton Center ;; Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Madera COE ;; Madera County Library ;; Mariposa COE ;; Mariposa County Library ;; Merced County Library ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] RFO not provided
+
+ISSUE: NOC-625151
+    SCOPE: Multiple circuits brief bounce in Bay area.
+    START: 2020-07-05 11:53:00
+    END: 2020-07-05 11:54:00
+    DURATION: 00:01
+    DIVERSITY: San Jose Public Library
+    CONNECTIVITY: City of Alameda ;; UC Berkeley International House
+    PROVIDER: Comcast
+    REASON: [fiber cut] 
+
+ISSUE: NOC-625089
+    SCOPE: Central Valley Outage
+    START: 2020-07-03 14:33:00
+    END: 2020-07-03 14:40:00
+    DURATION: 00:07
+    DIVERSITY: Calaveras COE ;; Columbia CC ;; Colusa COE ;; CSU Stanislaus - Stockton Center ;; El Dorado COE ;; Placer COE ;; Sutter COE ;; Tuolumne COE ;; Woodland CC ;; Yosemite CCD Office ;; Yuba CC ;; Yuba COE
+    CONNECTIVITY: Stanislaus County Library
+    PROVIDER: Vast
+    REASON: [unknown] RFO not provided
+
+ISSUE: NOC-625063
+    SCOPE: Multiple circuits in the NorCal region are down.
+    START: 2020-07-02 19:20:00
+    END: 2020-07-03 00:10:00
+    DURATION: 04:50
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [faulty line card] Not 100% sure on RFO, equipment issues
+
+ISSUE: NOC-624973
+    SCOPE: Both circuits to Loyalton HS - Sierra COE East are currently up.
+    START: 2020-07-01 14:21:00
+    END: 2020-07-01 14:53:00
+    DURATION: 00:32
+    DIVERSITY: Lassen COE ;; Modoc COE ;; Plumas COE
+    CONNECTIVITY: Loyalton HS - Sierra COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+3. UC
+
+ISSUE: NOC-625191
+    SCOPE: UCSF 10G XD circuit to Los Angeles went down.
+    START: 2020-07-06 00:21:00
+    END: 2020-07-06 00:51:00
+    DURATION: 00:30
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [other] Tech pulled wrong fiber during CENIC maintenance
+
+ISSUE: NOC-624997
+    SCOPE: UC Irvine's Optical Route 95 to Los Angeles outage.
+    START: 2020-07-01 21:09:00
+    END: 2020-07-01 23:00:00
+    DURATION: 01:51
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Generic DF RFO
+
+ISSUE: NOC-624997
+    SCOPE: Optical Route 95 outage.
+    START: 2020-07-01 21:09:00
+    END: 2020-07-01 21:10:00
+    DURATION: 00:01
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-624924
+    SCOPE: UCB 10G circuit to San Diego is down.
+    START: 2020-07-01 06:00:00
+    END: 2020-07-01 13:00:00
+    DURATION: 07:00
+    DIVERSITY: University of California, Berkeley
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [fiber damage] 
+
+
+4. CSU
+
+ISSUE: NOC-624803
+    SCOPE: CSU Northridge 100G circuit to Los Angeles was unstable.
+    START: 2020-06-29 19:49:00
+    END: 2020-07-01 05:46:00
+    DURATION: 33:57
+    DIVERSITY: CSU Northridge
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Circuit restored after OTDR testing, exact RFO unknown
+
+
+5. CC
+
+ISSUE: NOC-625204
+    SCOPE: Butte Glenn College is unreachable.
+    START: 2020-07-07 10:57:00
+    END: 2020-07-07 14:26:00
+    DURATION: 03:29
+    DIVERSITY: 
+    CONNECTIVITY: Butte Glenn CCD
+    PROVIDER: Environmental
+    REASON: [wildfire] 
+
+
+6. K12/COE
+
+ISSUE: NOC-625248
+    SCOPE: Los Angeles USD- Van Nuys 100GE circuit to Tustin bounced.
+    START: 2020-07-06 19:19:00
+    END: 2020-07-06 19:21:00
+    DURATION: 00:02
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Generic DF RFO
+
+ISSUE: NOC-624996
+    SCOPE: The dark fiber connection from LAUSD to Los Angeles Hub is unstable.
+    START: 2020-07-01 21:44:00
+    END: 2020-07-01 23:00:00
+    DURATION: 01:16
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] No RFO provided
+
+ISSUE: NOC-624992
+    SCOPE: OCDE's 100G circuit to Los Angeles bounced briefly.
+    START: 2020-07-01 20:24:00
+    END: 2020-07-01 20:25:00
+    DURATION: 00:01
+    DIVERSITY: Orange County Department of Education
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-624317
+    SCOPE: Dark fiber unstable.
+    START: 2020-06-29 02:46:00
+    END: 2020-06-29 05:02:00
+    DURATION: 02:16
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: 
+    PROVIDER: Cisco ;; SCE (So Cal Edison)
+    REASON: [unknown] No RFO from CCF
+
+ISSUE: NOC-624936
+    SCOPE: Router reboot.
+    START: 2020-07-01 05:24:00
+    END: 2020-07-01 05:39:00
+    DURATION: 00:15
+    DIVERSITY: Sutter COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-624912
+    SCOPE: Sierra COE loss of connectivity.
+    START: 2020-06-30 21:05:00
+    END: 2020-06-30 21:08:00
+    DURATION: 00:03
+    DIVERSITY: 
+    CONNECTIVITY: Sierra COE - WEST
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-625207
+    SCOPE: Redondo Beach Public Library is down.
+    START: 2020-07-06 10:42:00
+    END: 2020-07-06 16:11:00
+    DURATION: 05:29
+    DIVERSITY: 
+    CONNECTIVITY: Redondo Beach Public Library
+    PROVIDER: Spectrum
+    REASON: [unknown] RFO never provided by spectrum
+
+ISSUE: NOC-624894
+    SCOPE: Loss of connectivity to Santa Clarita Public Library.
+    START: 2020-06-30 16:36:00
+    END: 2020-06-30 18:07:00
+    DURATION: 01:31
+    DIVERSITY: 
+    CONNECTIVITY: Santa Clarita Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+ISSUE: NOC-625275
+    SCOPE: CENIC NOC VoIP Service down.
+    START: 2020-07-07 04:10:00
+    END: 2020-07-07 04:48:00
+    DURATION: 00:38
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [unknown] Mitel issue affecting CENIC voip
+

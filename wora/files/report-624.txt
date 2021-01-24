@@ -1,0 +1,195 @@
+Total: 16
+
+1. Backbone: 0
+2. Multi-site: 5
+3. UC: 1
+4. CSU: 1
+5. CC: 3
+6. K12/COE: 4
+7. Library: 0
+8. Other: 2
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-624192
+    SCOPE: City of SF fiber outage
+    START: 2020-06-22 09:38:00
+    END: 2020-06-23 00:02:00
+    DURATION: 14:24
+    DIVERSITY: University of California, San Francisco
+    CONNECTIVITY: UCSF Metro Area Network
+    PROVIDER: Environmental
+    REASON: [fiber cut] City of SF fiber, not a listred telco
+
+ISSUE: NOC-624152
+    SCOPE: Multiple CVIN circuits bounced in Central Valley
+    START: 2020-06-21 09:23:00
+    END: 2020-06-21 09:27:00
+    DURATION: 00:04
+    DIVERSITY: Coalinga District Library ;; College of the Sequoias - Hanford Campus ;; College of the Sequoias - Tulare Campus ;; College of the Sequoias CCD ;; Del Norte COE ;; Fresno County Library ;; Kern County Library ;; Kings County Library ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Madera County Library ;; Mariposa County Library ;; Merced County Library ;; Modoc COE ;; Plumas COE ;; Porterville Public Library ;; Siskiyou COE ;; Tulare County Library ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-624052
+    SCOPE: CENIC Coastal route maintenance complete
+    START: 2020-06-18 23:00:00
+    END: 2020-06-19 10:15:00
+    DURATION: 11:15
+    DIVERSITY: Cal Poly San Luis Obispo ;; Cal Poly San Luis Obispo - Netlab ;; Naval Postgraduate School in Monterey ;; Openflow ;; Santa Barbara City College - Schott Center ;; Santa Barbara City College - Wake Center ;; Santa Barbara City College Cosmetology Center ;; University of California, Santa Barbara ;; University of California, Santa Barbara HPR ;; University of California, Santa Barbara to NOAA ;; University of California, Santa Cruz ;; University of California, Santa Cruz Enterprise Technology Center ;; University of California, Santa Cruz HPR ;; University of California, Santa Cruz Lick Observatory ;; University of California, Santa Cruz Science DMZ ;; University of California, Santa Cruz University Extension
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [other] Prolonged CENIC circuit migrations
+
+ISSUE: NOC-623698
+    SCOPE: Fiber Outage in the Los Angeles Area
+    START: 2020-06-15 20:55:00
+    END: 2020-06-17 01:45:00
+    DURATION: 28:50
+    DIVERSITY: Los Angeles USD ;; Orange County Department of Education
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [fiber cut] 
+
+ISSUE: NOC-623739
+    SCOPE: Unstable 10G circuits to Tustin.
+    START: 2020-06-17 00:58:00
+    END: 2020-06-17 02:16:00
+    DURATION: 01:18
+    DIVERSITY: LA CCD ;; LA Trade Tech
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+
+3. UC
+
+ISSUE: NOC-624071
+    SCOPE: UCSB 10G to Sunnyvale down.
+    START: 2020-06-19 11:09:00
+    END: 2020-06-19 16:03:00
+    DURATION: 04:54
+    DIVERSITY: University of California, Santa Barbara - DC
+    CONNECTIVITY: 
+    PROVIDER: Cisco
+    REASON: [faulty optic] 
+
+
+4. CSU
+
+ISSUE: NOC-624296
+    SCOPE: CSU Channel Island's circuit was unstable.
+    START: 2020-06-23 10:45:00
+    END: 2020-06-23 10:51:00
+    DURATION: 00:06
+    DIVERSITY: CSU Channel Islands
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+5. CC
+
+ISSUE: NOC-624232
+    SCOPE: Cuesta College North County Campus is down.
+    START: 2020-06-22 16:02:00
+    END: 2020-06-23 08:13:00
+    DURATION: 16:11
+    DIVERSITY: Cuesta College
+    CONNECTIVITY: Cuesta College North County Campus
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-624267
+    SCOPE: Victor Valley - School of Aviation down
+    START: 2020-06-23 02:35:00
+    END: 2020-06-23 02:42:00
+    DURATION: 00:07
+    DIVERSITY: 
+    CONNECTIVITY: Victor Valley CCD - SCLA School of Aviation Technology
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-624171
+    SCOPE: Sierra CCD - Roseville Center down.
+    START: 2020-06-22 00:04:00
+    END: 2020-06-22 00:10:00
+    DURATION: 00:06
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: Sierra CCD - Roseville Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-624175
+    SCOPE: Napa COE down.
+    START: 2020-06-22 05:24:00
+    END: 2020-06-22 08:06:00
+    DURATION: 02:42
+    DIVERSITY: Napa Valley USD
+    CONNECTIVITY: Napa COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-624125
+    SCOPE: Madera COE network restored
+    START: 2020-06-20 03:03:00
+    END: 2020-06-20 06:12:00
+    DURATION: 03:09
+    DIVERSITY: Chowchilla USD
+    CONNECTIVITY: Madera COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-623880
+    SCOPE: Dark fiber circuit is unstable.
+    START: 2020-06-17 13:44:00
+    END: 2020-06-18 03:47:00
+    DURATION: 14:03
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [fiber damage] 
+
+ISSUE: NOC-623873
+    SCOPE: Yuba COE was briefly unavailable.
+    START: 2020-06-17 10:48:00
+    END: 2020-06-17 10:58:00
+    DURATION: 00:10
+    DIVERSITY: 
+    CONNECTIVITY: Yuba COE
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+
+7. Library
+
+
+8. Other
+
+ISSUE: NOC-624144
+    SCOPE: 10GE circuit to Los Angeles is unstable
+    START: 2020-06-20 18:20:00
+    END: 2020-06-20 18:41:00
+    DURATION: 00:21
+    DIVERSITY: 
+    CONNECTIVITY: Pepperdine University Malibu Campus
+    PROVIDER: Spectrum
+    REASON: [faulty line card] 
+
+ISSUE: NOC-623698
+    SCOPE: Fiber Outage in the Los Angeles Area
+    START: 2020-06-15 20:55:00
+    END: 2020-06-17 01:45:00
+    DURATION: 28:50
+    DIVERSITY: Los Angeles USD ;; Orange County Department of Education ;; University of California, Irvine
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Duplicate resolved notice, ignore this entry
+
+

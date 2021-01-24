@@ -1,0 +1,664 @@
+[
+    {
+        "issue": "NOC-624908",
+        "start": "2020-06-30 20:14:00",
+        "end": "2020-06-30 20:28:00",
+        "scope": "Palo Verde College loss of connectivity.",
+        "diversity": [],
+        "connectivity": [
+            "Palo Verde College"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "070102756",
+        "category": "CC",
+        "rfo_category": "other",
+        "rfo_description": "Provider configuration"
+    },
+    {
+        "issue": "NOC-624886",
+        "start": "2020-06-30 14:11:00",
+        "end": "2020-06-30 14:12:00",
+        "scope": "UC San Francisco Health System's 10G circuit to Quincy brief bounce.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "TTN/0004212824 ",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624824",
+        "start": "2020-06-30 02:45:00",
+        "end": "2020-06-30 02:58:00",
+        "scope": "Los Angeles Unified School District - Van Nuys 100G Circuit to Tustin is Unstable",
+        "diversity": [],
+        "connectivity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20308104",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624819",
+        "start": "2020-06-30 00:28:00",
+        "end": "2020-06-30 00:50:00",
+        "scope": "Palomar Rancho Santa Fe CC circuit to San Diego is down.",
+        "diversity": [],
+        "connectivity": [
+            "Palomar Rancho Santa Fe CC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "282092224",
+        "category": "CC",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624829",
+        "start": "2020-06-30 04:21:00",
+        "end": "2020-06-30 04:22:00",
+        "scope": "10G circuit between Getty Institute and the Los Angeles hub site bounced.",
+        "diversity": [
+            "Getty Institute"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF-20308113",
+        "category": "Other",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624645",
+        "start": "2020-06-29 10:51:00",
+        "end": "2020-06-29 23:00:00",
+        "scope": "UCSF Health System circuit is down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "4204734",
+        "category": "UC",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624727",
+        "start": "2020-06-28 21:34:00",
+        "end": "2020-06-28 21:40:00",
+        "scope": "Multiple AT&T Circuits Outage",
+        "diversity": [
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [
+            "Los Rios CCD - Natomas Center",
+            "Los Rios CCD El Dorado Center",
+            "Los Rios CCD Rancho Cordova Ed_Center",
+            "Los Rios CCD West Sacramento Center"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624695",
+        "start": "2020-06-28 13:41:00",
+        "end": "2020-06-28 13:42:00",
+        "scope": "Multiple circuits to West Sacramento bounced briefly.",
+        "diversity": [
+            "Amador COE",
+            "Calaveras COE",
+            "Columbia CC",
+            "CSU Stanislaus",
+            "Tuolumne COE",
+            "Yosemite CCD Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624672",
+        "start": "2020-06-27 19:09:00",
+        "end": "2020-06-27 19:30:00",
+        "scope": "Ohlone CC circuit instability",
+        "diversity": [
+            "Ohlone College",
+            "Ohlone College Newark Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "GCSC 282026966",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624658",
+        "start": "2020-06-27 15:02:00",
+        "end": "2020-06-27 15:04:00",
+        "scope": "GigE Circuit Outage",
+        "diversity": [
+            "Rio Hondo CC",
+            "Rio Hondo CC - Fire Academy",
+            "Rio Hondo CC - Pico Rivera Education Center",
+            "Rio Hondo CC - South Whittier Education Center",
+            "Rio Hondo CCD El Monte Education Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624659",
+        "start": "2020-06-27 15:12:00",
+        "end": "2020-06-27 15:14:00",
+        "scope": "Multiple circuits in the SoCal Region have restored.",
+        "diversity": [
+            "Citrus CCD",
+            "College of the Desert",
+            "Copper Mountain CCD",
+            "LA Mission College",
+            "Mt. San Antonio CCD",
+            "Santa Fe Springs City Library William C Gordon Learning Center"
+        ],
+        "connectivity": [
+            "Monrovia Public Library",
+            "Pepperdine University - Malibu"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624659",
+        "start": "2020-06-27 15:12:00",
+        "end": "2020-06-27 15:14:00",
+        "scope": "Multiple circuits in the SoCal Region have restored.",
+        "diversity": [
+            "Citrus CCD",
+            "College of the Desert",
+            "Copper Mountain CCD",
+            "LA Mission College",
+            "Mt. San Antonio CCD",
+            "Pepperdine University",
+            "Rio Hondo CC",
+            "Rio Hondo CC - Fire Academy",
+            "Rio Hondo CC - Pico Rivera Education Center",
+            "Rio Hondo CC - South Whittier Education Center",
+            "Rio Hondo CCD El Monte Education Center",
+            "Santa Fe Springs City Library William C Gordon Learning Center"
+        ],
+        "connectivity": [
+            "Monrovia Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "Dupe due to re-sent announcement"
+    },
+    {
+        "issue": "NOC-624622",
+        "start": "2020-06-26 18:14:00",
+        "end": "2020-06-27 07:40:00",
+        "scope": "Carlsbad City Library is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Carlsbad City Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE120601 /  GCSC  282010265",
+        "category": "Library",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624526",
+        "start": "2020-06-25 13:30:00",
+        "end": "2020-06-27 08:41:00",
+        "scope": "Multiple circuits have restored in the San Diego area.",
+        "diversity": [],
+        "connectivity": [
+            "Palomar Rancho Santa Fe CC",
+            "San Diego County Library Vista Branch"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "281960898, 281961170",
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624636",
+        "start": "2020-06-27 00:41:00",
+        "end": "2020-06-27 00:51:00",
+        "scope": "Covina Public Library unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Covina Public Library / City Hall"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624632",
+        "start": "2020-06-26 22:16:00",
+        "end": "2020-06-26 22:45:00",
+        "scope": "CPE routers reboot.",
+        "diversity": [],
+        "connectivity": [
+            "LA CCD"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624616",
+        "start": "2020-06-26 15:08:00",
+        "end": "2020-06-26 15:11:00",
+        "scope": "Comcast brief outage.",
+        "diversity": [],
+        "connectivity": [
+            "MARINet",
+            "Santa Rosa JC Public Safety Training Center",
+            "Santa Rosa JC Shone Agriculture Center",
+            "Santa Rosa Junior College"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI043851857, SI043851894",
+        "category": "Multi-site",
+        "rfo_category": "other",
+        "rfo_description": "Route reconvergence in telco core"
+    },
+    {
+        "issue": "NOC-624593",
+        "start": "2020-06-26 10:45:00",
+        "end": "2020-06-26 10:46:00",
+        "scope": "Multiple circuits experience a brief moment of instability in the NorCal area.",
+        "diversity": [
+            "Butte COE",
+            "Glenn COE - Orland",
+            "Shasta COE",
+            "Tehama COE",
+            "Trinity COE"
+        ],
+        "connectivity": [
+            "Orland Free Library"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI043847546",
+        "category": "Multi-site",
+        "rfo_category": "other",
+        "rfo_description": "Route reconvergence in telco"
+    },
+    {
+        "issue": "NOC-624403",
+        "start": "2020-06-24 10:12:00",
+        "end": "2020-06-26 09:00:00",
+        "scope": "Multiple AT&T circuits down.",
+        "diversity": [
+            "Moreno Valley College",
+            "Riverside CCD"
+        ],
+        "connectivity": [
+            "Norco CC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "281914240, 281914449, 281915432",
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624570",
+        "start": "2020-06-26 07:59:00",
+        "end": "2020-06-26 08:02:00",
+        "scope": "Two Spectrum circuits went down.",
+        "diversity": [
+            "Chaffey Joint UHSD",
+            "CSU San Bernardino",
+            "San Bernardino CSS",
+            "Victor Valley CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT80201703, ECT80201673",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624558",
+        "start": "2020-06-26 04:06:00",
+        "end": "2020-06-26 04:15:00",
+        "scope": "Multiple AT&T circuits went down.",
+        "diversity": [
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [
+            "Los Rios CCD - Natomas Center",
+            "Los Rios CCD El Dorado Center",
+            "Los Rios CCD Rancho Cordova Ed_Center",
+            "Los Rios CCD West Sacramento Center"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624532",
+        "start": "2020-06-25 17:30:00",
+        "end": "2020-06-25 18:44:00",
+        "scope": "Madera County Library connectivity is down.",
+        "diversity": [
+            "Merced County Library",
+            "Mariposa County Library"
+        ],
+        "connectivity": [
+            "Madera County Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624482",
+        "start": "2020-06-25 01:41:00",
+        "end": "2020-06-25 05:42:00",
+        "scope": "Rio Hondo Santa Fe Fire Academy circuit to Tustin down.",
+        "diversity": [
+            "Rio Hondo CC",
+            "Rio Hondo CC - Fire Academy",
+            "Rio Hondo CC - Pico Rivera Education Center",
+            "Rio Hondo CC - South Whittier Education Center",
+            "Rio Hondo CCD El Monte Education Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT80199737",
+        "category": "CC",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624488",
+        "start": "2020-06-25 03:23:00",
+        "end": "2020-06-25 04:07:00",
+        "scope": "Spectrum Circuits unstable towards LA Hub",
+        "diversity": [
+            "Del Norte COE",
+            "Siskiyou COE",
+            "Tule-Lake Basin USD",
+            "Lassen COE",
+            "Plumas COE",
+            "Modoc COE",
+            "Loyalton HS / Sierra COE",
+            "UC Path Center"
+        ],
+        "connectivity": [
+            "Signal Hill Public Library",
+            "Monrovia Public Library",
+            "Santa Fe Springs City Library William C Gordon Learning Center",
+            "Long Beach Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80199785",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO pending at the time of report"
+    },
+    {
+        "issue": "NOC-624498",
+        "start": "2020-06-25 07:28:00",
+        "end": "2020-06-25 07:47:00",
+        "scope": "CSU Stanislaus's circuit to Fergus is down.",
+        "diversity": [
+            "CSU Stanislaus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CSU",
+        "rfo_category": "utility maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624433",
+        "start": "2020-06-24 14:31:00",
+        "end": "2020-06-25 01:02:00",
+        "scope": "Multiple circuits are down in the Central Valley",
+        "diversity": [
+            "Coalinga District Library",
+            "Chowchilla USD",
+            "College of the Sequoias",
+            "College of the Sequoias - Hanford Campus",
+            "College of the Sequoias - Tulare",
+            "CSU Bakersfield",
+            "CSU Fresno",
+            "Central Valley Independent Network",
+            "Earlimart_SD",
+            "Fresno CC",
+            "Fresno COE",
+            "Fresno County Library",
+            "Kern CCD",
+            "Kern COE",
+            "King COE",
+            "Kings County Library",
+            "Kern County Library",
+            "Madera COE",
+            "Madera County Library",
+            "Maripose COE",
+            "Mariposa County Library",
+            "Merced CC",
+            "Merced COE",
+            "Merced County Library",
+            "Porterville Public Library",
+            "Stanislaus COE",
+            "San Joaquin COE",
+            "San Joaquin Delta CC",
+            "Taft CC",
+            "Tulare COE",
+            "Tulare County Library",
+            "Tulare Public Library",
+            "West Hills College Lemoor",
+            "West Hills College",
+            "West Hills CCD North District Center"
+        ],
+        "connectivity": [
+            "Porterville College"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624404",
+        "start": "2020-06-24 10:02:00",
+        "end": "2020-06-25 01:30:00",
+        "scope": "The circuit to UCANR Inter Mountain is down.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Inter-Mountain REC"
+        ],
+        "vendors_involved": [
+            "Hunter Communications"
+        ],
+        "telco_ticket_id": "133788982",
+        "category": "UC",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624405",
+        "start": "2020-06-24 10:27:00",
+        "end": "2020-06-24 10:44:00",
+        "scope": "The circuit to Sierra Madre Public Library is up.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra Madre Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624357",
+        "start": "2020-06-24 01:13:00",
+        "end": "2020-06-24 05:23:00",
+        "scope": "Riverside COE Murrieta Office is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Riverside COE - Murrieta Office"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624364",
+        "start": "2020-06-24 01:54:00",
+        "end": "2020-06-24 03:03:00",
+        "scope": "Multiple circuits in the SoCal Region are down.",
+        "diversity": [
+            "Antelope Valley College",
+            "Antelope Valley College Palmdale Education Center"
+        ],
+        "connectivity": [
+            "Rancho Mirage Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624355",
+        "start": "2020-06-24 00:31:00",
+        "end": "2020-06-24 02:28:00",
+        "scope": "CSU Moss Landing Marine Labs circuit to San Francisco is down.",
+        "diversity": [
+            "Moss Landing Marine Labs"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Other",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-624360",
+        "start": "2020-06-24 01:48:00",
+        "end": "2020-06-24 02:21:00",
+        "scope": "Irvine Valley CC circuit to Saddleback CC unstable.",
+        "diversity": [
+            "Irvine Valley College",
+            "Saddleback CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "281846069",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    }
+]

@@ -1,0 +1,405 @@
+Total: 37
+
+1. Backbone: 0
+2. Multi-site: 14
+3. UC: 2
+4. CSU: 2
+5. CC: 13
+6. K12/COE: 6
+7. Library: 0
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-626894
+    SCOPE: Multiple AT&T circuits bounced.
+    START: 2020-07-28 11:14:00
+    END: 2020-07-28 11:15:00
+    DURATION: 00:01
+    DIVERSITY: Glendale CC Professional Development Center ;; Glendale CCD
+    CONNECTIVITY: Santa Clarita Public Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-626856
+    SCOPE: Multiple CVIN circuits down.
+    START: 2020-07-28 00:05:00
+    END: 2020-07-28 04:10:00
+    DURATION: 04:05
+    DIVERSITY: Chowchilla USD ;; College of the Sequoias - Hanford Campus ;; College of the Sequoias - Tulare Campus ;; College of the Sequoias CCD ;; CSU Bakersfield ;; CSU Fresno ;; Earlimart School District ;; Fresno City College ;; Fresno COE ;; Fresno County Library ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Kings COE ;; Kings County Library ;; Madera COE ;; Madera County Library ;; Mariposa COE ;; Merced CC ;; Merced COE ;; Merced County Library ;; Porterville College ;; San Joaquin COE ;; San Joaquin Delta College ;; San Luis Obispo COE ;; Stanislaus COE ;; State Center CCD (Fresno) ;; Taft College ;; Tulare COE ;; Tulare County Library ;; Tulare Public Library ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: Ceres Unified School District
+    PROVIDER: Vast
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-626794
+    SCOPE: Multiple sites power outage
+    START: 2020-07-27 15:31:00
+    END: 2020-07-27 15:36:00
+    DURATION: 00:05
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Modoc COE ;; Plumas COE ;; Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra Joint CCD ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: Loyalton HS - Sierra COE ;; Sierra CCD - Tahoe-Truckee Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-626738
+    SCOPE: Multiple AT&T circuits bounced
+    START: 2020-07-26 12:55:00
+    END: 2020-07-26 12:56:00
+    DURATION: 00:01
+    DIVERSITY: Mendocino College ;; Napa Valley CCD
+    CONNECTIVITY: Solano County Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-626690
+    SCOPE: Brief multi-circuit bounce
+    START: 2020-07-24 13:42:00
+    END: 2020-07-24 13:43:00
+    DURATION: 00:01
+    DIVERSITY: Compton College ;; El Camino College ;; LA Harbor College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-626650
+    SCOPE: Circuit between Humboldt COE and Northern Humboldt UHSDO is down.
+    START: 2020-07-24 00:21:00
+    END: 2020-07-24 05:54:00
+    DURATION: 05:33
+    DIVERSITY: Humboldt COE ;; Northern Humboldt USD
+    CONNECTIVITY: 
+    PROVIDER: SuddenLink
+    REASON: [fiber damage] 
+
+ISSUE: NOC-626656
+    SCOPE: Multiple AT&T circuits went down.
+    START: 2020-07-24 00:43:00
+    END: 2020-07-24 00:49:00
+    DURATION: 00:06
+    DIVERSITY: LA Pierce College ;; Pasadena CCD ;; Pasadena City College - Community Learning Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626553
+    SCOPE: Multiple CVIN circuits are unstable.
+    START: 2020-07-23 00:01:00
+    END: 2020-07-23 01:29:00
+    DURATION: 01:28
+    DIVERSITY: CSU Stanislaus - Stockton Center
+    CONNECTIVITY: Amador County Library ;; Calaveras County Library
+    PROVIDER: Vast
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-626549
+    SCOPE: Multiple AT&T circuits went down.
+    START: 2020-07-22 22:41:00
+    END: 2020-07-22 22:52:00
+    DURATION: 00:11
+    DIVERSITY: Chaffey CCD ;; Chaffey CCD Fontana Learning Center ;; Chaffey College, Chino Center ;; Crafton Hills College ;; Irvine Valley College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD ;; Saddleback CC ;; San Bernardino Valley
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626511
+    SCOPE: Multiple CVIN circuits are unstable
+    START: 2020-07-22 13:58:00
+    END: 2020-07-22 16:41:00
+    DURATION: 02:43
+    DIVERSITY: CSU Bakersfield ;; Earlimart School District ;; Kern CCD
+    CONNECTIVITY: Bakersfield College
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626504
+    SCOPE: Multiple CVIN circuits are down in the Central Valley
+    START: 2020-07-22 11:42:00
+    END: 2020-07-22 15:07:00
+    DURATION: 03:25
+    DIVERSITY: Amador COE ;; Calaveras COE ;; Columbia CC ;; Colusa COE ;; CSU Stanislaus ;; CSU Stanislaus - Stockton Center ;; El Dorado COE ;; Nevada Joint Union HSD ;; Placer COE ;; Sierra COE - WEST ;; Stanislaus County Library ;; Sutter COE ;; Tuolumne COE ;; Yosemite CCD Office ;; Yuba CC ;; Yuba COE
+    CONNECTIVITY: Stanislaus County Library
+    PROVIDER: Vast
+    REASON: [fiber cut] 
+
+ISSUE: NOC-626464
+    SCOPE: Multiple AT&T circuits are down.
+    START: 2020-07-22 02:44:00
+    END: 2020-07-22 04:59:00
+    DURATION: 02:15
+    DIVERSITY: Cerritos CCD ;; LA City College ;; Rancho Santiago CCD ;; Ventura College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626511
+    SCOPE: Multiple CVIN circuits bounced.
+    START: 2020-07-22 13:58:00
+    END: 2020-07-22 14:12:00
+    DURATION: 00:14
+    DIVERSITY: CSU Bakersfield ;; Earlimart School District ;; Kern CCD
+    CONNECTIVITY: Bakersfield College
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626362
+    SCOPE: Multiple AT&T circuits bounced.
+    START: 2020-07-22 07:26:00
+    END: 2020-07-22 07:33:00
+    DURATION: 00:07
+    DIVERSITY: Chaffey CCD ;; Chaffey CCD Fontana Learning Center ;; Chaffey College, Chino Center ;; Crafton Hills College ;; Irvine Valley College ;; Saddleback CC ;; San Bernardino Valley
+    CONNECTIVITY: Moreno Valley College ;; Norco CC ;; Riverside CCD
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+
+3. UC
+
+ISSUE: NOC-626766
+    SCOPE: City of SF fiber disruption
+    START: 2020-07-27 09:37:00
+    END: 2020-07-27 09:38:00
+    DURATION: 00:01
+    DIVERSITY: University of California, San Francisco
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [unknown] 
+
+ISSUE: NOC-625926
+    SCOPE: UCSF Health System Secondary 10G circuit to Quincy is down.
+    START: 2020-07-21 23:35:00
+    END: 2020-07-22 10:08:00
+    DURATION: 10:33
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [other] Zayo generator repair
+
+
+4. CSU
+
+ISSUE: NOC-626647
+    SCOPE: The 10 GE link between CSU Fullerton and CENIC's Los Angeles site is currently down.
+    START: 2020-07-23 23:21:00
+    END: 2020-07-24 00:49:00
+    DURATION: 01:28
+    DIVERSITY: CSU Fullerton ;; CSU Chancellor's Office via CSU Fullerton ;; SFSU Disaster Recovery Site
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-626479
+    SCOPE: Network connectivity to CSU East Bay Concord is down.
+    START: 2020-07-22 06:40:00
+    END: 2020-07-23 11:40:00
+    DURATION: 29:00
+    DIVERSITY: 
+    CONNECTIVITY: CSU East Bay Concord
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+5. CC
+
+ISSUE: NOC-626750
+    SCOPE: College of the Siskiyous 1G circuit to Corning was down.
+    START: 2020-07-26 23:14:00
+    END: 2020-07-27 12:11:00
+    DURATION: 12:57
+    DIVERSITY: College of the Siskiyous
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626727
+    SCOPE: West Hills North District Center CC is unavailable.
+    START: 2020-07-25 23:05:00
+    END: 2020-07-25 23:42:00
+    DURATION: 00:37
+    DIVERSITY: West Hills CCD ;; West Hills Lemoore CC
+    CONNECTIVITY: West Hills North District Center CC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-626711
+    SCOPE: The 10GE circuit to the Oakland hub was briefly unavailable.
+    START: 2020-07-24 22:44:00
+    END: 2020-07-24 22:53:00
+    DURATION: 00:09
+    DIVERSITY: Foothill College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626638
+    SCOPE: Lassen CC is up.
+    START: 2020-07-23 18:30:00
+    END: 2020-07-24 10:02:00
+    DURATION: 15:32
+    DIVERSITY: 
+    CONNECTIVITY: Lassen CC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-626666
+    SCOPE: Circuits to Copper Mountain CCD went down.
+    START: 2020-07-24 05:16:00
+    END: 2020-07-24 05:21:00
+    DURATION: 00:05
+    DIVERSITY: College of the Desert
+    CONNECTIVITY: Copper Mountain CCD
+    PROVIDER: Spectrum
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-626593
+    SCOPE: South Orange County CCD ATEP Center circuit to Los Angeles is unstable.
+    START: 2020-07-23 11:44:00
+    END: 2020-07-23 20:50:00
+    DURATION: 09:06
+    DIVERSITY: South Orange County CCD ATEP Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626458
+    SCOPE: The 10Gig circuit from Sierra College to Sacramento hub site is down.
+    START: 2020-07-21 16:17:00
+    END: 2020-07-23 18:11:00
+    DURATION: 49:54
+    DIVERSITY: Sierra CC ;; Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626417
+    SCOPE: The 10Gig circuit from Sierra College to Sacramento hub site is down.
+    START: 2020-07-21 16:17:00
+    END: 2020-07-23 18:11:00
+    DURATION: 49:54
+    DIVERSITY: Sierra CC ;; Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-625801
+    SCOPE: Fresno City College Down Following Multi-Site Outage
+    START: 2020-07-11 11:11:00
+    END: 2020-07-22 17:55:00
+    DURATION: 270:44
+    DIVERSITY: Fresno City College ;; State Center CCD (Fresno)
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] RFO pending
+
+ISSUE: NOC-626478
+    SCOPE: 10G circuit between West Hills Lemoore CC and Bakersfield hubsite is down.
+    START: 2020-07-22 00:11:00
+    END: 2020-07-22 17:57:00
+    DURATION: 17:46
+    DIVERSITY: West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626532
+    SCOPE: Shasta CC Trinity Center experienced a power outage.
+    START: 2020-07-22 16:20:00
+    END: 2020-07-22 16:48:00
+    DURATION: 00:28
+    DIVERSITY: Shasta CC - Tehama ;; Shasta CC Burney Center ;; Shasta CCD ;; Shasta CCD Health Sciences
+    CONNECTIVITY: Shasta CCD Trinity Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-626486
+    SCOPE: Foothill CCD Circuit to Oakland is down.
+    START: 2020-07-22 07:19:00
+    END: 2020-07-22 08:44:00
+    DURATION: 01:25
+    DIVERSITY: Foothill College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-626440
+    SCOPE: Sierra College is unavailable.
+    START: 2020-07-21 21:02:00
+    END: 2020-07-21 22:54:00
+    DURATION: 01:52
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center
+    CONNECTIVITY: Sierra Joint CCD
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-626809
+    SCOPE: Butte COE 10G circuit to Sacramento hubsite packet loss.
+    START: 2020-07-27 20:05:00
+    END: 2020-07-27 20:40:00
+    DURATION: 00:35
+    DIVERSITY: Butte COE ;; Glenn COE - Orland ;; Shasta COE ;; Tehama COE ;; Trinity COE
+    CONNECTIVITY: 
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+ISSUE: NOC-626803
+    SCOPE: Multiple circuits outage
+    START: 2020-07-27 16:21:00
+    END: 2020-07-27 16:23:00
+    DURATION: 00:02
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier ;; Cal-Ore
+    REASON: [unknown] 
+
+ISSUE: NOC-626554
+    SCOPE: Los Angeles COE circuit to Tustin is unstable.
+    START: 2020-07-23 00:06:00
+    END: 2020-07-23 20:48:00
+    DURATION: 20:42
+    DIVERSITY: Los Angeles COE
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626687
+    SCOPE: Madera COE 10G circuit to Fergus hubsite is down.
+    START: 2020-07-24 16:18:00
+    END: 2020-07-25 15:45:00
+    DURATION: 23:27
+    DIVERSITY: Chowchilla USD ;; Madera COE
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [fiber damage] 
+
+ISSUE: NOC-626651
+    SCOPE: 10G circuit to Palm Desert went down.
+    START: 2020-07-24 00:21:00
+    END: 2020-07-24 00:49:00
+    DURATION: 00:28
+    DIVERSITY: Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [fiber damage] 
+
+ISSUE: NOC-626387
+    SCOPE: Santa Cruz COE 10G circuit to San Mateo COE is down.
+    START: 2020-07-21 12:38:00
+    END: 2020-07-22 14:24:00
+    DURATION: 25:46
+    DIVERSITY: San Mateo COE ;; Santa Cruz COE
+    CONNECTIVITY: 
+    PROVIDER: Comcast
+    REASON: [fiber damage] 
+
+
+7. Library
+
+
+8. Other
+
+

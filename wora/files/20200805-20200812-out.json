@@ -1,0 +1,419 @@
+[
+    {
+        "issue": "NOC-627856",
+        "start": "2020-08-11 00:53:00",
+        "end": "2020-08-11 15:09:00",
+        "scope": "Santa Barbara COE's 10G Circuit to Los Angeles is Down",
+        "diversity": [
+            "Santa Barbara COE",
+            "Santa Maria JUHSD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "SCE (So Cal Edison)"
+        ],
+        "telco_ticket_id": "2943039",
+        "category": "K12/COE",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627851",
+        "start": "2020-08-10 22:34:00",
+        "end": "2020-08-10 22:37:00",
+        "scope": "UC Irvine's Optical Route 95 to Los Angeles brief instability",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20320676",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": "Generic DF RFO"
+    },
+    {
+        "issue": "NOC-627820",
+        "start": "2020-08-10 12:00:00",
+        "end": "2020-08-10 12:05:00",
+        "scope": "Multiple CCF circuits bounced",
+        "diversity": [
+            "Los Angeles USD",
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": "Generic DF RFO"
+    },
+    {
+        "issue": "NOC-627782",
+        "start": "2020-08-09 23:27:00",
+        "end": "2020-08-10 00:14:00",
+        "scope": "Los Angeles USD - Van Nuys 100GE circuit to Tustin is unstable.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20320323 / CCF2032299 - RFO",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627768",
+        "start": "2020-08-09 08:53:00",
+        "end": "2020-08-09 09:13:00",
+        "scope": "Sierra CCD - Western Nevada County Center connections were unstable.",
+        "diversity": [
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [
+            "Sierra CC - Western Nevada County Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627743",
+        "start": "2020-08-09 00:33:00",
+        "end": "2020-08-09 01:09:00",
+        "scope": "Canyon Country Education Center 10G to LA is down.",
+        "diversity": [
+            "Canyon Country Education Center",
+            "College of the Canyons"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE122625",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627752",
+        "start": "2020-08-08 10:57:00",
+        "end": "2020-08-08 10:59:00",
+        "scope": "Brief instability on the 1GE circuit to Los Angeles.",
+        "diversity": [],
+        "connectivity": [
+            "Hemet Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "285869631 (LE122646)",
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627751",
+        "start": "2020-08-08 09:00:00",
+        "end": "2020-08-08 09:02:00",
+        "scope": "Brief instability on the 1GE circuit to Sunnyvale.",
+        "diversity": [],
+        "connectivity": [
+            "Hemet Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "285868507",
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627749",
+        "start": "2020-08-08 07:35:00",
+        "end": "2020-08-08 07:43:00",
+        "scope": "LA Valley College Outage",
+        "diversity": [
+            "LA Valley College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627743",
+        "start": "2020-08-07 23:30:00",
+        "end": "2020-08-08 01:58:00",
+        "scope": "10G circuit to LA went down.",
+        "diversity": [
+            "Canyon Country Education Center",
+            "College of the Canyons"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE122625",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627740",
+        "start": "2020-08-07 21:48:00",
+        "end": "2020-08-07 21:52:00",
+        "scope": "Multiple Spectrum circuits went down.",
+        "diversity": [
+            "Ventura County CCD Office"
+        ],
+        "connectivity": [
+            "Camarillo Public Library",
+            "Ventura COE"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80255063",
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627707",
+        "start": "2020-08-07 11:05:00",
+        "end": "2020-08-07 11:51:00",
+        "scope": "Sutter COE down",
+        "diversity": [
+            "Sutter COE",
+            "Yuba City USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627671",
+        "start": "2020-08-06 22:23:00",
+        "end": "2020-08-07 04:34:00",
+        "scope": "The 10GE circuit Del Norte COE to the Los Angeles hub is unavailable.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80253738",
+        "category": "K12/COE",
+        "rfo_category": "other",
+        "rfo_description": "Fiber cut followed by Spectrum routing issue"
+    },
+    {
+        "issue": "NOC-627688",
+        "start": "2020-08-07 03:05:00",
+        "end": "2020-08-07 03:50:00",
+        "scope": "Ventura County CCD connection to Tustin is down.",
+        "diversity": [
+            "Ventura County CCD Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80253908",
+        "category": "CC",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627679",
+        "start": "2020-08-07 01:18:00",
+        "end": "2020-08-07 04:00:00",
+        "scope": "Santa Maria JUHSD circuit to San Luis Obispo is down.",
+        "diversity": [
+            "Santa Barbara COE",
+            "Santa Maria JUHSD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI-044740107",
+        "category": "K12/COE",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627689",
+        "start": "2020-08-07 03:05:00",
+        "end": "2020-08-07 03:15:00",
+        "scope": "Multiple Spectrum Circuits bounced in the SoCal Region.",
+        "diversity": [
+            "Ventura COE"
+        ],
+        "connectivity": [
+            "Camarillo Public Library",
+            "Signal Hill Public Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627594",
+        "start": "2020-08-05 22:17:00",
+        "end": "2020-08-06 23:07:00",
+        "scope": "UC Health System 100G from Triangle Court to Quincy is Unstable",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": "19364778",
+        "category": "UC",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627604",
+        "start": "2020-08-06 00:09:00",
+        "end": "2020-08-06 00:15:00",
+        "scope": "Multiple circuits in the Central Valley are unstable.",
+        "diversity": [
+            "CSU Stanislaus - Stockton Center"
+        ],
+        "connectivity": [
+            "Amador County Library",
+            "Calaveras County Library"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "provider maintenance",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627607",
+        "start": "2020-08-06 01:15:00",
+        "end": "2020-08-06 01:20:00",
+        "scope": "The AT&T Circuit between West Hills CC and West Hills Lemoore was briefly unavailable.",
+        "diversity": [
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "285776448",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627574",
+        "start": "2020-08-05 14:43:00",
+        "end": "2020-08-05 14:44:00",
+        "scope": "Multiple circuits in the Central Valley experienced brief instability.",
+        "diversity": [
+            "Central Valley Independent Network",
+            "Ceres Unified School District",
+            "Chowchilla USD",
+            "College of the Sequoias - Hanford Campus",
+            "College of the Sequoias - Tulare Campus",
+            "College of the Sequoias CCD",
+            "CSU Bakersfield",
+            "Kern CCD",
+            "Kern COE",
+            "Kern County Library",
+            "Kings COE",
+            "Madera COE",
+            "Madera County Library",
+            "Mariposa County Library",
+            "Merced CC",
+            "Merced COE",
+            "Merced County Library",
+            "San Joaquin COE",
+            "San Joaquin Delta College",
+            "Stanislaus COE",
+            "Taft College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-622218",
+        "start": "2020-08-05 06:59:00",
+        "end": "2020-08-05 11:51:00",
+        "scope": "UCSF 10G circuit to Quincy is down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": " TTN-0004109357 TTN-0004123276 TTN-0004130722 TTN-0004309228",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-627508",
+        "start": "2020-08-04 22:40:00",
+        "end": "2020-08-05 04:28:00",
+        "scope": "Network connectivity is down.",
+        "diversity": [
+            "Antelope Valley College"
+        ],
+        "connectivity": [
+            "Antelope Valley College Palmdale Education Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    }
+]

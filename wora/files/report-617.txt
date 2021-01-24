@@ -1,0 +1,345 @@
+Total: 31
+
+1. Backbone: 1
+2. Multi-site: 8
+3. UC: 7
+4. CSU: 3
+5. CC: 7
+6. K12/COE: 2
+7. Library: 2
+8. Other: 1
+
+1. Backbone
+
+ISSUE: NOC-623332
+    SCOPE: Los Angeles to Sunnyvale 100GE HPR link unstable.
+    START: 2020-06-10 18:14:00
+    END: 2020-06-10 18:47:00
+    DURATION: 00:33
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Cisco
+    REASON: [other] CENIC hardware
+
+
+2. Multi-site
+
+ISSUE: NOC-623595
+    SCOPE: Multiple circuits in the NorCal Region were down.
+    START: 2020-06-14 04:31:00
+    END: 2020-06-14 08:31:00
+    DURATION: 04:00
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: Los Rios CCD - Natomas Center ;; Los Rios CCD El Dorado Center ;; Los Rios CCD Rancho Cordova Ed_Center ;; Los Rios CCD West Sacramento Center
+    PROVIDER: AT&T
+    REASON: [faulty optic] 
+
+ISSUE: NOC-623591
+    SCOPE: Multiple circuits in the Central Valley Region are unstable.
+    START: 2020-06-14 00:51:00
+    END: 2020-06-14 05:36:00
+    DURATION: 04:45
+    DIVERSITY: Coalinga District Library ;; CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Porterville Public Library ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-623591
+    SCOPE: Multiple circuits in the Central Valley Region bounced.
+    START: 2020-06-14 00:51:00
+    END: 2020-06-14 01:33:00
+    DURATION: 00:42
+    DIVERSITY: Coalinga District Library ;; CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Porterville Public Library ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-623582
+    SCOPE: Multiple circuits in the Central Valley Region bounced.
+    START: 2020-06-14 00:51:00
+    END: 2020-06-14 01:33:00
+    DURATION: 00:42
+    DIVERSITY: Coalinga District Library ;; CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Porterville Public Library ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-623591
+    SCOPE: Multiple circuits in the Central Valley Region bounced.
+    START: 2020-06-14 00:51:00
+    END: 2020-06-14 00:55:00
+    DURATION: 00:04
+    DIVERSITY: Coalinga District Library ;; CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Porterville Public Library ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; Taft College ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-623504
+    SCOPE: Multiple Bay Area circuits are down.
+    START: 2020-06-11 20:12:00
+    END: 2020-06-11 20:24:00
+    DURATION: 00:12
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: El Dorado County Library - Cameron Park Library ;; El Dorado County Library - El Dorado Hills Branch ;; El Dorado County Library - Pollock Pines Branch
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+ISSUE: NOC-623365
+    SCOPE: Multiple circuits in the Bay Area Region are unstable.
+    START: 2020-06-10 04:52:00
+    END: 2020-06-10 06:09:00
+    DURATION: 01:17
+    DIVERSITY: Berkeley CC ;; Brentwood Center CC ;; Canada College ;; Diablo Valley CCD ;; Foothill College ;; Humboldt State University ;; Napa Valley CCD ;; San Mateo CCD ;; Skyline College
+    CONNECTIVITY: College of Marin - Indian Valley Campus ;; Santa Clara County Library District ;; Sutro Library
+    PROVIDER: AT&T
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-623348
+    SCOPE: Multiple Circuits in the SoCal Region.
+    START: 2020-06-09 23:00:00
+    END: 2020-06-09 23:01:00
+    DURATION: 00:01
+    DIVERSITY: Chaffey CCD ;; Chaffey CCD Fontana Learning Center ;; Chaffey College, Chino Center ;; Chaffey Joint UHSD ;; Crafton Hills College ;; Irvine Valley College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD ;; Saddleback CC ;; San Bernardino CSS ;; Victor Valley CCD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+3. UC
+
+ISSUE: NOC-623489
+    SCOPE: UCI Health System's dark fiber circuit is unstable.
+    START: 2020-06-12 10:03:00
+    END: 2020-06-12 11:25:00
+    DURATION: 01:22
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [other] Techs affected out servies while troubleshooting other services
+
+ISSUE: NOC-623528
+    SCOPE: UCANR Hopland REC is unavailable.
+    START: 2020-06-12 08:33:00
+    END: 2020-06-12 17:45:00
+    DURATION: 09:12
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Hopland REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-623395
+    SCOPE: Route 81 Bounce
+    START: 2020-06-11 07:50:00
+    END: 2020-06-11 07:52:00
+    DURATION: 00:02
+    DIVERSITY: University of California, Santa Cruz ;; University of California, Santa Cruz - Extension ;; University of California, Santa Cruz - Lick Observatory
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-623395
+    SCOPE: Route 81 Bounce
+    START: 2020-06-11 07:50:00
+    END: 2020-06-11 07:52:00
+    DURATION: 00:02
+    DIVERSITY: University of California, Santa Cruz
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-623416
+    SCOPE: UC San Francisco fiber outage.
+    START: 2020-06-10 20:56:00
+    END: 2020-06-11 00:39:00
+    DURATION: 03:43
+    DIVERSITY: University of California, San Francisco
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-623210
+    SCOPE: Network degradation
+    START: 2020-06-08 14:00:00
+    END: 2020-06-10 19:35:00
+    DURATION: 53:35
+    DIVERSITY: UCSC Lick Observatory ;; UC Santa Cruz Extension
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-623395
+    SCOPE: UCSC dark fiber to Sunnyvale is unstable.
+    START: 2020-06-10 13:35:00
+    END: 2020-06-10 14:20:00
+    DURATION: 00:45
+    DIVERSITY: University of California, Santa Cruz ;; University of California, Santa Cruz - Lick Observatory
+    CONNECTIVITY: University of California, Santa Cruz - Extension
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+
+4. CSU
+
+ISSUE: NOC-623428
+    SCOPE: Humboldt State University circuit outage.
+    START: 2020-06-11 00:20:00
+    END: 2020-06-11 14:24:00
+    DURATION: 14:04
+    DIVERSITY: Humboldt State University
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [other] Wrong fiber polarization
+
+ISSUE: NOC-623428
+    SCOPE: Multiple AT&T circuits unavailable.
+    START: 2020-06-10 23:56:00
+    END: 2020-06-11 00:20:00
+    DURATION: 00:24
+    DIVERSITY: Berkeley CC ;; Contra Costa CC ;; Diablo Valley CCD ;; Humboldt State University ;; Napa Valley CCD
+    CONNECTIVITY: College of Marin - Indian Valley Campus ;; Sutro Library
+    PROVIDER: AT&T
+    REASON: [other] wrong jumper polarity
+
+ISSUE: NOC-623250
+    SCOPE: CSU Sonoma Circuit to Sunnyvale bounce.
+    START: 2020-06-10 15:39:00
+    END: 2020-06-10 15:43:00
+    DURATION: 00:04
+    DIVERSITY: Sonoma State University
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+
+5. CC
+
+ISSUE: NOC-623770
+    SCOPE: Sierra College 10G Connection to Sacramento Hub is down
+    START: 2020-06-16 11:15:00
+    END: 2020-06-16 13:41:00
+    DURATION: 02:26
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: 
+    PROVIDER: WaveBroadband
+    REASON: [fiber damage] 
+
+ISSUE: NOC-623619
+    SCOPE: Cal. Comm. Colleges, Chancellors Office circuit to the Cal. Comm. Colleges Data center down.
+    START: 2020-06-15 00:10:00
+    END: 2020-06-15 01:49:00
+    DURATION: 01:39
+    DIVERSITY: California Community Colleges, Chancellor's Office
+    CONNECTIVITY: 
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+ISSUE: NOC-623575
+    SCOPE: Sierra College 10G Connection to Sacramento Hub is down
+    START: 2020-06-13 21:02:00
+    END: 2020-06-14 17:53:00
+    DURATION: 20:51
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: 
+    PROVIDER: WaveBroadband
+    REASON: [fiber cut] 
+
+ISSUE: NOC-623570
+    SCOPE: Routers Lost Power
+    START: 2020-06-13 14:22:00
+    END: 2020-06-13 14:44:00
+    DURATION: 00:22
+    DIVERSITY: 
+    CONNECTIVITY: Ventura County CCD Office
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-623524
+    SCOPE: Shasta CCD Burney Center is down.
+    START: 2020-06-12 06:17:00
+    END: 2020-06-12 08:10:00
+    DURATION: 01:53
+    DIVERSITY: Shasta CC - Tehama ;; Shasta CCD ;; Shasta CCD Health Sciences ;; Shasta CCD Trinity Center
+    CONNECTIVITY: Shasta CC Burney Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-622935
+    SCOPE: Contra Costa CC's circuit to Sunnyvale is down.
+    START: 2020-06-03 17:08:00
+    END: 2020-06-11 00:20:00
+    DURATION: 175:12
+    DIVERSITY: Contra Costa COE
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-623138
+    SCOPE: Router Down
+    START: 2020-06-07 15:33:00
+    END: 2020-06-10 10:34:00
+    DURATION: 67:01
+    DIVERSITY: 
+    CONNECTIVITY: College of the Alameda Science Annex Center
+    PROVIDER: AT&T
+    REASON: [other] 
+
+
+6. K12/COE
+
+ISSUE: NOC-623611
+    SCOPE: 10GE Circuits Outage
+    START: 2020-06-14 18:46:00
+    END: 2020-06-14 19:08:00
+    DURATION: 00:22
+    DIVERSITY: 
+    CONNECTIVITY: Riverside - Indio COE
+    PROVIDER: Spectrum
+    REASON: [unknown] 
+
+ISSUE: NOC-623368
+    SCOPE: The 10GE circuit from Montebello USD to Los Angeles has restored.
+    START: 2020-06-09 23:21:00
+    END: 2020-06-10 07:54:00
+    DURATION: 08:33
+    DIVERSITY: 
+    CONNECTIVITY: Montebello USD
+    PROVIDER: CENIC Internal
+    REASON: [other] BAD CENIC CONFIG
+
+
+7. Library
+
+ISSUE: NOC-623603
+    SCOPE: Roseville Public Library circuit to West Sacramento is down
+    START: 2020-06-14 10:29:00
+    END: 2020-06-15 10:41:00
+    DURATION: 24:12
+    DIVERSITY: 
+    CONNECTIVITY: Roseville Public Library
+    PROVIDER: WaveBroadband
+    REASON: [fiber damage] 
+
+ISSUE: NOC-623631
+    SCOPE: Irwindale Public Library is unavailable.
+    START: 2020-06-15 05:59:00
+    END: 2020-06-15 07:21:00
+    DURATION: 01:22
+    DIVERSITY: 
+    CONNECTIVITY: Irwindale Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+ISSUE: NOC-623368
+    SCOPE: The 10GE circuit from Montebello USD to Los Angeles has restored.
+    START: 2020-06-09 11:21:00
+    END: 2020-06-10 07:54:00
+    DURATION: 20:33
+    DIVERSITY: 
+    CONNECTIVITY: Montebello USD
+    PROVIDER: CENIC Internal
+    REASON: [other] DUPE/INCORRECT ENTRY
+
+

@@ -1,0 +1,375 @@
+Total: 34
+
+1. Backbone: 1
+2. Multi-site: 14
+3. UC: 1
+4. CSU: 0
+5. CC: 5
+6. K12/COE: 6
+7. Library: 5
+8. Other: 2
+
+1. Backbone
+
+ISSUE: NOC-625738
+    SCOPE: 100GE backbone link between Palm Desert and San Diego is down.
+    START: 2020-07-13 18:49:00
+    END: 2020-07-13 21:31:00
+    DURATION: 02:42
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Juniper
+    REASON: [other] High temps
+
+
+2. Multi-site
+
+ISSUE: NOC-625702
+    SCOPE: Multiple CVIN circuits drop in the Central Valley.
+    START: 2020-07-13 11:06:00
+    END: 2020-07-13 11:11:00
+    DURATION: 00:05
+    DIVERSITY: Earlimart School District ;; Fresno City College ;; Fresno County Library ;; Kern COE ;; Kern County Library ;; Kings County Library ;; Porterville Public Library
+    CONNECTIVITY: Tulare County Library ;; Tulare Public Library
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-625728
+    SCOPE: Multiple Crown Castle dark fiber circuits are unstable.
+    START: 2020-07-13 13:59:00
+    END: 2020-07-13 23:55:00
+    DURATION: 09:56
+    DIVERSITY: Chaffey Joint UHSD ;; Los Angeles USD ;; San Bernardino CSS
+    CONNECTIVITY: 
+    PROVIDER: Sunesys
+    REASON: [unknown] Generic DF RFO
+
+ISSUE: NOC-625807
+    SCOPE: Multiple circuits in Bay Area briefly bounced.
+    START: 2020-07-14 07:41:00
+    END: 2020-07-14 07:42:00
+    DURATION: 00:01
+    DIVERSITY: Marin COE ;; Solano CC ;; Sonoma State University
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-625727
+    SCOPE: Multiple Spectrum circuits are unstable at Los Angeles hub site.
+    START: 2020-07-13 13:55:00
+    END: 2020-07-14 00:00:00
+    DURATION: 10:05
+    DIVERSITY: Citrus CCD ;; College of the Desert ;; Copper Mountain CCD ;; LA Mission College ;; Mt. San Antonio CCD ;; Pepperdine University
+    CONNECTIVITY: Monrovia Public Library ;; Santa Fe Springs City Library William C Gordon Learning Center
+    PROVIDER: Spectrum
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-625803
+    SCOPE: Multiple circuits in the Fergus area bounced.
+    START: 2020-07-14 07:03:00
+    END: 2020-07-14 07:05:00
+    DURATION: 00:02
+    DIVERSITY: CSU Stanislaus - Stockton Center ;; Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Mariposa COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] RFO pending
+
+ISSUE: NOC-625727
+    SCOPE: Multiple Spectrum circuits bounce to Los Angeles hub site.
+    START: 2020-07-13 13:55:00
+    END: 2020-07-13 14:15:00
+    DURATION: 00:20
+    DIVERSITY: Citrus CCD ;; College of the Desert ;; Copper Mountain CCD ;; LA Mission College ;; Mt. San Antonio CCD ;; Pepperdine University
+    CONNECTIVITY: Monrovia Public Library ;; Santa Fe Springs City Library William C Gordon Learning Center
+    PROVIDER: Spectrum
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-625728
+    SCOPE: Multiple CrownCastle Dark fiber circuits were unstable.
+    START: 2020-07-13 13:59:00
+    END: 2020-07-13 14:22:00
+    DURATION: 00:23
+    DIVERSITY: Chaffey Joint Union Hight School District ;; Los Angeles USD ;; San Bernardino CSS
+    CONNECTIVITY: 
+    PROVIDER: Sunesys
+    REASON: [unknown] Generic DF RFO
+
+ISSUE: NOC-625724
+    SCOPE: Multiple circuits in Bay Area briefly bounced.
+    START: 2020-07-13 13:28:00
+    END: 2020-07-13 13:29:00
+    DURATION: 00:01
+    DIVERSITY: Alameda County Library ;; Berkeley CC ;; Cabrillo CCD ;; College of the Redwoods CCD ;; DeAnza - Foothill DeAnza CCD ;; Gavilan - Gavilan Joint CCD ;; Humboldt State University ;; Mission College ;; Peralta CCD Office ;; San Jose CC ;; Solano County CCD ;; West Valley-Mission CCD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] ATT unable to identify RFO
+
+ISSUE: NOC-625693
+    SCOPE: Multiple circuits in the LA and Tustin region were down.
+    START: 2020-07-13 10:01:00
+    END: 2020-07-13 10:02:00
+    DURATION: 00:01
+    DIVERSITY: Canyon Country Education Center ;; Cerritos CCD ;; College of the Canyons ;; Compton College ;; CSU Channel Islands ;; CSU Northridge ;; Cypress College ;; El Camino College ;; Fullerton College ;; LA City College ;; LA Harbor College ;; LA Mission College ;; LA Southwest College ;; Moorpark College ;; Moreno Valley College ;; Norco CC ;; North Orange County CCD Office ;; Oxnard - Ventura County CCD ;; Rancho Santiago CCD ;; Riverside CCD ;; Ventura College ;; West Los Angeles College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-625674
+    SCOPE: Multiple CrownCastle Dark fiber circuits are unstable.
+    START: 2020-07-13 02:24:00
+    END: 2020-07-13 06:25:00
+    DURATION: 04:01
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: Los Angeles Public Library
+    PROVIDER: Crown Castle
+    REASON: [provider maintenance] Techs bumped fibers during unrelated maintenance
+
+ISSUE: NOC-625533
+    SCOPE: Multiple dark fiber circuits are unstable in the Los Angeles region.
+    START: 2020-07-09 21:57:00
+    END: 2020-07-09 22:01:00
+    DURATION: 00:04
+    DIVERSITY: Chaffey Joint UHSD ;; Los Angeles USD ;; Los Angeles USD - Van Nuys
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Generic DF RFO
+
+ISSUE: NOC-625441
+    SCOPE: Circuit between Del Norte COE and Siskiyou COE is down.
+    START: 2020-07-09 00:31:00
+    END: 2020-07-09 01:33:00
+    DURATION: 01:02
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [unknown] 
+
+ISSUE: NOC-623435
+    SCOPE: Higher Level Services Down Following Maintenance
+    START: 2020-07-08 06:00:00
+    END: 2020-07-08 10:08:00
+    DURATION: 04:08
+    DIVERSITY: 
+    CONNECTIVITY: Caltech ;; University of California, Santa Cruz
+    PROVIDER: Equinix
+    REASON: [other] CENIC's configs post-maintenance
+
+ISSUE: NOC-625293
+    SCOPE: Multiple circuits in the Central Valley are down.
+    START: 2020-07-07 10:08:00
+    END: 2020-07-07 21:37:00
+    DURATION: 11:29
+    DIVERSITY: Ceres Unified School District ;; Columbia CC ;; CSU Stanislaus ;; CSU Stanislaus - Stockton Center ;; San Joaquin COE ;; San Joaquin Delta College ;; Stanislaus COE
+    CONNECTIVITY: Amador County Library ;; Calaveras County Library ;; Stanislaus County Library ;; Tuolumne County Library
+    PROVIDER: Vast
+    REASON: [fiber cut] 
+
+
+3. UC
+
+ISSUE: NOC-625653
+    SCOPE: UCPath Center brief outage.
+    START: 2020-07-12 15:43:00
+    END: 2020-07-12 15:46:00
+    DURATION: 00:03
+    DIVERSITY: 
+    CONNECTIVITY: UCPath Center
+    PROVIDER: Sunesys
+    REASON: [other] Spectrum MTU reset after power loss
+
+
+4. CSU
+
+
+5. CC
+
+ISSUE: NOC-625813
+    SCOPE: College of the Siskiyous connectivity was down.
+    START: 2020-07-14 01:46:00
+    END: 2020-07-14 11:08:00
+    DURATION: 09:22
+    DIVERSITY: 
+    CONNECTIVITY: College of the Siskiyous
+    PROVIDER: CENIC Internal
+    REASON: [other] Remained down post CENIC maintenance
+
+ISSUE: NOC-625517
+    SCOPE: The OC3 circuit between Palo Verde CCD to Los Angeles hub site is down.
+    START: 2020-07-09 17:20:00
+    END: 2020-07-10 15:01:00
+    DURATION: 21:41
+    DIVERSITY: 
+    CONNECTIVITY: Palo Verde College
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625417
+    SCOPE: San Jose CC down.
+    START: 2020-07-08 17:48:00
+    END: 2020-07-08 17:49:00
+    DURATION: 00:01
+    DIVERSITY: San Jose Evergreen CCD District Office ;; San Jose Evergreen Valley CC
+    CONNECTIVITY: San Jose CC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625463
+    SCOPE: The connection to Palomar College North Education Center is up.
+    START: 2020-07-09 06:45:00
+    END: 2020-07-09 11:02:00
+    DURATION: 04:17
+    DIVERSITY: 
+    CONNECTIVITY: Palomar College North Education Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625417
+    SCOPE: Sierra Joint CCD router down
+    START: 2020-07-08 19:47:00
+    END: 2020-07-08 21:01:00
+    DURATION: 01:14
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-625762
+    SCOPE: Orange County Dept. of Education's 100G Circuit to Los Angeles down
+    START: 2020-07-13 22:08:00
+    END: 2020-07-13 22:10:00
+    DURATION: 00:02
+    DIVERSITY: Orange County Department of Education
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-625646
+    SCOPE: Placer COE circuit to West Sacramento was down.
+    START: 2020-07-12 10:11:00
+    END: 2020-07-12 11:11:00
+    DURATION: 01:00
+    DIVERSITY: Placer COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625623
+    SCOPE: Santa Maria JUHSD to SLO down
+    START: 2020-07-11 08:17:00
+    END: 2020-07-11 14:54:00
+    DURATION: 06:37
+    DIVERSITY: Santa Barbara COE ;; Santa Maria JUHSD
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625416
+    SCOPE: Sierra COE - West loss of connectivity.
+    START: 2020-07-08 19:35:00
+    END: 2020-07-08 23:08:00
+    DURATION: 03:33
+    DIVERSITY: 
+    CONNECTIVITY: Sierra COE - WEST
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625327
+    SCOPE: Orange COE's 100GE circuit to Los Angeles is unstable.
+    START: 2020-07-07 21:17:00
+    END: 2020-07-07 22:55:00
+    DURATION: 01:38
+    DIVERSITY: Orange County Department of Education
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-625462
+    SCOPE: Los Angeles USD- Van Nuys 100GE circuit to Tustin bounced.
+    START: 2020-07-09 06:19:00
+    END: 2020-07-09 06:24:00
+    DURATION: 00:05
+    DIVERSITY: Los Angeles USD
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] Pending
+
+
+7. Library
+
+ISSUE: NOC-625740
+    SCOPE: Redondo Beach Public Library Circuit to Tustin down.
+    START: 2020-07-13 20:19:00
+    END: 2020-07-13 20:42:00
+    DURATION: 00:23
+    DIVERSITY: Redondo Beach Public Library
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [faulty optic] 
+
+ISSUE: NOC-625666
+    SCOPE: Corona Public Library is unavailable.
+    START: 2020-07-12 22:38:00
+    END: 2020-07-13 02:25:00
+    DURATION: 03:47
+    DIVERSITY: 
+    CONNECTIVITY: Corona Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625592
+    SCOPE: Yuba County Library power bounce
+    START: 2020-07-10 12:58:00
+    END: 2020-07-10 13:07:00
+    DURATION: 00:09
+    DIVERSITY: 
+    CONNECTIVITY: Yuba County Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625531
+    SCOPE: El Dorado Hills County Library unreachable
+    START: 2020-07-09 21:07:00
+    END: 2020-07-10 04:26:00
+    DURATION: 07:19
+    DIVERSITY: 
+    CONNECTIVITY: El Dorado County Library - El Dorado Hills Branch
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-625555
+    SCOPE: 100G circuit bounced.
+    START: 2020-07-10 02:47:00
+    END: 2020-07-10 03:49:00
+    DURATION: 01:02
+    DIVERSITY: 
+    CONNECTIVITY: Los Angeles Public Library
+    PROVIDER: Crown Castle
+    REASON: [provider maintenance] CCF working another outage and bumping CENIC fibers
+
+
+8. Other
+
+ISSUE: NOC-625637
+    SCOPE: Los Nettos circuits to Riverside restored
+    START: 2020-07-12 00:43:00
+    END: 2020-07-12 10:16:00
+    DURATION: 09:33
+    DIVERSITY: Los Nettos
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [unknown] No carrier, handoffs down at colo
+
+ISSUE: NOC-625608
+    SCOPE: CLR-4018 bounce
+    START: 2020-07-10 18:51:00
+    END: 2020-07-10 18:52:00
+    DURATION: 00:01
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [unknown] 
+
+

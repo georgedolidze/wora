@@ -1,0 +1,552 @@
+[
+    {
+        "issue": "NOC-636138",
+        "start": "2020-11-23 21:36:00",
+        "end": "2020-11-23 21:38:00",
+        "scope": "Humboldt County Library",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [
+            "CENIC Internal"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "other",
+        "rfo_description": "Bad CENIC config"
+    },
+    {
+        "issue": "NOC-636051",
+        "start": "2020-11-23 08:22:00",
+        "end": "2020-11-23 14:26:00",
+        "scope": "Bay Area backbone outage.",
+        "diversity": [
+            "Jackson Labs",
+            "Los Nettos",
+            "UC Davis",
+            "UC Davis HPR",
+            "UC Davis to Amazon",
+            "UC San Diego to NOAA",
+            "UC Santa Cruz",
+            "UC Santa Cruz - Enterprise Technology Center",
+            "UCANR Davis Headquarters"
+        ],
+        "connectivity": [
+            "XD Circuits:",
+            "CENIC-L2-SNVL-UCR-DDOS-8059",
+            "CENIC-XD-LAX-SVL-10GE-4040-R51"
+        ],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": null,
+        "category": "Backbone",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-636085",
+        "start": "2020-11-23 10:45:00",
+        "end": "2020-11-23 10:46:00",
+        "scope": "Multiple AT&T circuits bounced",
+        "diversity": [
+            "Crafton Hills College",
+            "Moreno Valley College",
+            "Riverside CCD"
+        ],
+        "connectivity": [
+            "Norco CC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-636070",
+        "start": "2020-11-23 09:50:00",
+        "end": "2020-11-23 09:51:00",
+        "scope": "Multiple AT&T circuits bounced in the Southern California area.",
+        "diversity": [
+            "Chaffey CCD",
+            "Chaffey CCD Fontana Learning Center",
+            "Chaffey College, Chino Center",
+            "Irvine Valley College",
+            "Moreno Valley College",
+            "Norco CC",
+            "Riverside CCD",
+            "Saddleback CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-636043",
+        "start": "2020-11-23 07:57:00",
+        "end": "2020-11-23 07:58:00",
+        "scope": "UC Health Systems Outage",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": "RFO pending"
+    },
+    {
+        "issue": "NOC-635972",
+        "start": "2020-11-22 00:12:00",
+        "end": "2020-11-23 04:55:00",
+        "scope": "Mira Costa - San Elijo 10GE circuit to Riverside is unavailable",
+        "diversity": [
+            "Mira Costa College Community Learning Center",
+            "MiraCosta College",
+            "MiraCosta College San Elijo Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "294647026",
+        "category": "CC",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-636031",
+        "start": "2020-11-23 04:37:00",
+        "end": "2020-11-23 04:56:00",
+        "scope": "San Diego Circuits Briefly Down",
+        "diversity": [
+            "Cuyamaca CC",
+            "Grossmont CCDO",
+            "Southwestern CCD HEC - San Ysidro",
+            "University of San Diego"
+        ],
+        "connectivity": [
+            "Southwestern CCD HEC - National City"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-636005",
+        "start": "2020-11-22 14:55:00",
+        "end": "2020-11-22 15:02:00",
+        "scope": "UCSF Health System bounce",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Zayo"
+        ],
+        "telco_ticket_id": "TTN-0004608082 ",
+        "category": "UC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635973",
+        "start": "2020-11-22 00:05:00",
+        "end": "2020-11-22 03:43:00",
+        "scope": "Shasta CC Trinity Center is unavailable.",
+        "diversity": [
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences"
+        ],
+        "connectivity": [
+            "Shasta CCD Trinity Center"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635952",
+        "start": "2020-11-21 09:14:00",
+        "end": "2020-11-21 09:37:00",
+        "scope": "Moorpark City Library is down",
+        "diversity": [],
+        "connectivity": [
+            "Moorpark City Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "294638928",
+        "category": "Library",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635950",
+        "start": "2020-11-21 09:12:00",
+        "end": "2020-11-21 09:13:00",
+        "scope": "CENIC backbone outage - Central Valley",
+        "diversity": [
+            "Los Nettos",
+            "National Oceanic and Atmospheric Administration",
+            "University of California, Merced",
+            "University of California, San Diego"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635948",
+        "start": "2020-11-21 07:25:00",
+        "end": "2020-11-21 07:32:00",
+        "scope": "The 10GE circuit to Soledad has restored.",
+        "diversity": [
+            "CSU Monterey Bay"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "294637381 and 294635942 (new)",
+        "category": "CSU",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635898",
+        "start": "2020-11-20 09:03:00",
+        "end": "2020-11-20 11:23:00",
+        "scope": "Humboldt County Library Outage",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635866",
+        "start": "2020-11-20 00:41:00",
+        "end": "2020-11-20 08:01:00",
+        "scope": "UCANR Hansen REC restored",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Hansen REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635864",
+        "start": "2020-11-20 00:24:00",
+        "end": "2020-11-20 05:53:00",
+        "scope": "Santa Barbara CC 10GE circuit to Los Angeles Hub is down.",
+        "diversity": [
+            "Santa Barbara CC",
+            "Santa Barbara City College - Schott Center",
+            "Santa Barbara City College - Wake Center",
+            "Santa Barbara City College Cosmetology Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cox"
+        ],
+        "telco_ticket_id": "25593786",
+        "category": "CC",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635763",
+        "start": "2020-11-19 11:51:00",
+        "end": "2020-11-19 13:41:00",
+        "scope": "CSU Northridge 100G circuit to Los Angeles is unstable.",
+        "diversity": [
+            "CSU Northridge"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20350176",
+        "category": "CSU",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635820",
+        "start": "2020-11-19 10:08:00",
+        "end": "2020-11-19 10:33:00",
+        "scope": "CSU Chancellor's Office circuit 10G circuit to the Tustin hub site is down.",
+        "diversity": [
+            "CSU Chancellor's Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80388457",
+        "category": "CSU",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635763",
+        "start": "2020-11-18 20:44:00",
+        "end": "2020-11-19 08:38:00",
+        "scope": "CSU Northridge 100G circuit to Los Angeles is unstable.",
+        "diversity": [
+            "CSU Northridge"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20350176",
+        "category": "CSU",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635793",
+        "start": "2020-11-19 07:35:00",
+        "end": "2020-11-19 08:40:00",
+        "scope": "LAUSD - Van Nuys 100G circuit down.",
+        "diversity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20350253",
+        "category": "K12/COE",
+        "rfo_category": "provider maintenance",
+        "rfo_description": "Fiber bump during unrelated maintenance"
+    },
+    {
+        "issue": "NOC-635780",
+        "start": "2020-11-19 01:17:00",
+        "end": "2020-11-19 04:16:00",
+        "scope": "Yolo COE is Down Due to Scheduled Power Maintenance",
+        "diversity": [
+            "California Department of Education"
+        ],
+        "connectivity": [
+            "Yuba COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635793",
+        "start": "2020-11-19 04:18:00",
+        "end": "2020-11-19 04:23:00",
+        "scope": "LAUSD - Van Nuys 100G circuit down.",
+        "diversity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20350253",
+        "category": "K12/COE",
+        "rfo_category": "provider maintenance",
+        "rfo_description": "Fiber bump during unrelated maintenance"
+    },
+    {
+        "issue": "NOC-635736",
+        "start": "2020-11-18 12:11:00",
+        "end": "2020-11-18 12:35:00",
+        "scope": "Rancho Mirage Public Library is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Rancho Mirage Public Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "ECT-80386938",
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635728",
+        "start": "2020-11-18 09:33:00",
+        "end": "2020-11-18 10:11:00",
+        "scope": "The circuit to Ceres USD is up.",
+        "diversity": [],
+        "connectivity": [
+            "Ceres Unified School District"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635707",
+        "start": "2020-11-18 05:08:00",
+        "end": "2020-11-18 07:28:00",
+        "scope": "Ohlone CC's 10G circuit to Oakland outage.",
+        "diversity": [
+            "Ohlone College",
+            "Ohlone College Newark Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635714",
+        "start": "2020-11-18 07:24:00",
+        "end": "2020-11-18 07:31:00",
+        "scope": "Multiple circuits down briefly in SoCal region.",
+        "diversity": [
+            "Long Beach City College",
+            "Long Beach PCC"
+        ],
+        "connectivity": [
+            "Santa Clarita Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "294495913 294495634",
+        "category": "Multi-site",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635707",
+        "start": "2020-11-18 05:08:00",
+        "end": "2020-11-18 05:14:00",
+        "scope": "Ohlone CC's 10G circuit to Oakland outage.",
+        "diversity": [
+            "Ohlone College",
+            "Ohlone College Newark Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635610",
+        "start": "2020-11-17 07:54:00",
+        "end": "2020-11-18 00:57:00",
+        "scope": "1G Circuits between Del Norte and Siskiyou COE are down.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635636",
+        "start": "2020-11-18 02:05:00",
+        "end": "2020-11-18 04:01:00",
+        "scope": "Circuit between Las Positas CC and Sunnyvale was down.",
+        "diversity": [
+            "Las Positas CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "CM428195",
+        "category": "CC",
+        "rfo_category": "higher level carrier",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-635629",
+        "start": "2020-11-17 10:37:00",
+        "end": "2020-11-18 00:59:00",
+        "scope": "Loyalton HS is unreachable.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Loyalton HS - Sierra COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    }
+]

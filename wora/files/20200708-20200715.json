@@ -1,0 +1,538 @@
+[
+    {
+        "issue": "NOC-625702",
+        "start": "2020-07-13 11:06:00",
+        "end": "2020-07-13 11:11:00",
+        "scope": "Multiple CVIN circuits drop in the Central Valley.",
+        "diversity": [
+            "Earlimart School District",
+            "Fresno City College",
+            "Fresno County Library",
+            "Kern COE",
+            "Kern County Library",
+            "Kings County Library",
+            "Porterville Public Library"
+        ],
+        "connectivity": [
+            "Tulare County Library",
+            "Tulare Public Library"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625762",
+        "start": "2020-07-13 22:08:00",
+        "end": "2020-07-13 22:10:00",
+        "scope": "Orange County Dept. of Education's 100G Circuit to Los Angeles down",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20311485"
+    },
+    {
+        "issue": "NOC-625738",
+        "start": "2020-07-13 18:49:00",
+        "end": "2020-07-13 21:31:00",
+        "scope": "100GE backbone link between Palm Desert and San Diego is down.",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "Juniper"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625728",
+        "start": "2020-07-13 13:59:00",
+        "end": "2020-07-13 23:55:00",
+        "scope": "Multiple Crown Castle dark fiber circuits are unstable.",
+        "diversity": [
+            "Chaffey Joint UHSD",
+            "Los Angeles USD",
+            "San Bernardino CSS"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Sunesys"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625807",
+        "start": "2020-07-14 07:41:00",
+        "end": "2020-07-14 07:42:00",
+        "scope": "Multiple circuits in Bay Area briefly bounced.",
+        "diversity": [
+            "Marin COE",
+            "Solano CC",
+            "Sonoma State University"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625727",
+        "start": "2020-07-13 13:55:00",
+        "end": "2020-07-14 00:00:00",
+        "scope": "Multiple Spectrum circuits are unstable at Los Angeles hub site.",
+        "diversity": [
+            "Citrus CCD",
+            "College of the Desert",
+            "Copper Mountain CCD",
+            "LA Mission College",
+            "Mt. San Antonio CCD",
+            "Pepperdine University"
+        ],
+        "connectivity": [
+            "Monrovia Public Library",
+            "Santa Fe Springs City Library William C Gordon Learning Center"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ETC-80219577 / ETC-80219650 / ETC-80219669 / ECT-80219721 / ETC-80219730"
+    },
+    {
+        "issue": "NOC-625740",
+        "start": "2020-07-13 20:19:00",
+        "end": "2020-07-13 20:42:00",
+        "scope": "Redondo Beach Public Library Circuit to Tustin down.",
+        "diversity": [
+            "Redondo Beach Public Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80219805"
+    },
+    {
+        "issue": "NOC-625813",
+        "start": "2020-07-14 01:46:00",
+        "end": "2020-07-14 11:08:00",
+        "scope": "College of the Siskiyous connectivity was down.",
+        "diversity": [],
+        "connectivity": [
+            "College of the Siskiyous"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625803",
+        "start": "2020-07-14 07:03:00",
+        "end": "2020-07-14 07:05:00",
+        "scope": "Multiple circuits in the Fergus area bounced.",
+        "diversity": [
+            "CSU Stanislaus - Stockton Center",
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Mariposa COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625727",
+        "start": "2020-07-13 13:55:00",
+        "end": "2020-07-13 14:15:00",
+        "scope": "Multiple Spectrum circuits bounce to Los Angeles hub site.",
+        "diversity": [
+            "Citrus CCD",
+            "College of the Desert",
+            "Copper Mountain CCD",
+            "LA Mission College",
+            "Mt. San Antonio CCD",
+            "Pepperdine University"
+        ],
+        "connectivity": [
+            "Monrovia Public Library",
+            "Santa Fe Springs City Library William C Gordon Learning Center"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ETC-80219577 / ETC-80219650 / ETC-80219669 / ECT-80219721 / ETC-80219730"
+    },
+    {
+        "issue": "NOC-625728",
+        "start": "2020-07-13 13:59:00",
+        "end": "2020-07-13 14:22:00",
+        "scope": "Multiple CrownCastle Dark fiber circuits were unstable.",
+        "diversity": [
+            "Chaffey Joint Union Hight School District",
+            "Los Angeles USD",
+            "San Bernardino CSS"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Sunesys"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625724",
+        "start": "2020-07-13 13:28:00",
+        "end": "2020-07-13 13:29:00",
+        "scope": "Multiple circuits in Bay Area briefly bounced.",
+        "diversity": [
+            "Alameda County Library",
+            "Berkeley CC",
+            "Cabrillo CCD",
+            "College of the Redwoods CCD",
+            "DeAnza - Foothill DeAnza CCD",
+            "Gavilan - Gavilan Joint CCD",
+            "Humboldt State University",
+            "Mission College",
+            "Peralta CCD Office",
+            "San Jose CC",
+            "Solano County CCD",
+            "West Valley-Mission CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625693",
+        "start": "2020-07-13 10:01:00",
+        "end": "2020-07-13 10:02:00",
+        "scope": "Multiple circuits in the LA and Tustin region were down.",
+        "diversity": [
+            "Canyon Country Education Center",
+            "Cerritos CCD",
+            "College of the Canyons",
+            "Compton College",
+            "CSU Channel Islands",
+            "CSU Northridge",
+            "Cypress College",
+            "El Camino College",
+            "Fullerton College",
+            "LA City College",
+            "LA Harbor College",
+            "LA Mission College",
+            "LA Southwest College",
+            "Moorpark College",
+            "Moreno Valley College",
+            "Norco CC",
+            "North Orange County CCD Office",
+            "Oxnard - Ventura County CCD",
+            "Rancho Santiago CCD",
+            "Riverside CCD",
+            "Ventura College",
+            "West Los Angeles College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625674",
+        "start": "2020-07-13 02:24:00",
+        "end": "2020-07-13 06:25:00",
+        "scope": "Multiple CrownCastle Dark fiber circuits are unstable.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [
+            "Los Angeles Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625666",
+        "start": "2020-07-12 22:38:00",
+        "end": "2020-07-13 02:25:00",
+        "scope": "Corona Public Library is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Corona Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625653",
+        "start": "2020-07-12 15:43:00",
+        "end": "2020-07-12 15:46:00",
+        "scope": "UCPath Center brief outage.",
+        "diversity": [],
+        "connectivity": [
+            "UCPath Center"
+        ],
+        "vendors_involved": [
+            "Sunesys"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625646",
+        "start": "2020-07-12 10:11:00",
+        "end": "2020-07-12 11:11:00",
+        "scope": "Placer COE circuit to West Sacramento was down.",
+        "diversity": [
+            "Placer COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625637",
+        "start": "2020-07-12 00:43:00",
+        "end": "2020-07-12 10:16:00",
+        "scope": "Los Nettos circuits to Riverside restored",
+        "diversity": [
+            "Los Nettos"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625623",
+        "start": "2020-07-11 08:17:00",
+        "end": "2020-07-11 14:54:00",
+        "scope": "Santa Maria JUHSD to SLO down",
+        "diversity": [
+            "Santa Barbara COE",
+            "Santa Maria JUHSD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625608",
+        "start": "2020-07-10 18:51:00",
+        "end": "2020-07-10 18:52:00",
+        "scope": "CLR-4018 bounce",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625517",
+        "start": "2020-07-09 17:20:00",
+        "end": "2020-07-10 15:01:00",
+        "scope": "The OC3 circuit between Palo Verde CCD to Los Angeles hub site is down.",
+        "diversity": [],
+        "connectivity": [
+            "Palo Verde College"
+        ],
+        "vendors_involved": [
+            "Frontier",
+            "AT&T"
+        ],
+        "telco_ticket_id": "Frontier 2814932 / AT&T 070903548"
+    },
+    {
+        "issue": "NOC-625592",
+        "start": "2020-07-10 12:58:00",
+        "end": "2020-07-10 13:07:00",
+        "scope": "Yuba County Library power bounce",
+        "diversity": [],
+        "connectivity": [
+            "Yuba County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625531",
+        "start": "2020-07-09 21:07:00",
+        "end": "2020-07-10 04:26:00",
+        "scope": "El Dorado Hills County Library unreachable",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - El Dorado Hills Branch"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625416",
+        "start": "2020-07-08 19:35:00",
+        "end": "2020-07-08 23:08:00",
+        "scope": "Sierra COE - West loss of connectivity.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625533",
+        "start": "2020-07-09 21:57:00",
+        "end": "2020-07-09 22:01:00",
+        "scope": "Multiple dark fiber circuits are unstable in the Los Angeles region.",
+        "diversity": [
+            "Chaffey Joint UHSD",
+            "Los Angeles USD",
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": "CCF20310444"
+    },
+    {
+        "issue": "NOC-625417",
+        "start": "2020-07-08 17:48:00",
+        "end": "2020-07-08 17:49:00",
+        "scope": "San Jose CC down.",
+        "diversity": [
+            "San Jose Evergreen CCD District Office",
+            "San Jose Evergreen Valley CC"
+        ],
+        "connectivity": [
+            "San Jose CC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625441",
+        "start": "2020-07-09 00:31:00",
+        "end": "2020-07-09 01:33:00",
+        "scope": "Circuit between Del Norte COE and Siskiyou COE is down.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2814425"
+    },
+    {
+        "issue": "NOC-625327",
+        "start": "2020-07-07 21:17:00",
+        "end": "2020-07-07 22:55:00",
+        "scope": "Orange COE's 100GE circuit to Los Angeles is unstable.",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF203309785"
+    },
+    {
+        "issue": "NOC-625555",
+        "start": "2020-07-10 02:47:00",
+        "end": "2020-07-10 03:49:00",
+        "scope": "100G circuit bounced.",
+        "diversity": [],
+        "connectivity": [
+            "Los Angeles Public Library"
+        ],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20310491"
+    },
+    {
+        "issue": "NOC-625462",
+        "start": "2020-07-09 06:19:00",
+        "end": "2020-07-09 06:24:00",
+        "scope": "Los Angeles USD- Van Nuys 100GE circuit to Tustin bounced.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625463",
+        "start": "2020-07-09 06:45:00",
+        "end": "2020-07-09 11:02:00",
+        "scope": "The connection to Palomar College North Education Center is up.",
+        "diversity": [],
+        "connectivity": [
+            "Palomar College North Education Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625417",
+        "start": "2020-07-08 19:47:00",
+        "end": "2020-07-08 21:01:00",
+        "scope": "Sierra Joint CCD router down",
+        "diversity": [
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-623435",
+        "start": "2020-07-08 06:00:00",
+        "end": "2020-07-08 10:08:00",
+        "scope": "Higher Level Services Down Following Maintenance",
+        "diversity": [],
+        "connectivity": [
+            "Caltech",
+            "University of California, Santa Cruz"
+        ],
+        "vendors_involved": [
+            "Equinix"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-625293",
+        "start": "2020-07-07 10:08:00",
+        "end": "2020-07-07 21:37:00",
+        "scope": "Multiple circuits in the Central Valley are down.",
+        "diversity": [
+            "Ceres Unified School District",
+            "Columbia CC",
+            "CSU Stanislaus",
+            "CSU Stanislaus - Stockton Center",
+            "San Joaquin COE",
+            "San Joaquin Delta College",
+            "Stanislaus COE"
+        ],
+        "connectivity": [
+            "Amador County Library",
+            "Calaveras County Library",
+            "Stanislaus County Library",
+            "Tuolumne County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    }
+]

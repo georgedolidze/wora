@@ -1,0 +1,342 @@
+[
+    {
+        "issue": "NOC-632743",
+        "start": "2020-10-13 13:38:00",
+        "end": "2020-10-13 14:06:00",
+        "scope": "Riverside COE - Indio Connections instability",
+        "diversity": [],
+        "connectivity": [
+            "Riverside - Indio COE"
+        ],
+        "vendors_involved": [
+            "Charter"
+        ],
+        "telco_ticket_id": "ECT-80339900 "
+    },
+    {
+        "issue": "NOC-632699",
+        "start": "2020-10-13 07:37:00",
+        "end": "2020-10-13 09:02:00",
+        "scope": "Both circuits between Del Norte COE and Siskiyou COE are currently up.",
+        "diversity": [
+            "Del Norte COE",
+            "Siskiyou COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632707",
+        "start": "2020-10-13 08:58:00",
+        "end": "2020-10-13 09:02:00",
+        "scope": "Shasta CC Trinity Center Connections outage.",
+        "diversity": [
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences"
+        ],
+        "connectivity": [
+            "Shasta CCD Trinity Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632674",
+        "start": "2020-10-13 00:00:00",
+        "end": "2020-10-13 05:30:00",
+        "scope": "CENIC Email system outage",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632630",
+        "start": "2020-10-12 08:48:00",
+        "end": "2020-10-12 21:22:00",
+        "scope": "The Spectrum circuit to Mt. San Antonio CC is down.",
+        "diversity": [
+            "Mt. San Antonio CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT80336390"
+    },
+    {
+        "issue": "NOC-632587",
+        "start": "2020-10-11 14:21:00",
+        "end": "2020-10-12 11:26:00",
+        "scope": "UCANR Elkus Ranch REC is up.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290608809"
+    },
+    {
+        "issue": "NOC-632587",
+        "start": "2020-10-11 14:21:00",
+        "end": "2020-10-12 08:16:00",
+        "scope": "UCANR Elkus Ranch REC is up.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290608809"
+    },
+    {
+        "issue": "NOC-632589",
+        "start": "2020-10-11 14:51:00",
+        "end": "2020-10-12 07:21:00",
+        "scope": "Router is back up.",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632602",
+        "start": "2020-10-12 00:20:00",
+        "end": "2020-10-12 00:25:00",
+        "scope": "LAUSD's 100G circuit to Tustin bounced.",
+        "diversity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20337257"
+    },
+    {
+        "issue": "NOC-632574",
+        "start": "2020-10-11 03:34:00",
+        "end": "2020-10-11 17:18:00",
+        "scope": "College of the Alameda Science Annex Center's circuit to Sunnyvale is unstable",
+        "diversity": [
+            "College of the Alameda Science Annex Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290542827"
+    },
+    {
+        "issue": "NOC-632578",
+        "start": "2020-10-11 02:15:00",
+        "end": "2020-10-11 17:18:00",
+        "scope": "College of the Alameda Aviation Center's circuit to Sunnyvale is unstable.",
+        "diversity": [
+            "College of the Alameda Aviation Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290566222"
+    },
+    {
+        "issue": "NOC-632592",
+        "start": "2020-10-11 16:14:00",
+        "end": "2020-10-11 18:50:00",
+        "scope": "Multiple 10GE circuits down",
+        "diversity": [
+            "Humboldt COE",
+            "Humboldt State University",
+            "Northern Humboldt USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632530",
+        "start": "2020-10-10 08:57:00",
+        "end": "2020-10-10 15:22:00",
+        "scope": "Multiple Spectrum circuits around Camarillo down",
+        "diversity": [
+            "Ventura COE",
+            "Ventura County CCD Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80334992"
+    },
+    {
+        "issue": "NOC-632522",
+        "start": "2020-10-10 03:54:00",
+        "end": "2020-10-10 08:26:00",
+        "scope": "Humboldt County Library restored",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632541",
+        "start": "2020-10-10 11:27:00",
+        "end": "2020-10-10 11:32:00",
+        "scope": "10GE circuit between Sunnyvale and Monterey COE was down.",
+        "diversity": [
+            "Monterey COE",
+            "San Benito COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290444756"
+    },
+    {
+        "issue": "NOC-632533",
+        "start": "2020-10-10 09:15:00",
+        "end": "2020-10-10 09:46:00",
+        "scope": "The 100GE circuit between Chaffey Joint UHSD and San Bernardino CSS was down.",
+        "diversity": [
+            "San Bernardino CSS"
+        ],
+        "connectivity": [
+            "Chaffey Joint UHSD"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632524",
+        "start": "2020-10-10 05:38:00",
+        "end": "2020-10-10 05:46:00",
+        "scope": "Victor Valley CCD School of Aviation is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632438",
+        "start": "2020-10-08 22:16:00",
+        "end": "2020-10-08 23:42:00",
+        "scope": "Hemet Public Library is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Hemet Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-632379",
+        "start": "2020-10-08 03:17:00",
+        "end": "2020-10-08 06:15:00",
+        "scope": "Beaumont Library District 1G circuit to Los Angeles is Down",
+        "diversity": [],
+        "connectivity": [
+            "Beaumont Library District"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE125953"
+    },
+    {
+        "issue": "NOC-632408",
+        "start": "2020-10-08 11:59:00",
+        "end": "2020-10-08 12:00:00",
+        "scope": "Multiple circuits in the SoCal Region briefly bounced.",
+        "diversity": [
+            "City Of Hope"
+        ],
+        "connectivity": [
+            "Irwindale Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "290116222 290115605"
+    },
+    {
+        "issue": "NOC-632316",
+        "start": "2020-10-07 14:29:00",
+        "end": "2020-10-08 05:53:00",
+        "scope": "Orange County Department of Education's 100GE circuit to Los Angeles is down.",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF 20337703"
+    },
+    {
+        "issue": "NOC-632380",
+        "start": "2020-10-08 03:32:00",
+        "end": "2020-10-08 03:42:00",
+        "scope": "CSU Chancellors Office Circuit to Tustin down.",
+        "diversity": [
+            "CSU Chancellor's Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-803331950"
+    },
+    {
+        "issue": "NOC-632324",
+        "start": "2020-10-07 14:39:00",
+        "end": "2020-10-07 16:54:00",
+        "scope": "Siskiyou outages",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Siskiyou County Free Library"
+        ],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2860204"
+    },
+    {
+        "issue": "NOC-632301",
+        "start": "2020-10-07 11:00:00",
+        "end": "2020-10-07 11:01:00",
+        "scope": "2 x 1GE circuits for Ohlone College Newark Center briefly bounced.",
+        "diversity": [
+            "Ohlone College"
+        ],
+        "connectivity": [
+            "Ohlone College Newark Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    }
+]

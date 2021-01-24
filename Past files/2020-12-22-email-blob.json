@@ -1,0 +1,210 @@
+[
+    {
+        "issue": "NOC-637967",
+        "start": "2020-12-19 07:01:00",
+        "end": "2020-12-19 07:02:00",
+        "scope": "Multiple circuits in the Bay Area briefly bounced.",
+        "diversity": [
+            "Canada College",
+            "San Mateo CCD",
+            "San Mateo COE",
+            "Santa Cruz COE"
+        ],
+        "connectivity": [
+            "Peninsula Library System"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295643687 295644137 295644539 295644966"
+    },
+    {
+        "issue": "NOC-637967",
+        "start": "2020-12-19 07:01:00",
+        "end": "2020-12-19 07:02:00",
+        "scope": "Multiple circuits in the Bay Area briefly bounced.",
+        "diversity": [
+            "San Mateo CCD",
+            "San Mateo COE",
+            "Santa Cruz COE"
+        ],
+        "connectivity": [
+            "Peninsula Library System"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295643687 295644137 295644539 295644966"
+    },
+    {
+        "issue": "NOC-637966",
+        "start": "2020-12-19 07:12:00",
+        "end": "2020-12-19 07:15:00",
+        "scope": "Humboldt County Library lost network connectivity.",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-637897",
+        "start": "2020-12-18 10:00:00",
+        "end": "2020-12-19 03:00:00",
+        "scope": "Shasta Trinity CC is unavailable",
+        "diversity": [
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences"
+        ],
+        "connectivity": [
+            "Shasta CCD Trinity Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-637685",
+        "start": "2020-12-17 10:46:00",
+        "end": "2020-12-18 12:22:00",
+        "scope": "Multiple circuits to Chaffey CC are down.",
+        "diversity": [
+            "Chaffey CCD",
+            "Chaffey CCD Fontana Learning Center",
+            "Chaffey College, Chino Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295560143, 295560997"
+    },
+    {
+        "issue": "NOC-637705",
+        "start": "2020-12-16 15:40:00",
+        "end": "2020-12-17 17:33:00",
+        "scope": "Victor Valley CC's circuit to Los Angeles is down.",
+        "diversity": [
+            "Victor Valley CCD",
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "SCE (So Cal Edison)"
+        ],
+        "telco_ticket_id": "3141642"
+    },
+    {
+        "issue": "NOC-637832",
+        "start": "2020-12-17 16:44:00",
+        "end": "2020-12-17 16:47:00",
+        "scope": "Multiple Crown Castle fibers bounced",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-637320",
+        "start": "2020-12-10 23:21:00",
+        "end": "2020-12-17 10:46:00",
+        "scope": "UCANR Riverside - Moreno Valley CPE is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Riverside Moreno Valley"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "295406689"
+    },
+    {
+        "issue": "NOC-637782",
+        "start": "2020-12-17 08:32:00",
+        "end": "2020-12-17 08:59:00",
+        "scope": "Multiple circuits in the West Sacramento region were down.",
+        "diversity": [
+            "Yuba COE"
+        ],
+        "connectivity": [
+            "Yuba County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-637776",
+        "start": "2020-12-17 00:00:00",
+        "end": "2020-12-17 06:30:00",
+        "scope": "Cenic Unannounced Maintenance affecting NorCal sites.",
+        "diversity": [
+            "CSU Chico",
+            "Feather River College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-636965",
+        "start": "2020-12-10 16:16:00",
+        "end": "2020-12-16 11:38:00",
+        "scope": "Loyalton HS GE to Triangle Court was down.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-637657",
+        "start": "2020-12-16 05:00:00",
+        "end": "2020-12-16 10:17:00",
+        "scope": "Riverside COE-Indio's 100G circuit is down.",
+        "diversity": [
+            "Riverside - Indio COE",
+            "Riverside COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80438124 and ECT-80437626 (new)"
+    },
+    {
+        "issue": "NOC-637547",
+        "start": "2020-12-14 23:43:00",
+        "end": "2020-12-16 01:28:00",
+        "scope": "Woodland Hills CC circuit to Yuba CC down.",
+        "diversity": [
+            "Woodland CC",
+            "Yuba CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI047018718"
+    },
+    {
+        "issue": "NOC-637846",
+        "start": "2020-12-17 18:37:00",
+        "end": "2020-12-17 19:37:00",
+        "scope": "Stanislaus County Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Stanislaus County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "5672 (CVIN)"
+    }
+]

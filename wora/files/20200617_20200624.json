@@ -1,0 +1,257 @@
+[
+    {
+        "issue": "NOC-624232",
+        "start": "2020-06-22 16:02:00",
+        "end": "2020-06-23 08:13:00",
+        "scope": "Cuesta College North County Campus is down.",
+        "diversity": [
+            "Cuesta College"
+        ],
+        "connectivity": [
+            "Cuesta College North County Campus"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624296",
+        "start": "2020-06-23 10:45:00",
+        "end": "2020-06-23 10:51:00",
+        "scope": "CSU Channel Island's circuit was unstable.",
+        "diversity": [
+            "CSU Channel Islands"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "281740419"
+    },
+    {
+        "issue": "NOC-624192",
+        "start": "2020-06-22 09:38:00",
+        "end": "2020-06-23 00:02:00",
+        "scope": "City of SF fiber outage",
+        "diversity": [
+            "University of California, San Francisco"
+        ],
+        "connectivity": [
+            "UCSF Metro Area Network"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "SER0303323 "
+    },
+    {
+        "issue": "NOC-624267",
+        "start": "2020-06-23 02:35:00",
+        "end": "2020-06-23 02:42:00",
+        "scope": "Victor Valley - School of Aviation down",
+        "diversity": [],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624175",
+        "start": "2020-06-22 05:24:00",
+        "end": "2020-06-22 08:06:00",
+        "scope": "Napa COE down.",
+        "diversity": [
+            "Napa Valley USD"
+        ],
+        "connectivity": [
+            "Napa COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624171",
+        "start": "2020-06-22 00:04:00",
+        "end": "2020-06-22 00:10:00",
+        "scope": "Sierra CCD - Roseville Center down.",
+        "diversity": [
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [
+            "Sierra CCD - Roseville Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624152",
+        "start": "2020-06-21 09:23:00",
+        "end": "2020-06-21 09:27:00",
+        "scope": "Multiple CVIN circuits bounced in Central Valley",
+        "diversity": [
+            "Coalinga District Library",
+            "College of the Sequoias - Hanford Campus",
+            "College of the Sequoias - Tulare Campus",
+            "College of the Sequoias CCD",
+            "Del Norte COE",
+            "Fresno County Library",
+            "Kern County Library",
+            "Kings County Library",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Madera County Library",
+            "Mariposa County Library",
+            "Merced County Library",
+            "Modoc COE",
+            "Plumas COE",
+            "Porterville Public Library",
+            "Siskiyou COE",
+            "Tulare County Library",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624144",
+        "start": "2020-06-20 18:20:00",
+        "end": "2020-06-20 18:41:00",
+        "scope": "10GE circuit to Los Angeles is unstable",
+        "diversity": [],
+        "connectivity": [
+            "Pepperdine University Malibu Campus"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80194576"
+    },
+    {
+        "issue": "NOC-624125",
+        "start": "2020-06-20 03:03:00",
+        "end": "2020-06-20 06:12:00",
+        "scope": "Madera COE network restored",
+        "diversity": [
+            "Chowchilla USD"
+        ],
+        "connectivity": [
+            "Madera COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624071",
+        "start": "2020-06-19 11:09:00",
+        "end": "2020-06-19 16:03:00",
+        "scope": "UCSB 10G to Sunnyvale down.",
+        "diversity": [
+            "University of California, Santa Barbara - DC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-624052",
+        "start": "2020-06-18 23:00:00",
+        "end": "2020-06-19 10:15:00",
+        "scope": "CENIC Coastal route maintenance complete",
+        "diversity": [
+            "Cal Poly San Luis Obispo",
+            "Cal Poly San Luis Obispo - Netlab",
+            "Naval Postgraduate School in Monterey",
+            "Openflow",
+            "Santa Barbara City College - Schott Center",
+            "Santa Barbara City College - Wake Center",
+            "Santa Barbara City College Cosmetology Center",
+            "University of California, Santa Barbara",
+            "University of California, Santa Barbara HPR",
+            "University of California, Santa Barbara to NOAA",
+            "University of California, Santa Cruz",
+            "University of California, Santa Cruz Enterprise Technology Center",
+            "University of California, Santa Cruz HPR",
+            "University of California, Santa Cruz Lick Observatory",
+            "University of California, Santa Cruz Science DMZ",
+            "University of California, Santa Cruz University Extension"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-623880",
+        "start": "2020-06-17 13:44:00",
+        "end": "2020-06-18 03:47:00",
+        "scope": "Dark fiber circuit is unstable.",
+        "diversity": [
+            "Los Angeles USD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": " (CCF-20301128 old for bounces)   CCF-20304807 for hard down"
+    },
+    {
+        "issue": "NOC-623873",
+        "start": "2020-06-17 10:48:00",
+        "end": "2020-06-17 10:58:00",
+        "scope": "Yuba COE was briefly unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Yuba COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-623698",
+        "start": "2020-06-15 20:55:00",
+        "end": "2020-06-17 01:45:00",
+        "scope": "Fiber Outage in the Los Angeles Area",
+        "diversity": [
+            "Los Angeles USD",
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20304275/CCF20304276/CCF20304277"
+    },
+    {
+        "issue": "NOC-623739",
+        "start": "2020-06-17 00:58:00",
+        "end": "2020-06-17 02:16:00",
+        "scope": "Unstable 10G circuits to Tustin.",
+        "diversity": [
+            "LA CCD",
+            "LA Trade Tech"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "280221537 280226858"
+    },
+    {
+        "issue": "NOC-623698",
+        "start": "2020-06-15 20:55:00",
+        "end": "2020-06-17 01:45:00",
+        "scope": "Fiber Outage in the Los Angeles Area",
+        "diversity": [
+            "Los Angeles USD",
+            "Orange County Department of Education",
+            "University of California, Irvine"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20304275/CCF20304276/CCF20304277"
+    }
+]

@@ -1,0 +1,235 @@
+Total: 20
+
+1. Backbone: 0
+2. Multi-site: 5
+3. UC: 4
+4. CSU: 0
+5. CC: 2
+6. K12/COE: 7
+7. Library: 2
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-638942
+    SCOPE: Multiple AT&T circuits dropped in SocaL.
+    START: 2021-01-04 13:59:00
+    END: 2021-01-04 14:05:00
+    DURATION: 00:06
+    DIVERSITY: CSU San Marcos ;; Cuyamaca CC ;; Grossmont CCDO ;; MiraCosta College ;; MiraCosta College San Elijo Campus ;; Palomar College ;; Palomar College Escondido Center ;; San Diego State University ;; Southwestern CCD ;; Southwestern CCD HEC - Otay Mesa
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-638822
+    SCOPE: Multiple AT&T Circuits bounced in the SoCal / Riverside / SD region.
+    START: 2021-01-01 22:38:00
+    END: 2021-01-01 22:43:00
+    DURATION: 00:05
+    DIVERSITY: CSU San Marcos ;; Cuyamaca CC ;; Palomar College ;; Palomar College North Education Center ;; San Diego State University ;; Southwestern CCD HEC - Otay Mesa
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-638773
+    SCOPE: Multisite outage
+    START: 2020-12-31 18:49:00
+    END: 2020-12-31 22:03:00
+    DURATION: 03:14
+    DIVERSITY: Fresno County Library ;; Kings County Library ;; Tulare County Library ;; Tulare Public Library
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [fiber cut] 
+
+ISSUE: NOC-638731
+    SCOPE: Multiple AT&T circuits bounced
+    START: 2020-12-30 14:28:00
+    END: 2020-12-30 14:29:00
+    DURATION: 00:01
+    DIVERSITY: Canyon Country Education Center ;; College of the Canyons ;; CSU Channel Islands ;; Glendale CC Professional Development Center ;; Glendale CCD ;; Glendale College Professional Development Center ;; LA City College ;; LA Mission College ;; LA Pierce College ;; Moorpark College ;; Oxnard - Ventura County CCD ;; Pepperdine University - West LA Campus ;; Santa Monica College ;; Santa Monica College - Center for Media and Design ;; Ventura College ;; West Los Angeles College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-638696
+    SCOPE: Multiple circuits in the Central Valley region bounced
+    START: 2020-12-30 03:42:00
+    END: 2020-12-30 03:44:00
+    DURATION: 00:02
+    DIVERSITY: Fresno County Library ;; Kings County Library ;; Madera County Library ;; Mariposa County Library ;; Merced County Library
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+3. UC
+
+ISSUE: NOC-638558
+    SCOPE: Loss of connectivity to UCANR Riverside Moreno site
+    START: 2020-12-28 17:31:00
+    END: 2021-01-04 12:37:00
+    DURATION: 163:06
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Riverside Moreno Valley
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638810
+    SCOPE: Packet loss on the link
+    START: 2021-01-01 20:32:00
+    END: 2021-01-04 14:21:00
+    DURATION: 65:49
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Lindcove REC
+    PROVIDER: GeoLinks
+    REASON: [faulty line card] 
+
+ISSUE: NOC-638919
+    SCOPE: UCANR Elkus Ranch REC restored
+    START: 2021-01-04 10:25:00
+    END: 2021-01-04 10:52:00
+    DURATION: 00:27
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Elkus Ranch REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638866
+    SCOPE: UCANR InterMountain REC restored
+    START: 2021-01-03 00:58:00
+    END: 2021-01-03 06:16:00
+    DURATION: 05:18
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Inter-Mountain REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+4. CSU
+
+
+5. CC
+
+ISSUE: NOC-638754
+    SCOPE: Mira Costa College San Elijo restored
+    START: 2020-12-31 04:45:00
+    END: 2021-01-04 09:38:00
+    DURATION: 100:53
+    DIVERSITY: Mira Costa College Community Learning Center ;; MiraCosta College ;; MiraCosta College San Elijo Campus
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638834
+    SCOPE: Yuba CCD Clear Lake Campus restored
+    START: 2021-01-02 06:06:00
+    END: 2021-01-04 08:26:00
+    DURATION: 50:20
+    DIVERSITY: 
+    CONNECTIVITY: Clear Lake Campus - Yuba CCD
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-638894
+    SCOPE: Yuba COE Circuit is Down
+    START: 2021-01-04 05:35:00
+    END: 2021-01-04 16:35:00
+    DURATION: 11:00
+    DIVERSITY: Yuba COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638825
+    SCOPE: 100G circuit went down.
+    START: 2021-01-02 00:21:00
+    END: 2021-01-02 00:24:00
+    DURATION: 00:03
+    DIVERSITY: Orange County Department of Education
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-638783
+    SCOPE: Santa Barbara COE's 10GE circuit to LAX was down.
+    START: 2021-01-01 00:08:00
+    END: 2021-01-01 19:35:00
+    DURATION: 19:27
+    DIVERSITY: Santa Barbara COE ;; Santa Maria JUHSD
+    CONNECTIVITY: 
+    PROVIDER: SCE
+    REASON: [fiber damage] 
+
+ISSUE: NOC-638684
+    SCOPE: The connection to Riverside COE Murrieta Office is currently down.
+    START: 2020-12-29 23:46:00
+    END: 2020-12-30 08:21:00
+    DURATION: 08:35
+    DIVERSITY: 
+    CONNECTIVITY: Riverside COE - Murrieta Office
+    PROVIDER: Environmental
+    REASON: [other] Customer owned fiber
+
+ISSUE: NOC-638794
+    SCOPE: Both circuits to Riverside COE are down.
+    START: 2021-01-01 06:58:00
+    END: 2021-01-01 14:57:00
+    DURATION: 07:59
+    DIVERSITY: 
+    CONNECTIVITY: Riverside COE
+    PROVIDER: Environmental
+    REASON: [other] Customer owned fiber
+
+ISSUE: NOC-638785
+    SCOPE: Earlimart School District is unreachable.
+    START: 2021-01-01 00:41:00
+    END: 2021-01-01 01:06:00
+    DURATION: 00:25
+    DIVERSITY: 
+    CONNECTIVITY: Earlimart School District
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638605
+    SCOPE: Both links between Riverside COE and CENIC's Riverside hub site are down.
+    START: 2020-12-30 07:36:00
+    END: 2020-12-30 14:55:00
+    DURATION: 07:19
+    DIVERSITY: Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-638907
+    SCOPE: The circuit to Walteria Branch Library is down.
+    START: 2021-01-04 08:48:00
+    END: 2021-01-04 15:27:00
+    DURATION: 06:39
+    DIVERSITY: 
+    CONNECTIVITY: Walteria Branch Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-638768
+    SCOPE: Humboldt County Library bounce
+    START: 2020-12-31 15:47:00
+    END: 2020-12-31 15:49:00
+    DURATION: 00:02
+    DIVERSITY: 
+    CONNECTIVITY: Humboldt County Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+8. Other
+
+

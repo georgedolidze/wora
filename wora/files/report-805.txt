@@ -1,0 +1,265 @@
+Total: 23
+
+1. Backbone: 1
+2. Multi-site: 8
+3. UC: 4
+4. CSU: 0
+5. CC: 6
+6. K12/COE: 1
+7. Library: 3
+8. Other: 0
+
+1. Backbone
+
+ISSUE: NOC-627503
+    SCOPE: Trunk fiber disturbance in Riverside hub.
+    START: 2020-08-04 21:33:00
+    END: 2020-08-04 21:39:00
+    DURATION: 00:06
+    DIVERSITY: Central Valley Independent Network ;; University of California, Irvine Health System ;; University of California, Los Angeles Health System ;; University of California, Riverside
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [other] Bump during CENIC maintenance
+
+
+2. Multi-site
+
+ISSUE: NOC-627447
+    SCOPE: Multiple CVIN circuit down.
+    START: 2020-08-04 01:43:00
+    END: 2020-08-04 01:53:00
+    DURATION: 00:10
+    DIVERSITY: Amador COE ;; Calaveras COE ;; Columbia CC ;; Colusa COE ;; El Dorado COE ;; Nevada Joint Union HSD ;; Placer COE ;; Sutter COE ;; Tuolumne COE ;; Yosemite CCD Office ;; Yuba COE ;; Yuba City USD
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-627413
+    SCOPE: Optical route 51 fiber disturbance.
+    START: 2020-08-03 17:59:00
+    END: 2020-08-03 18:00:00
+    DURATION: 00:01
+    DIVERSITY: UCANR Davis HQ ;; UCSC Extension ;; University of California, Davis ;; University of California, Santa Cruz ;; University of California, Santa Cruz - Enterprise Technology Center ;; University of California, Santa Cruz - Lick Observatory
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [other] Fiber bump during scheduled maintenance
+
+ISSUE: NOC-627335
+    SCOPE: Multiple CVIN circuits bounced.
+    START: 2020-08-03 10:10:00
+    END: 2020-08-03 10:12:00
+    DURATION: 00:02
+    DIVERSITY: Chowchilla USD ;; College of the Sequoias CCD ;; CSU Bakersfield ;; CSU Fresno ;; Kern CCD ;; Kern COE ;; Kings COE ;; Madera COE ;; Merced CC ;; Merced COE ;; San Joaquin COE ;; San Joaquin Delta College ;; Stanislaus COE ;; Tulare COE ;; West Hills Lemoore CC
+    CONNECTIVITY: Kings County Library
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-627320
+    SCOPE: Multiple CVIN circuits bounced.
+    START: 2020-08-03 07:25:00
+    END: 2020-08-03 07:27:00
+    DURATION: 00:02
+    DIVERSITY: Amador COE ;; Calaveras COE ;; Columbia CC ;; CSU Stanislaus ;; El Dorado COE ;; Nevada Joint Union HSD ;; Yosemite CCD Office
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [fiber damage] 
+
+ISSUE: NOC-627263
+    SCOPE: Multiple circuits in the Central Valley Region are down.
+    START: 2020-08-02 01:36:00
+    END: 2020-08-02 03:29:00
+    DURATION: 01:53
+    DIVERSITY: Ceres Unified School District ;; Chowchilla USD ;; Coalinga District Library ;; College of the Sequoias - Tulare Campus ;; College of the Sequoias CCD ;; CSU Bakersfield ;; Earlimart School District ;; Fresno County Library ;; Kern CCD ;; Kern COE ;; Kern County Library ;; Kings COE ;; Kings County Library ;; Madera COE ;; Madera County Library ;; Mariposa COE ;; Mariposa County Library ;; Merced CC ;; Merced COE ;; Merced County Library ;; San Joaquin COE ;; San Joaquin Delta College ;; San Luis Obispo COE ;; Stanislaus COE ;; Taft College ;; Tulare COE ;; Tulare County Library ;; Tulare Public Library ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: Porterville College
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-626970
+    SCOPE: Multiple circuits bounced in the Sacramento hub site.
+    START: 2020-07-29 12:17:00
+    END: 2020-07-29 12:18:00
+    DURATION: 00:01
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Shasta CC - Tehama ;; Shasta CC Burney Center ;; Shasta CCD ;; Shasta CCD Health Sciences ;; Shasta CCD Trinity Center ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: Yuba CCD Colusa County Campus
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-627062
+    SCOPE: Several Spectrum Circuits bounced in the SoCal region.
+    START: 2020-07-30 05:06:00
+    END: 2020-07-30 05:10:00
+    DURATION: 00:04
+    DIVERSITY: College of the Desert ;; Copper Mountain CCD ;; Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [faulty line card] 
+
+ISSUE: NOC-627138
+    SCOPE: Multiple Comcast circuits bounced.
+    START: 2020-07-31 02:24:00
+    END: 2020-07-31 02:26:00
+    DURATION: 00:02
+    DIVERSITY: Butte COE ;; Shasta COE ;; Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: El Dorado County Library - Cameron Park Library ;; El Dorado County Library - El Dorado Hills Branch ;; El Dorado County Library - Pollock Pines Branch
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+
+3. UC
+
+ISSUE: NOC-627309
+    SCOPE: UCANR Desert REC is unavailable.
+    START: 2020-08-03 01:14:00
+    END: 2020-08-03 18:37:00
+    DURATION: 17:23
+    DIVERSITY: 
+    CONNECTIVITY: UC Agricultural and Natural Resources - Desert
+    PROVIDER: AT&T
+    REASON: [fiber damage] 
+
+ISSUE: NOC-627294
+    SCOPE: UCANR Elkus Ranch REC restored
+    START: 2020-08-02 13:23:00
+    END: 2020-08-03 09:27:00
+    DURATION: 20:04
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Elkus Ranch REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-627251
+    SCOPE: UCANR Westside REC restored
+    START: 2020-08-01 17:43:00
+    END: 2020-08-03 08:16:00
+    DURATION: 38:33
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Westside REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-627011
+    SCOPE: UCANR Sierra Foothill REC loss of connectivity.
+    START: 2020-07-29 19:16:00
+    END: 2020-07-29 22:07:00
+    DURATION: 02:51
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Sierra Foothill REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+4. CSU
+
+
+5. CC
+
+ISSUE: NOC-627163
+    SCOPE: Norco CC to Riverside down
+    START: 2020-07-31 11:24:00
+    END: 2020-08-04 20:05:00
+    DURATION: 104:41
+    DIVERSITY: Moreno Valley College ;; Norco CC ;; Riverside CCD
+    CONNECTIVITY: 
+    PROVIDER: CENIC Internal
+    REASON: [fiber damage] 
+
+ISSUE: NOC-627473
+    SCOPE: Bakersfield College was unreachable.
+    START: 2020-08-04 12:32:00
+    END: 2020-08-04 13:54:00
+    DURATION: 01:22
+    DIVERSITY: 
+    CONNECTIVITY: Bakersfield College
+    PROVIDER: Environmental
+    REASON: [utility maintenance] Bump during CENIC maintenance
+
+ISSUE: NOC-626726
+    SCOPE: Palo Verde College is unavailable.
+    START: 2020-07-29 06:49:00
+    END: 2020-07-29 12:14:00
+    DURATION: 05:25
+    DIVERSITY: 
+    CONNECTIVITY: Palo Verde College
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-626938
+    SCOPE: Irvine Valley CC 10G circuits are down.
+    START: 2020-07-29 03:27:00
+    END: 2020-07-29 04:24:00
+    DURATION: 00:57
+    DIVERSITY: Irvine Valley College ;; Saddleback CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-627128
+    SCOPE: The 10GE circuit for LA Mission CC to Tustin was down briefly.
+    START: 2020-07-31 01:42:00
+    END: 2020-07-31 01:46:00
+    DURATION: 00:04
+    DIVERSITY: LA Mission College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-626793
+    SCOPE: GE link to Sierra CCD - Western Nevada County Center is Down
+    START: 2020-07-27 15:31:00
+    END: 2020-07-30 07:54:00
+    DURATION: 64:23
+    DIVERSITY: Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD
+    CONNECTIVITY: 
+    PROVIDER: Juniper ;; AT&T
+    REASON: [other] Junos bug
+
+
+6. K12/COE
+
+ISSUE: NOC-626956
+    SCOPE: Riverside COE - Indio 10G Circuit Outage
+    START: 2020-07-29 08:49:00
+    END: 2020-07-29 08:56:00
+    DURATION: 00:07
+    DIVERSITY: 
+    CONNECTIVITY: Riverside - Indio COE
+    PROVIDER: Spectrum
+    REASON: [unknown] 
+
+
+7. Library
+
+ISSUE: NOC-627369
+    SCOPE: Santa Fe Springs City Library William C Gordon Learning Center is down.
+    START: 2020-08-03 15:00:00
+    END: 2020-08-04 13:00:00
+    DURATION: 22:00
+    DIVERSITY: 
+    CONNECTIVITY: Santa Fe Springs City Library William C Gordon Learning Center
+    PROVIDER: CENIC Internal
+    REASON: [CPE reset] 
+
+ISSUE: NOC-627394
+    SCOPE: Tulare Public Library is down.
+    START: 2020-08-03 15:02:00
+    END: 2020-08-03 15:42:00
+    DURATION: 00:40
+    DIVERSITY: Tulare County Library
+    CONNECTIVITY: Tulare Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-627303
+    SCOPE: Covina Public Library / City Hall lost connectivity.
+    START: 2020-08-02 19:27:00
+    END: 2020-08-02 19:30:00
+    DURATION: 00:03
+    DIVERSITY: 
+    CONNECTIVITY: Covina Public Library / City Hall
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+

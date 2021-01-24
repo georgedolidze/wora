@@ -1,0 +1,381 @@
+[
+    {
+        "issue": "NOC-638894",
+        "start": "2021-01-04 05:35:00",
+        "end": "2021-01-04 16:35:00",
+        "scope": "Yuba COE Circuit is Down",
+        "diversity": [
+            "Yuba COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "295973125",
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638907",
+        "start": "2021-01-04 08:48:00",
+        "end": "2021-01-04 15:27:00",
+        "scope": "The circuit to Walteria Branch Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Walteria Branch Library"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "Library",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638558",
+        "start": "2020-12-28 17:31:00",
+        "end": "2021-01-04 12:37:00",
+        "scope": "Loss of connectivity to UCANR Riverside Moreno site",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Riverside Moreno Valley"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638810",
+        "start": "2021-01-01 20:32:00",
+        "end": "2021-01-04 14:21:00",
+        "scope": "Packet loss on the link",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Lindcove REC"
+        ],
+        "vendors_involved": [
+            "GeoLinks"
+        ],
+        "telco_ticket_id": "163568",
+        "category": "UC",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638942",
+        "start": "2021-01-04 13:59:00",
+        "end": "2021-01-04 14:05:00",
+        "scope": "Multiple AT&T circuits dropped in SocaL.",
+        "diversity": [
+            "CSU San Marcos",
+            "Cuyamaca CC",
+            "Grossmont CCDO",
+            "MiraCosta College",
+            "MiraCosta College San Elijo Campus",
+            "Palomar College",
+            "Palomar College Escondido Center",
+            "San Diego State University",
+            "Southwestern CCD",
+            "Southwestern CCD HEC - Otay Mesa"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638754",
+        "start": "2020-12-31 04:45:00",
+        "end": "2021-01-04 09:38:00",
+        "scope": "Mira Costa College San Elijo restored",
+        "diversity": [
+            "Mira Costa College Community Learning Center",
+            "MiraCosta College",
+            "MiraCosta College San Elijo Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": "295906815 295907028",
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638834",
+        "start": "2021-01-02 06:06:00",
+        "end": "2021-01-04 08:26:00",
+        "scope": "Yuba CCD Clear Lake Campus restored",
+        "diversity": [],
+        "connectivity": [
+            "Clear Lake Campus - Yuba CCD"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "CC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638919",
+        "start": "2021-01-04 10:25:00",
+        "end": "2021-01-04 10:52:00",
+        "scope": "UCANR Elkus Ranch REC restored",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638866",
+        "start": "2021-01-03 00:58:00",
+        "end": "2021-01-03 06:16:00",
+        "scope": "UCANR InterMountain REC restored",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Inter-Mountain REC"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "UC",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638825",
+        "start": "2021-01-02 00:21:00",
+        "end": "2021-01-02 00:24:00",
+        "scope": "100G circuit went down.",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF21361054",
+        "category": "K12/COE",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638822",
+        "start": "2021-01-01 22:38:00",
+        "end": "2021-01-01 22:43:00",
+        "scope": "Multiple AT&T Circuits bounced in the SoCal / Riverside / SD region.",
+        "diversity": [
+            "CSU San Marcos",
+            "Cuyamaca CC",
+            "Palomar College",
+            "Palomar College North Education Center",
+            "San Diego State University",
+            "Southwestern CCD HEC - Otay Mesa"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "295938360 295938573 295939660 295939945 295939663 295937192",
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638783",
+        "start": "2021-01-01 00:08:00",
+        "end": "2021-01-01 19:35:00",
+        "scope": "Santa Barbara COE's 10GE circuit to LAX was down.",
+        "diversity": [
+            "Santa Barbara COE",
+            "Santa Maria JUHSD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "SCE"
+        ],
+        "telco_ticket_id": "3161048",
+        "category": "K12/COE",
+        "rfo_category": "fiber damage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638684",
+        "start": "2020-12-29 23:46:00",
+        "end": "2020-12-30 08:21:00",
+        "scope": "The connection to Riverside COE Murrieta Office is currently down.",
+        "diversity": [],
+        "connectivity": [
+            "Riverside COE - Murrieta Office"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "other",
+        "rfo_description": "Customer owned fiber"
+    },
+    {
+        "issue": "NOC-638794",
+        "start": "2021-01-01 06:58:00",
+        "end": "2021-01-01 14:57:00",
+        "scope": "Both circuits to Riverside COE are down.",
+        "diversity": [],
+        "connectivity": [
+            "Riverside COE"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "other",
+        "rfo_description": "Customer owned fiber"
+    },
+    {
+        "issue": "NOC-638773",
+        "start": "2020-12-31 18:49:00",
+        "end": "2020-12-31 22:03:00",
+        "scope": "Multisite outage",
+        "diversity": [
+            "Fresno County Library",
+            "Kings County Library",
+            "Tulare County Library",
+            "Tulare Public Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "fiber cut",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638785",
+        "start": "2021-01-01 00:41:00",
+        "end": "2021-01-01 01:06:00",
+        "scope": "Earlimart School District is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Earlimart School District"
+        ],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638768",
+        "start": "2020-12-31 15:47:00",
+        "end": "2020-12-31 15:49:00",
+        "scope": "Humboldt County Library bounce",
+        "diversity": [],
+        "connectivity": [
+            "Humboldt County Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "86/KRFN/578109/PT (Local UNI), 295919069 86/VLXP/135437//PT (EVC), 295918747 86/KRFN/578100/PT (Remote UNI) 295919430",
+        "category": "Library",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638605",
+        "start": "2020-12-30 07:36:00",
+        "end": "2020-12-30 14:55:00",
+        "scope": "Both links between Riverside COE and CENIC's Riverside hub site are down.",
+        "diversity": [
+            "Riverside COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Environmental"
+        ],
+        "telco_ticket_id": null,
+        "category": "K12/COE",
+        "rfo_category": "power outage",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638731",
+        "start": "2020-12-30 14:28:00",
+        "end": "2020-12-30 14:29:00",
+        "scope": "Multiple AT&T circuits bounced",
+        "diversity": [
+            "Canyon Country Education Center",
+            "College of the Canyons",
+            "CSU Channel Islands",
+            "Glendale CC Professional Development Center",
+            "Glendale CCD",
+            "Glendale College Professional Development Center",
+            "LA City College",
+            "LA Mission College",
+            "LA Pierce College",
+            "Moorpark College",
+            "Oxnard - Ventura County CCD",
+            "Pepperdine University - West LA Campus",
+            "Santa Monica College",
+            "Santa Monica College - Center for Media and Design",
+            "Ventura College",
+            "West Los Angeles College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "faulty line card",
+        "rfo_description": ""
+    },
+    {
+        "issue": "NOC-638696",
+        "start": "2020-12-30 03:42:00",
+        "end": "2020-12-30 03:44:00",
+        "scope": "Multiple circuits in the Central Valley region bounced",
+        "diversity": [
+            "Fresno County Library",
+            "Kings County Library",
+            "Madera County Library",
+            "Mariposa County Library",
+            "Merced County Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null,
+        "category": "Multi-site",
+        "rfo_category": "unknown",
+        "rfo_description": ""
+    }
+]

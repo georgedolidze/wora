@@ -1,0 +1,365 @@
+Total: 33
+
+1. Backbone: 0
+2. Multi-site: 12
+3. UC: 2
+4. CSU: 2
+5. CC: 8
+6. K12/COE: 6
+7. Library: 3
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-630198
+    SCOPE: Multiple circuits are unstable.
+    START: 2020-09-08 12:39:00
+    END: 2020-09-08 12:56:00
+    DURATION: 00:17
+    DIVERSITY: College of the Sequoias - Hanford Campus ;; College of the Sequoias - Tulare Campus ;; College of the Sequoias CCD ;; Tulare COE ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-630108
+    SCOPE: Multiple 100GE circuits were down in Central Valley.
+    START: 2020-09-06 14:43:00
+    END: 2020-09-07 18:24:00
+    DURATION: 27:41
+    DIVERSITY: Fresno COE ;; Kern COE ;; San Luis Obispo COE
+    CONNECTIVITY: 
+    PROVIDER: Level3 ;; Vast
+    REASON: [other] High temps causing CVIN eq issues
+
+ISSUE: NOC-630142
+    SCOPE: Multiple circuits bounced in Central Valley
+    START: 2020-09-07 10:00:00
+    END: 2020-09-07 12:00:00
+    DURATION: 02:00
+    DIVERSITY: CSU Bakersfield ;; Fresno City College ;; Kern CCD ;; Kern COE ;; San Luis Obispo COE ;; State Center CCD (Fresno) ;; West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-630108
+    SCOPE: Multiple 100GE circuits were down in Central Valley.
+    START: 2020-09-06 14:43:00
+    END: 2020-09-07 10:04:00
+    DURATION: 19:21
+    DIVERSITY: Fresno COE ;; Kern COE ;; San Luis Obispo COE
+    CONNECTIVITY: 
+    PROVIDER: Level3 ;; Vast
+    REASON: [other] High temps
+
+ISSUE: NOC-630063
+    SCOPE: AT&T Disruption
+    START: 2020-09-05 10:45:00
+    END: 2020-09-05 10:47:00
+    DURATION: 00:02
+    DIVERSITY: LA Southwest College
+    CONNECTIVITY: Los Angeles County Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-630051
+    SCOPE: Several Central Valley circuits are unstable.
+    START: 2020-09-04 21:13:00
+    END: 2020-09-04 21:16:00
+    DURATION: 00:03
+    DIVERSITY: CSU Bakersfield ;; Earlimart School District ;; Fresno City College ;; Kern CCD ;; Kern COE ;; Kings County Library ;; Taft College ;; West Hills Lemoore CC
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-629902
+    SCOPE: Multiple circuits in the NorCal region are down.
+    START: 2020-09-03 13:42:00
+    END: 2020-09-03 23:44:00
+    DURATION: 10:02
+    DIVERSITY: Lake Tahoe USD ;; Sierra CC - Western Nevada County Center ;; Sierra CCD - Roseville Center ;; Sierra CCD - Tahoe-Truckee Center ;; Sierra Joint CCD ;; Tahoe Truckee USD ;; Yuba CC ;; Yuba CCD - Sutter County Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [fiber cut] 
+
+ISSUE: NOC-629790
+    SCOPE: Multiple Comcast circuits are unstable.
+    START: 2020-09-03 01:40:00
+    END: 2020-09-03 02:34:00
+    DURATION: 00:54
+    DIVERSITY: Contra Costa CCDO ;; CSU East Bay Concord ;; Mendocino College ;; San Jose Public Library ;; San Mateo COE ;; Santa Cruz COE ;; Santa Rosa JC Public Safety Training Center ;; Santa Rosa JC Shone Agriculture Center ;; Santa Rosa Junior College ;; UC Berkeley International House
+    CONNECTIVITY: El Dorado County Library - Cameron Park Library ;; El Dorado County Library - El Dorado Hills Branch ;; El Dorado County Library - Pollock Pines Branch ;; MARINet ;; Orland Free Library
+    PROVIDER: Comcast
+    REASON: [other] Reverting traffic onto repaired fiber
+
+ISSUE: NOC-629868
+    SCOPE: Multiple AT&T circuits went down in the Bay Area
+    START: 2020-09-03 09:36:00
+    END: 2020-09-03 09:38:00
+    DURATION: 00:02
+    DIVERSITY: Lake COE ;; Marin COE ;; Napa COE ;; San Francisco State University ;; Sonoma State University
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] No RFO found
+
+ISSUE: NOC-629536
+    SCOPE: Multi circuits disruption in SoCal
+    START: 2020-09-01 10:42:00
+    END: 2020-09-02 10:52:00
+    DURATION: 24:10
+    DIVERSITY: Ventura COE ;; Ventura County CCD Office
+    CONNECTIVITY: Camarillo Public Library ;; Monrovia Public Library ;; Signal Hill Public Library
+    PROVIDER: Spectrum
+    REASON: [fiber cut] 
+
+ISSUE: NOC-629504
+    SCOPE: Equipment failure at UC Berkeley
+    START: 2020-09-02 03:12:00
+    END: 2020-09-02 23:30:00
+    DURATION: 20:18
+    DIVERSITY: University of California, Berkeley ;; University of California, Office of the President - UC Berkeley
+    CONNECTIVITY: 
+    PROVIDER: Cisco
+    REASON: [faulty line card] Faulty CENIC LC
+
+ISSUE: NOC-629248
+    SCOPE: Multiple BGP peers instability in Triangle Court hub router.
+    START: 2020-08-27 18:34:00
+    END: 2020-08-30 09:53:00
+    DURATION: 63:19
+    DIVERSITY: California Maritime Academy ;; CSU Stanislaus ;; Santa Clara COE ;; Stanford University - HPR ;; University of California, Merced - HPR ;; University of California, San Francisco - HPR
+    CONNECTIVITY: Jackson Labs - DC ;; UC Davis Heath System - HPR
+    PROVIDER: Cisco
+    REASON: [other] tri-agg2 IGMP memory issue
+
+
+3. UC
+
+ISSUE: NOC-629954
+    SCOPE: UCANR Desert REC down.
+    START: 2020-09-03 15:16:00
+    END: 2020-09-04 00:14:00
+    DURATION: 08:58
+    DIVERSITY: 
+    CONNECTIVITY: UC Agricultural and Natural Resources - Desert
+    PROVIDER: AT&T
+    REASON: [fiber cut] 
+
+ISSUE: NOC-629769
+    SCOPE: UCANR Sierra Foothill REC's circuit to Sacramento is degraded
+    START: 2020-09-02 20:18:00
+    END: 2020-09-02 23:30:00
+    DURATION: 03:12
+    DIVERSITY: UCANR Sierra Foothill REC
+    CONNECTIVITY: 
+    PROVIDER: GeoLinks
+    REASON: [higher level carrier] 
+
+
+4. CSU
+
+ISSUE: NOC-630113
+    SCOPE: GE circuit is unstable
+    START: 2020-09-06 15:36:00
+    END: 2020-09-06 18:18:00
+    DURATION: 02:42
+    DIVERSITY: CSU Fullerton Irvine
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [other] CLink AC failure
+
+ISSUE: NOC-629781
+    SCOPE: CSU Northridge circuit to Los Angeles Hub is unavailable.
+    START: 2020-09-03 00:57:00
+    END: 2020-09-05 14:08:00
+    DURATION: 61:11
+    DIVERSITY: CSU Northridge
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [fiber cut] 
+
+
+5. CC
+
+ISSUE: NOC-630152
+    SCOPE: Circuit between West Hills Lemoore CC and West Hills North District Center CC is not passing traffic.
+    START: 2020-09-07 19:21:00
+    END: 2020-09-08 02:06:00
+    DURATION: 06:45
+    DIVERSITY: West Hills CCD ;; West Hills Lemoore CC ;; West Hills North District Center CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-630023
+    SCOPE: Taft CC's circuit to Los Angeles is down.
+    START: 2020-09-04 13:32:00
+    END: 2020-09-04 16:06:00
+    DURATION: 02:34
+    DIVERSITY: Taft College
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [fiber cut] 
+
+ISSUE: NOC-629829
+    SCOPE: Copper Mountain CCD 10G to Los Angeles is Down.
+    START: 2020-09-03 04:10:00
+    END: 2020-09-03 12:38:00
+    DURATION: 08:28
+    DIVERSITY: College of the Desert ;; Copper Mountain CCD
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [faulty line card] 
+
+ISSUE: NOC-629676
+    SCOPE: Napa Valley CC's circuit to Sunnyvale is not passing traffic.
+    START: 2020-09-02 09:22:00
+    END: 2020-09-02 13:35:00
+    DURATION: 04:13
+    DIVERSITY: Napa Valley CCD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-629676
+    SCOPE: Napa Valley CC's circuit to Sunnyvale is unstable.
+    START: 2020-09-02 09:22:00
+    END: 2020-09-02 18:57:00
+    DURATION: 09:35
+    DIVERSITY: Napa Valley CCD
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-629819
+    SCOPE: Santa Barbara CC - Schott Center unreachable.
+    START: 2020-09-03 02:15:00
+    END: 2020-09-03 02:21:00
+    DURATION: 00:06
+    DIVERSITY: 
+    CONNECTIVITY: Santa Barbara City College - Schott Center
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-629787
+    SCOPE: Victor Valley - SCLA School of Aviation Technology down.
+    START: 2020-09-03 01:36:00
+    END: 2020-09-03 01:38:00
+    DURATION: 00:02
+    DIVERSITY: Victor Valley CCD
+    CONNECTIVITY: Victor Valley CCD - SCLA School of Aviation Technology
+    PROVIDER: Spectrum
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-629677
+    SCOPE: Santa Rosa JC's circuit to San Francisco is unstable.
+    START: 2020-09-02 09:22:00
+    END: 2020-09-02 18:57:00
+    DURATION: 09:35
+    DIVERSITY: Santa Rosa Junior College
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+
+6. K12/COE
+
+ISSUE: NOC-630086
+    SCOPE: Stanislaus COE CVIN 10GE to Fergus hub was unavailable.
+    START: 2020-09-05 21:37:00
+    END: 2020-09-07 09:55:00
+    DURATION: 36:18
+    DIVERSITY: Stanislaus COE ;; Modesto City Schools
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [other] High temps
+
+ISSUE: NOC-630040
+    SCOPE: 10GE to Bakersfield is unstable
+    START: 2020-09-04 20:47:00
+    END: 2020-09-04 20:48:00
+    DURATION: 00:01
+    DIVERSITY: Kings COE
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [unknown] 
+
+ISSUE: NOC-629916
+    SCOPE: Modoc COE circuit bounces
+    START: 2020-09-03 14:40:00
+    END: 2020-09-03 14:42:00
+    DURATION: 00:02
+    DIVERSITY: Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [other] Frontier duplexing issue
+
+ISSUE: NOC-629901
+    SCOPE: The City of Alameda's circuit to Oakland is bouncing.
+    START: 2020-09-03 13:32:00
+    END: 2020-09-04 00:37:00
+    DURATION: 11:05
+    DIVERSITY: 
+    CONNECTIVITY: City of Alameda
+    PROVIDER: Comcast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-629946
+    SCOPE: Los Angeles USD Van Nuys optical bounce
+    START: 2020-09-03 17:20:00
+    END: 2020-09-03 17:25:00
+    DURATION: 00:05
+    DIVERSITY: Los Angeles USD - Van Nuys
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-629655
+    SCOPE: Napa COE is up.
+    START: 2020-09-02 04:04:00
+    END: 2020-09-02 07:08:00
+    DURATION: 03:04
+    DIVERSITY: Napa Valley USD
+    CONNECTIVITY: Napa COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-630112
+    SCOPE: Monterey Park Bruggemeyer Library circuit to Los Angeles was down
+    START: 2020-09-06 15:27:00
+    END: 2020-09-08 09:00:00
+    DURATION: 41:33
+    DIVERSITY: 
+    CONNECTIVITY: Monterey Park Bruggemeyer Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-630084
+    SCOPE: GE Connection Down
+    START: 2020-09-05 19:51:00
+    END: 2020-09-05 19:54:00
+    DURATION: 00:03
+    DIVERSITY: 
+    CONNECTIVITY: Alhambra Public Libary
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-629926
+    SCOPE: Amador County Library is unavailable.
+    START: 2020-09-03 15:03:00
+    END: 2020-09-03 21:41:00
+    DURATION: 06:38
+    DIVERSITY: 
+    CONNECTIVITY: Amador County Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+

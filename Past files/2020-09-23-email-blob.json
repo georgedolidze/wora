@@ -1,0 +1,277 @@
+[
+    {
+        "issue": "NOC-631145",
+        "start": "2020-09-22 21:48:00",
+        "end": "2020-09-22 22:03:00",
+        "scope": "CSU Channel Islands 10G circuit to Tustin outage.",
+        "diversity": [
+            "CSU Channel Islands"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE125050"
+    },
+    {
+        "issue": "NOC-631210",
+        "start": "2020-09-22 17:37:00",
+        "end": "2020-09-22 17:42:00",
+        "scope": "UCOP's circuit to Oakland is unstable.",
+        "diversity": [
+            "University of California, Office of the President"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Cisco"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-631177",
+        "start": "2020-09-22 08:58:00",
+        "end": "2020-09-22 08:59:00",
+        "scope": "UC Health System 100G from Triangle Court to Quincy brief bounce",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": "19724795"
+    },
+    {
+        "issue": "NOC-631156",
+        "start": "2020-09-22 00:01:00",
+        "end": "2020-09-22 00:18:00",
+        "scope": "Multiple circuits are down in Northern California.",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Shasta CC - Tehama",
+            "Shasta CCD Health Sciences",
+            "Shasta CCD Trinity Center",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Shasta CC Burney Center",
+            "Shasta CCD Trinity Center",
+            "Yuba CCD Colusa County Campus"
+        ],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2852893 / 2853088 / 2852892 / 2852890 / 2852889 / 2853087"
+    },
+    {
+        "issue": "NOC-631145",
+        "start": "2020-09-21 21:50:00",
+        "end": "2020-09-21 22:05:00",
+        "scope": "CSU Channel Islands 10G circuit to Tustin outage.",
+        "diversity": [
+            "CSU Channel Islands"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE125050"
+    },
+    {
+        "issue": "NOC-631022",
+        "start": "2020-09-20 00:02:00",
+        "end": "2020-09-20 09:37:00",
+        "scope": "Multiple Spectrum circuits were down in the SoCal region.",
+        "diversity": [
+            "Copper Mountain CCD"
+        ],
+        "connectivity": [
+            "Rancho Mirage Public Library",
+            "Upland Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "EIT-80307818 (old) EIT-80305288 (recent)"
+    },
+    {
+        "issue": "NOC-630904",
+        "start": "2020-09-18 10:27:00",
+        "end": "2020-09-18 21:19:00",
+        "scope": "The circuits between Riverside COE and Riverside-Indio COE are up.",
+        "diversity": [
+            "Riverside - Indio COE",
+            "Riverside COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80306637"
+    },
+    {
+        "issue": "NOC-630958",
+        "start": "2020-09-18 18:28:00",
+        "end": "2020-09-18 20:20:00",
+        "scope": "10GE to the Tustin hub is up.",
+        "diversity": [
+            "CSU Chancellor's Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "ECT-80307037"
+    },
+    {
+        "issue": "NOC-630873",
+        "start": "2020-09-18 03:04:00",
+        "end": "2020-09-19 02:15:00",
+        "scope": "Services restored",
+        "diversity": [
+            "Antelope Valley College",
+            "Antelope Valley College Palmdale Education Center",
+            "Chaffey Joint UHSD",
+            "CSU Long Beach",
+            "San Bernardino CSS"
+        ],
+        "connectivity": [
+            "Long Beach Public Library",
+            "Signal Hill Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": "EIT-80305288"
+    },
+    {
+        "issue": "NOC-630651",
+        "start": "2020-09-15 08:09:00",
+        "end": "2020-09-17 14:49:00",
+        "scope": "Multiple AT&T circuits down in the Central Valley.",
+        "diversity": [
+            "Coalinga District Library",
+            "Fresno COE",
+            "Kern County Library",
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "old (287380556 287380632 287380609) -  new (287393310 , 287393321 , 287393981)"
+    },
+    {
+        "issue": "NOC-630799",
+        "start": "2020-09-17 01:53:00",
+        "end": "2020-09-17 02:12:00",
+        "scope": "CSUN Circuit to Los Angeles Hub is unstable.",
+        "diversity": [
+            "CSU Northridge"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF20331890"
+    },
+    {
+        "issue": "NOC-630689",
+        "start": "2020-09-16 14:18:00",
+        "end": "2020-09-16 14:27:00",
+        "scope": "SDSU experienced brief instability.",
+        "diversity": [
+            "San Diego State University"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630738",
+        "start": "2020-09-16 11:49:00",
+        "end": "2020-09-16 12:23:00",
+        "scope": "UC Health System 100G from Triangle Court to Quincy was down",
+        "diversity": [],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": "19683330"
+    },
+    {
+        "issue": "NOC-630389",
+        "start": "2020-09-16 13:12:00",
+        "end": "2020-09-16 14:04:00",
+        "scope": "St. Helena Public Library circuit to San Francisco was down",
+        "diversity": [],
+        "connectivity": [
+            "St. Helena Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "287191102 - FE143364"
+    },
+    {
+        "issue": "NOC-630644",
+        "start": "2020-09-15 06:21:00",
+        "end": "2020-09-16 08:49:00",
+        "scope": "Palomar Rancho Santa Fe Circuit to North Education Center was Down",
+        "diversity": [
+            "Palomar College Escondido Center",
+            "Palomar College North Education Center",
+            "Palomar Rancho Santa Fe CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "LE124749"
+    },
+    {
+        "issue": "NOC-630732",
+        "start": "2020-09-16 09:19:00",
+        "end": "2020-09-16 10:23:00",
+        "scope": "Several circuits to Sutter COE are up.",
+        "diversity": [
+            "Sutter COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630712",
+        "start": "2020-09-16 01:34:00",
+        "end": "2020-09-16 02:04:00",
+        "scope": "Multiple AT&T circuits down.",
+        "diversity": [
+            "CSU Northridge",
+            "Moorpark College",
+            "Ventura College"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-630705",
+        "start": "2020-09-16 00:33:00",
+        "end": "2020-09-16 02:00:00",
+        "scope": "Rio Hondo CC Fire Academy 1GE circuit to Tustin hubsite is down.",
+        "diversity": [
+            "Rio Hondo CC",
+            "Rio Hondo CC - Fire Academy",
+            "Rio Hondo CC - Pico Rivera Education Center",
+            "Rio Hondo CC - South Whittier Education Center",
+            "Rio Hondo CCD El Monte Education Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "\u00a0ECT-80301473"
+    }
+]

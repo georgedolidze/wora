@@ -1,0 +1,325 @@
+Total: 29
+
+1. Backbone: 1
+2. Multi-site: 5
+3. UC: 3
+4. CSU: 4
+5. CC: 6
+6. K12/COE: 6
+7. Library: 4
+8. Other: 0
+
+1. Backbone
+
+ISSUE: NOC-636051
+    SCOPE: Bay Area backbone outage.
+    START: 2020-11-23 08:22:00
+    END: 2020-11-23 14:26:00
+    DURATION: 06:04
+    DIVERSITY: Jackson Labs ;; Los Nettos ;; UC Davis ;; UC Davis HPR ;; UC Davis to Amazon ;; UC San Diego to NOAA ;; UC Santa Cruz ;; UC Santa Cruz - Enterprise Technology Center ;; UCANR Davis Headquarters
+    CONNECTIVITY: XD Circuits: ;; CENIC-L2-SNVL-UCR-DDOS-8059 ;; CENIC-XD-LAX-SVL-10GE-4040-R51
+    PROVIDER: CenturyLink (Level3)
+    REASON: [fiber damage] 
+
+
+2. Multi-site
+
+ISSUE: NOC-636085
+    SCOPE: Multiple AT&T circuits bounced
+    START: 2020-11-23 10:45:00
+    END: 2020-11-23 10:46:00
+    DURATION: 00:01
+    DIVERSITY: Crafton Hills College ;; Moreno Valley College ;; Riverside CCD
+    CONNECTIVITY: Norco CC
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-636070
+    SCOPE: Multiple AT&T circuits bounced in the Southern California area.
+    START: 2020-11-23 09:50:00
+    END: 2020-11-23 09:51:00
+    DURATION: 00:01
+    DIVERSITY: Chaffey CCD ;; Chaffey CCD Fontana Learning Center ;; Chaffey College, Chino Center ;; Irvine Valley College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD ;; Saddleback CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-636031
+    SCOPE: San Diego Circuits Briefly Down
+    START: 2020-11-23 04:37:00
+    END: 2020-11-23 04:56:00
+    DURATION: 00:19
+    DIVERSITY: Cuyamaca CC ;; Grossmont CCDO ;; Southwestern CCD HEC - San Ysidro ;; University of San Diego
+    CONNECTIVITY: Southwestern CCD HEC - National City
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-635950
+    SCOPE: CENIC backbone outage - Central Valley
+    START: 2020-11-21 09:12:00
+    END: 2020-11-21 09:13:00
+    DURATION: 00:01
+    DIVERSITY: Los Nettos ;; National Oceanic and Atmospheric Administration ;; University of California, Merced ;; University of California, San Diego
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [unknown] 
+
+ISSUE: NOC-635714
+    SCOPE: Multiple circuits down briefly in SoCal region.
+    START: 2020-11-18 07:24:00
+    END: 2020-11-18 07:31:00
+    DURATION: 00:07
+    DIVERSITY: Long Beach City College ;; Long Beach PCC
+    CONNECTIVITY: Santa Clarita Public Library
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+
+3. UC
+
+ISSUE: NOC-636043
+    SCOPE: UC Health Systems Outage
+    START: 2020-11-23 07:57:00
+    END: 2020-11-23 07:58:00
+    DURATION: 00:01
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: CenturyLink (Level3)
+    REASON: [unknown] RFO pending
+
+ISSUE: NOC-636005
+    SCOPE: UCSF Health System bounce
+    START: 2020-11-22 14:55:00
+    END: 2020-11-22 15:02:00
+    DURATION: 00:07
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [unknown] 
+
+ISSUE: NOC-635866
+    SCOPE: UCANR Hansen REC restored
+    START: 2020-11-20 00:41:00
+    END: 2020-11-20 08:01:00
+    DURATION: 07:20
+    DIVERSITY: 
+    CONNECTIVITY: UCANR Hansen REC
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+4. CSU
+
+ISSUE: NOC-635948
+    SCOPE: The 10GE circuit to Soledad has restored.
+    START: 2020-11-21 07:25:00
+    END: 2020-11-21 07:32:00
+    DURATION: 00:07
+    DIVERSITY: CSU Monterey Bay
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-635763
+    SCOPE: CSU Northridge 100G circuit to Los Angeles is unstable.
+    START: 2020-11-19 11:51:00
+    END: 2020-11-19 13:41:00
+    DURATION: 01:50
+    DIVERSITY: CSU Northridge
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+ISSUE: NOC-635820
+    SCOPE: CSU Chancellor's Office circuit 10G circuit to the Tustin hub site is down.
+    START: 2020-11-19 10:08:00
+    END: 2020-11-19 10:33:00
+    DURATION: 00:25
+    DIVERSITY: CSU Chancellor's Office
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [unknown] 
+
+ISSUE: NOC-635763
+    SCOPE: CSU Northridge 100G circuit to Los Angeles is unstable.
+    START: 2020-11-18 20:44:00
+    END: 2020-11-19 08:38:00
+    DURATION: 11:54
+    DIVERSITY: CSU Northridge
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [unknown] 
+
+
+5. CC
+
+ISSUE: NOC-635972
+    SCOPE: Mira Costa - San Elijo 10GE circuit to Riverside is unavailable
+    START: 2020-11-22 00:12:00
+    END: 2020-11-23 04:55:00
+    DURATION: 28:43
+    DIVERSITY: Mira Costa College Community Learning Center ;; MiraCosta College ;; MiraCosta College San Elijo Campus
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-635973
+    SCOPE: Shasta CC Trinity Center is unavailable.
+    START: 2020-11-22 00:05:00
+    END: 2020-11-22 03:43:00
+    DURATION: 03:38
+    DIVERSITY: Shasta CC - Tehama ;; Shasta CC Burney Center ;; Shasta CCD ;; Shasta CCD Health Sciences
+    CONNECTIVITY: Shasta CCD Trinity Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-635864
+    SCOPE: Santa Barbara CC 10GE circuit to Los Angeles Hub is down.
+    START: 2020-11-20 00:24:00
+    END: 2020-11-20 05:53:00
+    DURATION: 05:29
+    DIVERSITY: Santa Barbara CC ;; Santa Barbara City College - Schott Center ;; Santa Barbara City College - Wake Center ;; Santa Barbara City College Cosmetology Center
+    CONNECTIVITY: 
+    PROVIDER: Cox
+    REASON: [unknown] 
+
+ISSUE: NOC-635707
+    SCOPE: Ohlone CC's 10G circuit to Oakland outage.
+    START: 2020-11-18 05:08:00
+    END: 2020-11-18 07:28:00
+    DURATION: 02:20
+    DIVERSITY: Ohlone College ;; Ohlone College Newark Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-635707
+    SCOPE: Ohlone CC's 10G circuit to Oakland outage.
+    START: 2020-11-18 05:08:00
+    END: 2020-11-18 05:14:00
+    DURATION: 00:06
+    DIVERSITY: Ohlone College ;; Ohlone College Newark Center
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+ISSUE: NOC-635636
+    SCOPE: Circuit between Las Positas CC and Sunnyvale was down.
+    START: 2020-11-18 02:05:00
+    END: 2020-11-18 04:01:00
+    DURATION: 01:56
+    DIVERSITY: Las Positas CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [higher level carrier] 
+
+
+6. K12/COE
+
+ISSUE: NOC-635793
+    SCOPE: LAUSD - Van Nuys 100G circuit down.
+    START: 2020-11-19 07:35:00
+    END: 2020-11-19 08:40:00
+    DURATION: 01:05
+    DIVERSITY: Los Angeles USD - Van Nuys
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [provider maintenance] Fiber bump during unrelated maintenance
+
+ISSUE: NOC-635780
+    SCOPE: Yolo COE is Down Due to Scheduled Power Maintenance
+    START: 2020-11-19 01:17:00
+    END: 2020-11-19 04:16:00
+    DURATION: 02:59
+    DIVERSITY: California Department of Education
+    CONNECTIVITY: Yuba COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-635793
+    SCOPE: LAUSD - Van Nuys 100G circuit down.
+    START: 2020-11-19 04:18:00
+    END: 2020-11-19 04:23:00
+    DURATION: 00:05
+    DIVERSITY: Los Angeles USD - Van Nuys
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [provider maintenance] Fiber bump during unrelated maintenance
+
+ISSUE: NOC-635728
+    SCOPE: The circuit to Ceres USD is up.
+    START: 2020-11-18 09:33:00
+    END: 2020-11-18 10:11:00
+    DURATION: 00:38
+    DIVERSITY: 
+    CONNECTIVITY: Ceres Unified School District
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-635610
+    SCOPE: 1G Circuits between Del Norte and Siskiyou COE are down.
+    START: 2020-11-17 07:54:00
+    END: 2020-11-18 00:57:00
+    DURATION: 17:03
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [unknown] 
+
+ISSUE: NOC-635629
+    SCOPE: Loyalton HS is unreachable.
+    START: 2020-11-17 10:37:00
+    END: 2020-11-18 00:59:00
+    DURATION: 14:22
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: Loyalton HS - Sierra COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+ISSUE: NOC-636138
+    SCOPE: Humboldt County Library
+    START: 2020-11-23 21:36:00
+    END: 2020-11-23 21:38:00
+    DURATION: 00:02
+    DIVERSITY: 
+    CONNECTIVITY: Humboldt County Library
+    PROVIDER: CENIC Internal
+    REASON: [other] Bad CENIC config
+
+ISSUE: NOC-635952
+    SCOPE: Moorpark City Library is down
+    START: 2020-11-21 09:14:00
+    END: 2020-11-21 09:37:00
+    DURATION: 00:23
+    DIVERSITY: 
+    CONNECTIVITY: Moorpark City Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-635898
+    SCOPE: Humboldt County Library Outage
+    START: 2020-11-20 09:03:00
+    END: 2020-11-20 11:23:00
+    DURATION: 02:20
+    DIVERSITY: 
+    CONNECTIVITY: Humboldt County Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-635736
+    SCOPE: Rancho Mirage Public Library is unavailable.
+    START: 2020-11-18 12:11:00
+    END: 2020-11-18 12:35:00
+    DURATION: 00:24
+    DIVERSITY: 
+    CONNECTIVITY: Rancho Mirage Public Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+8. Other
+
+

@@ -1,0 +1,205 @@
+Total: 17
+
+1. Backbone: 0
+2. Multi-site: 3
+3. UC: 2
+4. CSU: 2
+5. CC: 3
+6. K12/COE: 4
+7. Library: 2
+8. Other: 1
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-637204
+    SCOPE: Multiple circuits are unstable in the Bay Area.
+    START: 2020-12-09 20:03:00
+    END: 2020-12-09 20:55:00
+    DURATION: 00:52
+    DIVERSITY: Allan Hancock CCD ;; San Jose Public Library
+    CONNECTIVITY: CMS - Santa Clara ;; MARINet ;; Monterey Peninsula CCD - Marina Ed Center ;; Pacific Grove Public Library ;; Pleasanton Public Library ;; Santa Cruz Public Library ;; UCSC Lick_Observatory
+    PROVIDER: CenturyLink (Level3)
+    REASON: [other] Generator failure
+
+ISSUE: NOC-637187
+    SCOPE: Multiple SoCal services impacted
+    START: 2020-12-09 16:12:00
+    END: 2020-12-09 16:28:00
+    DURATION: 00:16
+    DIVERSITY: Los Nettos ;; OpenFlow to Sacramento ;; UC Merced HPR ;; UC San Diego to NOAA ;; OpenFlow to Sacramento ;; San Diego SuperComputing Center ;; UC Berkeley ;; UC San Diego DC ;; UC San Diego HPR ;; UC San Diego to NOAA
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-637252
+    SCOPE: Multiple AT&T circuits down.
+    START: 2020-12-10 04:12:00
+    END: 2020-12-10 18:21:00
+    DURATION: 14:09
+    DIVERSITY: CSU Northridge ;; Long Beach City College ;; Long Beach PCC
+    CONNECTIVITY: Santa Clarita Public Library ;; Thousand Oaks Public Library
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+
+3. UC
+
+ISSUE: NOC-637143
+    SCOPE: University of California Health System 10G Circuit to Quincy is Down
+    START: 2020-12-08 22:26:00
+    END: 2020-12-09 00:03:00
+    DURATION: 01:37
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-637208
+    SCOPE: Stanford 100G circuits to Sunnyvale hubsite are down.
+    START: 2020-12-09 20:03:00
+    END: 2020-12-10 10:16:00
+    DURATION: 14:13
+    DIVERSITY: Stanford University
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+4. CSU
+
+ISSUE: NOC-637512
+    SCOPE: CSU Channel Islands' circuit instability.
+    START: 2020-12-14 16:10:00
+    END: 2020-12-14 16:22:00
+    DURATION: 00:12
+    DIVERSITY: CSU Channel Islands
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-637419
+    SCOPE: CSU Dominguez Hills was unavailable.
+    START: 2020-12-13 06:47:00
+    END: 2020-12-13 06:53:00
+    DURATION: 00:06
+    DIVERSITY: 
+    CONNECTIVITY: CSU Dominguez Hills
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+
+5. CC
+
+ISSUE: NOC-637399
+    SCOPE: GigE Circuit to the Tulare Campus is Degraded.
+    START: 2020-12-12 17:15:00
+    END: 2020-12-13 20:08:00
+    DURATION: 26:53
+    DIVERSITY: College of the Sequoias - Hanford Campus ;; College of the Sequoias - Tulare Campus ;; College of the Sequoias CCD
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+ISSUE: NOC-636967
+    SCOPE: Both circuits to Oxnard CC are down.
+    START: 2020-12-09 04:01:00
+    END: 2020-12-09 04:07:00
+    DURATION: 00:06
+    DIVERSITY: 
+    CONNECTIVITY: Oxnard - Ventura County CCD
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-636967
+    SCOPE: Both circuits to Oxnard CC are down.
+    START: 2020-12-07 08:05:00
+    END: 2020-12-08 16:27:00
+    DURATION: 32:22
+    DIVERSITY: 
+    CONNECTIVITY: Oxnard - Ventura County CCD
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+
+6. K12/COE
+
+ISSUE: NOC-637193
+    SCOPE: The circuits between Del Norte COE and Siskiyou COE are down.
+    START: 2020-12-09 17:36:00
+    END: 2020-12-11 14:53:00
+    DURATION: 45:17
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [fiber cut] 
+
+ISSUE: NOC-637340
+    SCOPE: 100G circuit to Palm Desert is up.
+    START: 2020-12-11 06:35:00
+    END: 2020-12-11 07:06:00
+    DURATION: 00:31
+    DIVERSITY: Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [unknown] 
+
+ISSUE: NOC-636965
+    SCOPE: Loyalton HS - Sierra COE East down
+    START: 2020-12-07 08:01:00
+    END: 2020-12-09 05:52:00
+    DURATION: 45:51
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Plumas-Sierra Telecom
+    REASON: [faulty line card] 
+
+ISSUE: NOC-637328
+    SCOPE: The 100G circuit between Alameda COE and Contra Costa COE was down.
+    START: 2020-12-11 02:35:00
+    END: 2020-12-11 02:59:00
+    DURATION: 00:24
+    DIVERSITY: Alameda COE ;; Contra Costa COE
+    CONNECTIVITY: 
+    PROVIDER: Comcast
+    REASON: [unknown] 
+
+
+7. Library
+
+ISSUE: NOC-637449
+    SCOPE: Oxnard Public Library is unavailable
+    START: 2020-12-13 23:48:00
+    END: 2020-12-14 01:15:00
+    DURATION: 01:27
+    DIVERSITY: 
+    CONNECTIVITY: Oxnard Public Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-637397
+    SCOPE: GigE Circuit to the Tulare Campus is Degraded.
+    START: 2020-12-12 17:15:00
+    END: 2020-12-12 20:08:00
+    DURATION: 02:53
+    DIVERSITY: Fresno County Library ;; Kings County Library
+    CONNECTIVITY: 
+    PROVIDER: Vast
+    REASON: [faulty line card] 
+
+
+8. Other
+
+ISSUE: NOC-637309
+    SCOPE: Pepperdine University West LA Campus circuit was down.
+    START: 2020-12-10 17:52:00
+    END: 2020-12-10 17:57:00
+    DURATION: 00:05
+    DIVERSITY: 
+    CONNECTIVITY: Pepperdine University West LA Campus
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+

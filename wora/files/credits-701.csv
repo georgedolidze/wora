@@ -1,0 +1,33 @@
+vendors_involved,issue,telco_ticket_id,start,end,duration,rfo_category,rfo_description
+AT&T,NOC-624908,70102756,6/30/20 20:14,6/30/20 20:28,0:14,other,Provider configuration
+Zayo,NOC-624886,TTN/0004212824 ,6/30/20 14:11,6/30/20 14:12,0:01,unknown,
+Crown Castle,NOC-624824,CCF20308104,6/30/20 2:45,6/30/20 2:58,0:13,unknown,
+AT&T,NOC-624819,282092224,6/30/20 0:28,6/30/20 0:50,0:22,higher level carrier,
+Crown Castle,NOC-624829,CCF-20308113,6/30/20 4:21,6/30/20 4:22,0:01,unknown,
+Zayo,NOC-624645,4204734,6/29/20 10:51,6/29/20 23:00,12:09,fiber cut,
+AT&T,NOC-624727,,6/28/20 21:34,6/28/20 21:40,0:06,unknown,
+Vast,NOC-624695,,6/28/20 13:41,6/28/20 13:42,0:01,unknown,
+AT&T,NOC-624672,GCSC 282026966,6/27/20 19:09,6/27/20 19:30,0:21,unknown,
+Spectrum,NOC-624658,,6/27/20 15:02,6/27/20 15:04,0:02,unknown,
+Spectrum,NOC-624659,,6/27/20 15:12,6/27/20 15:14,0:02,unknown,
+Spectrum,NOC-624659,,6/27/20 15:12,6/27/20 15:14,0:02,unknown,Dupe due to re-sent announcement
+AT&T,NOC-624622,LE120601 /  GCSC  282010265,6/26/20 18:14,6/27/20 7:40,13:26,fiber cut,
+AT&T,NOC-624526,"281960898, 281961170",6/25/20 13:30,6/27/20 8:41,43:11:00,fiber cut,
+Environmental,NOC-624636,,6/27/20 0:41,6/27/20 0:51,0:10,power outage,
+Environmental,NOC-624632,,6/26/20 22:16,6/26/20 22:45,0:29,power outage,
+Comcast,NOC-624616,"SI043851857, SI043851894",6/26/20 15:08,6/26/20 15:11,0:03,other,Route reconvergence in telco core
+Comcast,NOC-624593,SI043847546,6/26/20 10:45,6/26/20 10:46,0:01,other,Route reconvergence in telco
+AT&T,NOC-624403,"281914240, 281914449, 281915432",6/24/20 10:12,6/26/20 9:00,46:48:00,faulty line card,
+Spectrum,NOC-624570,"ECT80201703, ECT80201673",6/26/20 7:59,6/26/20 8:02,0:03,unknown,
+AT&T,NOC-624558,,6/26/20 4:06,6/26/20 4:15,0:09,unknown,
+Environmental,NOC-624532,,6/25/20 17:30,6/25/20 18:44,1:14,power outage,
+Spectrum,NOC-624482,ECT80199737,6/25/20 1:41,6/25/20 5:42,4:01,provider maintenance,
+Spectrum,NOC-624488,ECT-80199785,6/25/20 3:23,6/25/20 4:07,0:44,unknown,RFO pending at the time of report
+Environmental,NOC-624498,,6/25/20 7:28,6/25/20 7:47,0:19,utility maintenance,
+Vast,NOC-624433,,6/24/20 14:31,6/25/20 1:02,10:31,fiber cut,
+Hunter Communications,NOC-624404,133788982,6/24/20 10:02,6/25/20 1:30,15:28,fiber cut,
+Environmental,NOC-624405,,6/24/20 10:27,6/24/20 10:44,0:17,power outage,
+Environmental,NOC-624357,,6/24/20 1:13,6/24/20 5:23,4:10,unknown,
+Spectrum,NOC-624364,,6/24/20 1:54,6/24/20 3:03,1:09,fiber damage,
+Comcast,NOC-624355,,6/24/20 0:31,6/24/20 2:28,1:57,provider maintenance,
+AT&T,NOC-624360,281846069,6/24/20 1:48,6/24/20 2:21,0:33,unknown,
