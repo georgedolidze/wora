@@ -34,8 +34,8 @@ def eligibility_function(csv_name, vendor, lower_duration, upper_duration):
             if line_count == 0: # This 'if' allows to skip the first line/header in the csv
                 line_count += 1
             else:
-                if ((row[0] == vendor) and (hms_to_m(row[5]) >= lower_duration) and (hms_to_m(row[5]) <= upper_duration)):
-                    output += "{}: Duration is over {} minutes ({})".format(row[1], lower_duration, row[5]) + "\n"
+                if ((row[0] == vendor) and (row[6] != 'fiber cut') and (row[6] != 'fiber damage') and (hms_to_m(row[5]) >= lower_duration) and (hms_to_m(row[5]) <= upper_duration)):
+                    output += "{}: Duration is over {} minutes ({}). \nRFO: {}".format(row[1], lower_duration, row[5], row[6]) + "\n"
     return output
 
 def hms_to_m(s): # For converting the H:M:S duration format to seconds/minutes
@@ -54,7 +54,7 @@ def non_sla(csv_name, HAS_SLA):
                 line_count += 1
             else:
                 if (row[0] not in HAS_SLA):
-                    output += "{} - {} - Duration: {}".format(row[1], row[0], row[5]) + '\n'
+                    output += "{} - {} - Duration: {}. \nRFO: {}".format(row[1], row[0], row[5], row[6]) + '\n'
     return output
                     
 def eligibility_print(csv_name):

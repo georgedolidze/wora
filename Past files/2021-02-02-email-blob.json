@@ -1,0 +1,556 @@
+[
+    {
+        "issue": "NOC-641122",
+        "start": "2021-01-31 21:08:00",
+        "end": "2021-02-01 01:59:00",
+        "scope": "Sierra College circuit to West Sacrament unstable.",
+        "diversity": [
+            "Sierra CC - Western Nevada County Center",
+            "Sierra CCD - Roseville Center",
+            "Sierra CCD - Tahoe-Truckee Center",
+            "Sierra Joint CCD"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "WaveBroadband"
+        ],
+        "telco_ticket_id": "CS0009669"
+    },
+    {
+        "issue": "NOC-641142",
+        "start": "2021-02-01 04:06:00",
+        "end": "2021-02-01 04:33:00",
+        "scope": "Multiple Circuits Unstable in Southern California",
+        "diversity": [
+            "Chaffey CCD",
+            "Chaffey CCD Fontana Learning Center",
+            "Chaffey College, Chino Center",
+            "Crafton Hills College",
+            "Irvine Valley College",
+            "Saddleback CC",
+            "San Bernardino Valley CC"
+        ],
+        "connectivity": [
+            "Norco CC",
+            "Riverside CCD",
+            "Moreno Valley College",
+            "Corona Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641082",
+        "start": "2021-01-30 16:01:00",
+        "end": "2021-01-31 17:37:00",
+        "scope": "Victorville CC School of Aviation outage",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641103",
+        "start": "2021-01-31 11:15:00",
+        "end": "2021-01-31 23:40:00",
+        "scope": "UC Santa Cruz Dark fiber to Sunnyvale is down.",
+        "diversity": [
+            "UCSC Extension",
+            "University of California, Santa Cruz DC",
+            "University of California, Santa Cruz HPR"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF21368715"
+    },
+    {
+        "issue": "NOC-641127",
+        "start": "2021-01-31 00:22:00",
+        "end": "2021-01-31 00:31:00",
+        "scope": "Shasta CC - Tehema down",
+        "diversity": [
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences",
+            "Shasta CCD Trinity Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641115",
+        "start": "2021-01-31 16:52:00",
+        "end": "2021-01-31 17:55:00",
+        "scope": "Madera County Library was down.",
+        "diversity": [
+            "Mariposa County Library",
+            "Merced County Library"
+        ],
+        "connectivity": [
+            "Madera County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641082",
+        "start": "2021-01-30 16:01:00",
+        "end": "2021-01-30 16:06:00",
+        "scope": "Victorville CC School of Aviation outage",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641057",
+        "start": "2021-01-30 00:45:00",
+        "end": "2021-01-30 00:49:00",
+        "scope": "Multiple circuits in Fresno were unstable",
+        "diversity": [],
+        "connectivity": [
+            "Stockton-San Joaquin County Public Library / Chavez Library",
+            "UCANR Kearney REC",
+            "UCANR Westside REC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "000000296734646/ 000000296735621 /T 000000296735812 "
+    },
+    {
+        "issue": "NOC-641001",
+        "start": "2021-01-29 18:26:00",
+        "end": "2021-01-29 18:44:00",
+        "scope": "Power was unstable.",
+        "diversity": [],
+        "connectivity": [
+            "Inglewood Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640971",
+        "start": "2021-01-29 00:32:00",
+        "end": "2021-01-29 13:55:00",
+        "scope": "Willows Public Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Willows Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640936",
+        "start": "2021-01-28 13:33:00",
+        "end": "2021-01-28 21:06:00",
+        "scope": "UCANR Sierra Foothill REC is down.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Sierra Foothill REC"
+        ],
+        "vendors_involved": [
+            "GeoLinks"
+        ],
+        "telco_ticket_id": "OG-0128-725"
+    },
+    {
+        "issue": "NOC-640995",
+        "start": "2021-01-29 04:06:00",
+        "end": "2021-01-29 09:09:00",
+        "scope": "CPE reachability has been restored.",
+        "diversity": [],
+        "connectivity": [
+            "Monterey Park Bruggemeyer Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641000",
+        "start": "2021-01-29 07:24:00",
+        "end": "2021-01-29 07:30:00",
+        "scope": "CSU Monterey Bay Bounce",
+        "diversity": [
+            "CSU Monterey Bay"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296715090"
+    },
+    {
+        "issue": "NOC-640960",
+        "start": "2021-01-28 17:55:00",
+        "end": "2021-01-28 18:41:00",
+        "scope": "College of the Alameda Aviation Center loss of connectivity",
+        "diversity": [],
+        "connectivity": [
+            "College of the Alameda Aviation Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640910",
+        "start": "2021-01-28 08:10:00",
+        "end": "2021-01-28 22:23:00",
+        "scope": "The circuit to San Bernardino CCD is down.",
+        "diversity": [],
+        "connectivity": [
+            "San Bernardino CCD Office"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296682834"
+    },
+    {
+        "issue": "NOC-640951",
+        "start": "2021-01-28 15:48:00",
+        "end": "2021-01-28 16:01:00",
+        "scope": "Shasta CC Trinity outage",
+        "diversity": [
+            "Shasta CC - Tehama",
+            "Shasta CC Burney Center",
+            "Shasta CCD",
+            "Shasta CCD Health Sciences"
+        ],
+        "connectivity": [
+            "Shasta CCD Trinity Center"
+        ],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "ticket 2906597 for: 45/L1XN/677876/FTNC.  ticket 2906598 for: 45/L1XN/677869/FTNC"
+    },
+    {
+        "issue": "NOC-640936",
+        "start": "2021-01-28 13:33:00",
+        "end": "2021-01-28 14:06:00",
+        "scope": "UCANR Sierra Foothill REC is down.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Sierra Foothill REC"
+        ],
+        "vendors_involved": [
+            "GeoLinks"
+        ],
+        "telco_ticket_id": "OG-0128-725"
+    },
+    {
+        "issue": "NOC-640691",
+        "start": "2021-01-26 20:05:00",
+        "end": "2021-01-27 04:22:00",
+        "scope": "Yuba COE CPE Reloading",
+        "diversity": [],
+        "connectivity": [
+            "Yuba COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640436",
+        "start": "2021-01-23 15:25:00",
+        "end": "2021-01-28 10:22:00",
+        "scope": "The CPE at UCANR Riverside Moreno is unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Riverside Moreno Valley"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640931",
+        "start": "2021-01-28 11:44:00",
+        "end": "2021-01-28 11:56:00",
+        "scope": "Orange County Department of Education 100GE circuit to Los Angeles is stable.",
+        "diversity": [
+            "Orange County Department of Education"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF21368149"
+    },
+    {
+        "issue": "NOC-640731",
+        "start": "2021-01-26 23:36:00",
+        "end": "2021-01-28 08:06:00",
+        "scope": "Yolo County Library down",
+        "diversity": [],
+        "connectivity": [
+            "Yolo County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640905",
+        "start": "2021-01-28 06:09:00",
+        "end": "2021-01-28 08:53:00",
+        "scope": "Plumas COE is Down Due to Power Outage",
+        "diversity": [
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Plumas COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640703",
+        "start": "2021-01-26 21:02:00",
+        "end": "2021-01-28 01:27:00",
+        "scope": "CSU Stanislaus Stockton Center is down.",
+        "diversity": [],
+        "connectivity": [
+            "CSU Stanislaus - Stockton Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640883",
+        "start": "2021-01-28 01:48:00",
+        "end": "2021-01-28 03:20:00",
+        "scope": "Multiple AT&T Circuits are unstable.",
+        "diversity": [
+            "Chaffey CCD",
+            "Chaffey CCD Fontana Learning Center",
+            "Chaffey College, Chino Center",
+            "Crafton Hills College",
+            "Irvine Valley College",
+            "Moreno Valley College",
+            "Norco CC",
+            "Riverside CCD",
+            "Saddleback CC",
+            "San Bernardino Valley CC"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640895",
+        "start": "2021-01-28 02:54:00",
+        "end": "2021-01-28 02:55:00",
+        "scope": "Multiple Spectrum circuits bounced.",
+        "diversity": [
+            "Cuesta College",
+            "Cuesta College North County Campus",
+            "Del Norte COE",
+            "Lassen COE",
+            "Loyalton HS - Sierra COE",
+            "Modoc COE",
+            "Plumas COE",
+            "Siskiyou COE",
+            "Tulelake Basin Joint USD"
+        ],
+        "connectivity": [
+            "Signal Hill Public Library",
+            "Victorville City Library"
+        ],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640378",
+        "start": "2021-01-26 23:40:00",
+        "end": "2021-01-27 10:20:00",
+        "scope": "UCANR Elkus Ranch REC is up.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Elkus Ranch REC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640781",
+        "start": "2021-01-27 04:02:00",
+        "end": "2021-01-27 09:27:00",
+        "scope": "El Dorado County Library - Pollock Pines Branch down",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Pollock Pines Branch"
+        ],
+        "vendors_involved": [
+            "Comcast"
+        ],
+        "telco_ticket_id": "SI-047587377"
+    },
+    {
+        "issue": "NOC-640732",
+        "start": "2021-01-26 23:49:00",
+        "end": "2021-01-27 12:24:00",
+        "scope": "Sutter COE Circuit to Triangle Court Down Due to Weather Related Power Outage",
+        "diversity": [
+            "Sutter COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640773",
+        "start": "2021-01-27 02:50:00",
+        "end": "2021-01-27 10:07:00",
+        "scope": "Multiple Circuits Down in the Central Valley Region",
+        "diversity": [
+            "Amador COE",
+            "Calaveras COE",
+            "Columbia CC",
+            "Colusa COE",
+            "El Dorado COE",
+            "Nevada Joint Union HSD",
+            "Placer COE",
+            "Tuolumne COE",
+            "Yuba CC",
+            "Tulelake Basin Joint UHSD",
+            "Siskiyou COE",
+            "Del Norte COE",
+            "Modoc COE",
+            "Lassen COE",
+            "Plumas COE",
+            "Loyalton HS Sierra COE East",
+            "CSU Stanislaus",
+            "Stanislaus COE",
+            "Modesto City Schools",
+            "San Joaquin COE",
+            "San Joaquin Delta CC",
+            "San Joaquin COE"
+        ],
+        "connectivity": [
+            "Amador County Library",
+            "Calaveras County Library",
+            "Stanislaus County Library",
+            "Sutter COE",
+            "Tuolumne County Library"
+        ],
+        "vendors_involved": [
+            "Vast"
+        ],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640723",
+        "start": "2021-01-26 23:35:00",
+        "end": "2021-01-27 01:03:00",
+        "scope": "Colusa COE down.",
+        "diversity": [],
+        "connectivity": [
+            "Colusa COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640705",
+        "start": "2021-01-26 21:31:00",
+        "end": "2021-01-27 00:03:00",
+        "scope": "Contra Costa CC is Down Due to Local Power Issue",
+        "diversity": [],
+        "connectivity": [
+            "Contra Costa CC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640728",
+        "start": "2021-01-26 23:43:00",
+        "end": "2021-01-27 00:34:00",
+        "scope": "Circuits are unstable.",
+        "diversity": [
+            "Butte COE",
+            "Shasta COE",
+            "Tehama COE",
+            "Trinity COE"
+        ],
+        "connectivity": [
+            "Glenn COE - Orland"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640696",
+        "start": "2021-01-26 20:19:00",
+        "end": "2021-01-27 01:05:00",
+        "scope": "Los Rios CCD Rancho Cordova Center",
+        "diversity": [],
+        "connectivity": [
+            "Los Rios CCD Rancho Cordova Ed_Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640487",
+        "start": "2021-01-25 02:44:00",
+        "end": "2021-01-27 01:50:00",
+        "scope": "College of the Alameda Aviation Center circuit to Sunnyvale bouncing.",
+        "diversity": [
+            "College of the Alameda Aviation Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296564762"
+    },
+    {
+        "issue": "NOC-640747",
+        "start": "2021-01-27 01:58:00",
+        "end": "2021-01-27 02:04:00",
+        "scope": "Yuba CC power outage.",
+        "diversity": [],
+        "connectivity": [
+            "Yuba CC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640722",
+        "start": "2021-01-26 23:35:00",
+        "end": "2021-01-26 23:38:00",
+        "scope": "Mariposa County Library down.",
+        "diversity": [
+            "Madera County Library",
+            "Mariposa County Library",
+            "Merced County Library"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    }
+]

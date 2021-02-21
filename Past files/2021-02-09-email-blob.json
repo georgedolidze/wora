@@ -1,0 +1,287 @@
+[
+    {
+        "issue": "NOC-641701",
+        "start": "2021-02-08 12:30:00",
+        "end": "2021-02-08 14:06:00",
+        "scope": "Contra Costa COE is unavailable.",
+        "diversity": [
+            "Alameda COE"
+        ],
+        "connectivity": [
+            "Contra Costa COE"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641312",
+        "start": "2021-02-08 07:23:00",
+        "end": "2021-02-08 17:02:00",
+        "scope": "Optical line card failed in the Fergus hub site.",
+        "diversity": [
+            "Central Valley Independent Network",
+            "University of California, Merced HPR"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641681",
+        "start": "2021-02-08 07:23:00",
+        "end": "2021-02-08 08:24:00",
+        "scope": "Fresno COE's 100G circuit to the Fresno hub site is unstable.",
+        "diversity": [
+            "Fresno COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296981451"
+    },
+    {
+        "issue": "NOC-641669",
+        "start": "2021-02-07 04:14:00",
+        "end": "2021-02-07 04:19:00",
+        "scope": "Victor Valley CC - School of Aviation Technology down",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641669",
+        "start": "2021-02-07 22:25:00",
+        "end": "2021-02-07 22:30:00",
+        "scope": "Victor Valley CC - School of Aviation Technology down",
+        "diversity": [
+            "Victor Valley CCD"
+        ],
+        "connectivity": [
+            "Victor Valley CCD - SCLA School of Aviation Technology"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641667",
+        "start": "2021-02-07 21:45:00",
+        "end": "2021-02-07 21:50:00",
+        "scope": "Los Angeles USD - Van Nuys 100G to Tustin Briefly Down",
+        "diversity": [],
+        "connectivity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "vendors_involved": [
+            "Sunesys",
+            "Crown Castle",
+            "Wilcon"
+        ],
+        "telco_ticket_id": "CCF21371005"
+    },
+    {
+        "issue": "NOC-641312",
+        "start": "2021-02-07 00:31:00",
+        "end": "2021-02-07 00:33:00",
+        "scope": "Optical line card reload in the Fergus hub site.",
+        "diversity": [
+            "University of California, Merced"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641619",
+        "start": "2021-02-05 15:02:00",
+        "end": "2021-02-05 15:40:00",
+        "scope": "10GE to Fergus Down",
+        "diversity": [
+            "Sutter COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641593",
+        "start": "2021-02-05 11:17:00",
+        "end": "2021-02-05 11:18:00",
+        "scope": "AT&T outage",
+        "diversity": [
+            "Humboldt COE",
+            "Northern Humboldt USD",
+            "SF Jazz Center"
+        ],
+        "connectivity": [
+            "Santa Rosa Junior College"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641557",
+        "start": "2021-02-05 07:28:00",
+        "end": "2021-02-05 07:40:00",
+        "scope": "Santa Rosa JC Public Safety Training Center CPE was unreachable.",
+        "diversity": [],
+        "connectivity": [
+            "Santa Rosa JC Public Safety Training Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641534",
+        "start": "2021-02-04 22:26:00",
+        "end": "2021-02-05 04:45:00",
+        "scope": "Multiple AT&T circuits down in the Central Valley Region",
+        "diversity": [
+            "West Hills CCD",
+            "West Hills Lemoore CC",
+            "West Hills North District Center CC"
+        ],
+        "connectivity": [
+            "Coalinga District Library",
+            "UCANR Westside REC"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296904360 296906209 296906046"
+    },
+    {
+        "issue": "NOC-641533",
+        "start": "2021-02-05 00:00:00",
+        "end": "2021-02-05 04:00:00",
+        "scope": "Santa Barbara CC circuit to Tustin is down.",
+        "diversity": [
+            "Santa Barbara CC",
+            "Santa Barbara City College - Schott Center",
+            "Santa Barbara City College Cosmetology Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641521",
+        "start": "2021-02-04 18:29:00",
+        "end": "2021-02-04 18:51:00",
+        "scope": "Multisite outage",
+        "diversity": [],
+        "connectivity": [
+            "Harrison Memorial Library",
+            "Livermore Public Library",
+            "Salinas Public Library",
+            "UCANR Elkus Ranch REC",
+            "UCANR Hopland REC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641483",
+        "start": "2021-02-04 06:54:00",
+        "end": "2021-02-04 16:03:00",
+        "scope": "Yuba CCD Colusa County Campus Circuit to Sacramento is Down.",
+        "diversity": [
+            "Yuba CCD Colusa County Campus"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Frontier"
+        ],
+        "telco_ticket_id": "2909229"
+    },
+    {
+        "issue": "NOC-641505",
+        "start": "2021-02-04 12:32:00",
+        "end": "2021-02-04 13:05:00",
+        "scope": "The GigE circuit from CSU Stanislaus to Sacramento is down.",
+        "diversity": [
+            "CSU Stanislaus - Stockton Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641454",
+        "start": "2021-02-03 23:46:00",
+        "end": "2021-02-03 23:51:00",
+        "scope": "Los Angeles USD - Van Nuys 100G to Tustin Briefly Down",
+        "diversity": [],
+        "connectivity": [
+            "Los Angeles USD - Van Nuys"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641358",
+        "start": "2021-02-03 01:50:00",
+        "end": "2021-02-03 07:15:00",
+        "scope": "Santa Barbara CCD circuit to Tustin was down.",
+        "diversity": [
+            "Santa Barbara CC",
+            "Santa Barbara City College - Schott Center",
+            "Santa Barbara City College - Wake Center",
+            "Santa Barbara City College Cosmetology Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641369",
+        "start": "2021-02-03 04:42:00",
+        "end": "2021-02-03 09:11:00",
+        "scope": "Escondido Public Library 1G to San Diego is Down",
+        "diversity": [],
+        "connectivity": [
+            "Escondido Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-641394",
+        "start": "2021-02-03 13:42:00",
+        "end": "2021-02-03 13:48:00",
+        "scope": "Corona Public Library was briefly unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Corona Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "GCSC 296863628, ENOC LE-132245"
+    },
+    {
+        "issue": "NOC-641294",
+        "start": "2021-02-02 15:22:00",
+        "end": "2021-02-02 21:16:00",
+        "scope": "Multiple Spectrum circuits are down in the SoCal region.",
+        "diversity": [
+            "Citrus CCD",
+            "College of the Desert",
+            "Copper Mountain CCD",
+            "CSU Chancellor's Office",
+            "Mt. San Antonio CCD",
+            "Riverside - Indio COE",
+            "Riverside COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Spectrum"
+        ],
+        "telco_ticket_id": "EIT-80487437"
+    }
+]

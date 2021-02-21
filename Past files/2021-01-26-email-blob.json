@@ -1,0 +1,313 @@
+[
+    {
+        "issue": "NOC-640568",
+        "start": "2021-01-25 16:24:00",
+        "end": "2021-01-25 19:35:00",
+        "scope": "Multiple circuits are down in the Central Valley region.",
+        "diversity": [
+            "Amador COE",
+            "Calaveras COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640494",
+        "start": "2021-01-25 06:18:00",
+        "end": "2021-01-25 14:43:00",
+        "scope": "El Dorado County Library - Georgetown Branch down",
+        "diversity": [],
+        "connectivity": [
+            "El Dorado County Library - Georgetown Branch"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296568915"
+    },
+    {
+        "issue": "NOC-640481",
+        "start": "2021-01-25 00:49:00",
+        "end": "2021-01-25 05:45:00",
+        "scope": "College of the Alameda Science Annex Center circuit stabilized",
+        "diversity": [
+            "College of the Alameda Science Annex Center"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296561293"
+    },
+    {
+        "issue": "NOC-640485",
+        "start": "2021-01-25 03:49:00",
+        "end": "2021-01-25 10:55:00",
+        "scope": "Tuolumne COE restored",
+        "diversity": [
+            "Tuolumne COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640467",
+        "start": "2021-01-24 17:29:00",
+        "end": "2021-01-24 20:34:00",
+        "scope": "GigE Circuit is down",
+        "diversity": [
+            "Humboldt COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296554786"
+    },
+    {
+        "issue": "NOC-640466",
+        "start": "2021-01-24 16:25:00",
+        "end": "2021-01-24 16:55:00",
+        "scope": "Backbone Fiber between Sunnyvale and Monterey is unstable",
+        "diversity": [
+            "CSU Monterey Bay",
+            "Naval Postgraduate School in Monterey"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "CenturyLink (Level3)"
+        ],
+        "telco_ticket_id": "20512329"
+    },
+    {
+        "issue": "NOC-640462",
+        "start": "2021-01-24 15:49:00",
+        "end": "2021-01-24 15:54:00",
+        "scope": "Router went down",
+        "diversity": [],
+        "connectivity": [
+            "Shasta Public Library - Redding"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640441",
+        "start": "2021-01-23 17:28:00",
+        "end": "2021-01-23 21:38:00",
+        "scope": "Circuit are down",
+        "diversity": [
+            "West Hills CCD",
+            "West Hills Lemoore CC"
+        ],
+        "connectivity": [
+            "West Hills North District Center CC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640437",
+        "start": "2021-01-23 17:09:00",
+        "end": "2021-01-23 17:11:00",
+        "scope": "Sunnyvale and Oakland Circuits are Down",
+        "diversity": [],
+        "connectivity": [
+            "College of the Alameda Science Annex Center"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "GCSC - 296538082/ 296538083"
+    },
+    {
+        "issue": "NOC-640433",
+        "start": "2021-01-23 11:48:00",
+        "end": "2021-01-23 13:29:00",
+        "scope": "Tuolumne COE Outage",
+        "diversity": [
+            "Tuolumne COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640408",
+        "start": "2021-01-22 15:03:00",
+        "end": "2021-01-22 15:10:00",
+        "scope": "SoCal outage",
+        "diversity": [
+            "College of the Canyons",
+            "CSU Northridge",
+            "Oxnard - Ventura County CCD",
+            "Pepperdine University"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296516209, 296515908, 296516213, 296516215"
+    },
+    {
+        "issue": "NOC-640389",
+        "start": "2021-01-22 10:22:00",
+        "end": "2021-01-22 10:24:00",
+        "scope": "The 10GE circuit to Los Angeles experienced brief instability.",
+        "diversity": [
+            "CSU Chancellor's Office"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296507546"
+    },
+    {
+        "issue": "NOC-640277",
+        "start": "2021-01-20 18:36:00",
+        "end": "2021-01-21 07:14:00",
+        "scope": "San Diego COE's 100GE circuit to Los Angeles is down.",
+        "diversity": [
+            "San Diego COE"
+        ],
+        "connectivity": [],
+        "vendors_involved": [
+            "Crown Castle"
+        ],
+        "telco_ticket_id": "CCF21366132"
+    },
+    {
+        "issue": "NOC-640161",
+        "start": "2021-01-19 12:13:00",
+        "end": "2021-01-21 16:13:00",
+        "scope": "Merritt CC is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Merritt College"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296440764 296440861"
+    },
+    {
+        "issue": "NOC-640140",
+        "start": "2021-01-19 08:23:00",
+        "end": "2021-01-20 14:09:00",
+        "scope": "The circuit to Thousand Oaks Public Library is up.",
+        "diversity": [],
+        "connectivity": [
+            "Thousand Oaks Public Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640066",
+        "start": "2021-01-19 00:19:00",
+        "end": "2021-01-19 15:33:00",
+        "scope": "Sierra COE - WEST is down.",
+        "diversity": [],
+        "connectivity": [
+            "Sierra COE - WEST"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640244",
+        "start": "2021-01-20 12:41:00",
+        "end": "2021-01-20 19:31:00",
+        "scope": "Cuyamaca CC 10GE circuits to Riverside hubsite and Grossmont CCDO are down.",
+        "diversity": [
+            "Grossmont CCDO"
+        ],
+        "connectivity": [
+            "Cuyamaca CC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640169",
+        "start": "2021-01-19 12:39:00",
+        "end": "2021-01-20 06:27:00",
+        "scope": "UCANR Hanson REC is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "UCANR Hansen REC"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640124",
+        "start": "2021-01-19 05:27:00",
+        "end": "2021-01-20 07:32:00",
+        "scope": "Both circuits to Canyon Country Education Center are up.",
+        "diversity": [
+            "College of the Canyons"
+        ],
+        "connectivity": [
+            "Canyon Country Education Center"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640131",
+        "start": "2021-01-19 07:22:00",
+        "end": "2021-01-19 12:08:00",
+        "scope": "Both circuits to Los Angeles Mission College are up.",
+        "diversity": [],
+        "connectivity": [
+            "LA Mission College"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640134",
+        "start": "2021-01-19 13:01:00",
+        "end": "2021-01-19 22:46:00",
+        "scope": "Oxnard Public Library is down.",
+        "diversity": [],
+        "connectivity": [
+            "Oxnard Public Library"
+        ],
+        "vendors_involved": [
+            "AT&T"
+        ],
+        "telco_ticket_id": "296396611"
+    },
+    {
+        "issue": "NOC-640157",
+        "start": "2021-01-19 11:19:00",
+        "end": "2021-01-19 23:10:00",
+        "scope": "Beaumont Library District is unavailable.",
+        "diversity": [],
+        "connectivity": [
+            "Beaumont Library District"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    },
+    {
+        "issue": "NOC-640110",
+        "start": "2021-01-19 02:50:00",
+        "end": "2021-01-19 06:24:00",
+        "scope": "Mariposa County Library Router reload.",
+        "diversity": [
+            "Madera County Library",
+            "Merced County Library"
+        ],
+        "connectivity": [
+            "Mariposa County Library"
+        ],
+        "vendors_involved": [],
+        "telco_ticket_id": null
+    }
+]
