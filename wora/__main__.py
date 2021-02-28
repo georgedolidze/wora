@@ -55,6 +55,8 @@ if __name__ == '__main__':
     
     print('='*50 + "\nmaster.csv completed successfully")
 
+    #csv_name = 'test.csv' #For testing purposes
+
     print('\nCompiling Eligibility Report...')
     eligibility_report(csv_name, current_date)
     print('='*50 + "\nEligiblity report completed successfully")

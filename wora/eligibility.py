@@ -34,7 +34,7 @@ def eligibility_function(csv_name, vendor, lower_duration, upper_duration):
             if line_count == 0: # This 'if' allows to skip the first line/header in the csv
                 line_count += 1
             else:
-                if ((row[0] == vendor) and (row[6] != 'fiber cut') and (row[6] != 'fiber damage') and (hms_to_m(row[5]) >= lower_duration) and (hms_to_m(row[5]) <= upper_duration)):
+                if ((vendor in row[0]) and (row[6] != 'fiber cut') and (row[6] != 'fiber damage') and (hms_to_m(row[5]) >= lower_duration) and (hms_to_m(row[5]) <= upper_duration)):
                     output += "{}: Duration is over {} minutes ({}). \nRFO: {}".format(row[1], lower_duration, row[5], row[6]) + "\n"
     return output
 
@@ -53,23 +53,24 @@ def non_sla(csv_name, HAS_SLA):
             if line_count == 0: # This 'if' allows to skip the first line/header in the csv
                 line_count += 1
             else:
-                if (row[0] not in HAS_SLA):
-                    output += "{} - {} - Duration: {}. \nRFO: {}".format(row[1], row[0], row[5], row[6]) + '\n'
+                if ((';;' not in row[0]) and (row[0] not in HAS_SLA)):
+                    output += "{} - {} - Duration: {}. \nRFO: {}".format(row[1], row[0], row[5], row[6]) + '\n\n'
+                #print(row[0].split(';;'))
     return output
                     
 def eligibility_print(csv_name):
 
     output = "\n\n\nEligible outages per Vendor SLAs\n\n\n"
-
+    
     output += "\n\nCenturyLink\n"+"-"*30 + "\n"
     output += "> 8-10hrs"  + "\n"
-    output += str(eligibility_function(csv_name, "CenturyLink", 480, 600))  + "\n"
+    output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 480, 600))  + "\n"
     output += "\n"  + "\n"
     output += "> 10-16hrs"  + "\n"
-    output += str(eligibility_function(csv_name, "CenturyLink", 600, 960))  + "\n"
+    output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 600, 960))  + "\n"
     output += "\n"  + "\n"
     output += "> 16+hrs\n" 
-    output += str(eligibility_function(csv_name, "CenturyLink", 960, 99999))  + "\n"
+    output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 960, 99999))  + "\n"
 
     output += "\n\nCharter/TWC/Spectrum\n"+"-"*30 + "\n"
     output += "> 4-8hrs"  + "\n"

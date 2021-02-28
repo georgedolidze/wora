@@ -1,0 +1,111 @@
+
+
+
+Eligible outages per Vendor SLAs
+
+
+
+
+CenturyLink
+------------------------------
+> 8-10hrs
+
+
+
+> 10-16hrs
+
+
+
+> 16+hrs
+
+
+
+Charter/TWC/Spectrum
+------------------------------
+> 4-8hrs
+
+
+> 8+hrs
+
+
+
+
+Verizon/Frontier
+------------------------------
+> 216+ minutes
+
+
+
+
+
+Comcast
+------------------------------
+> 40+ minutes
+
+
+
+
+
+Zayo
+------------------------------
+> 4+ hrs
+
+
+
+
+
+CVIN/Vast
+------------------------------
+> 4+ hrs
+
+
+
+
+
+Plumas-Sierra Telecom
+------------------------------
+> 15+ minutes
+
+
+
+
+
+CBC/Digital 395
+------------------------------
+> 15+ minutes
+
+
+
+
+
+GeoLinks
+------------------------------
+> 4+ hours
+
+
+
+
+
+Southern California Edison
+------------------------------
+> 4+ hours
+
+
+
+
+
+Wave Broadband
+------------------------------
+> 1+ minutes
+
+
+
+
+
+Vendors with no SLA
+------------------------------
+NOC-642370 - Frontier ;; AT&T - Duration: 04:24. 
+RFO: faulty line card
+NOC-642229 - Cisco ;; CenturyLink (Level3) - Duration: 17:34. 
+RFO: fiber cut
+

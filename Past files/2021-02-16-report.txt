@@ -1,0 +1,195 @@
+Total: 16
+
+1. Backbone: 0
+2. Multi-site: 7
+3. UC: 1
+4. CSU: 0
+5. CC: 6
+6. K12/COE: 2
+7. Library: 0
+8. Other: 0
+
+1. Backbone
+
+
+2. Multi-site
+
+ISSUE: NOC-642177
+    SCOPE: Multiple AT&T Circuits restored
+    START: 2021-02-15 02:27:00
+    END: 2021-02-15 10:27:00
+    DURATION: 08:00
+    DIVERSITY: Chaffey CCD ;; Chaffey CCD Fontana Learning Center ;; Chaffey College, Chino Center ;; Crafton Hills College ;; Irvine Valley College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD ;; Saddleback CC ;; San Bernardino Valley CC
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-642077
+    SCOPE: Frontier circuits are up.
+    START: 2021-02-13 02:44:00
+    END: 2021-02-13 12:40:00
+    DURATION: 09:56
+    DIVERSITY: Del Norte COE ;; Lassen COE ;; Loyalton HS - Sierra COE ;; Modoc COE ;; Plumas COE ;; Siskiyou COE ;; Tulelake Basin Joint USD
+    CONNECTIVITY: 
+    PROVIDER: Frontier
+    REASON: [fiber cut] 
+
+ISSUE: NOC-642088
+    SCOPE: Multiple Circuits in the Bay Area were unstable.
+    START: 2021-02-13 08:37:00
+    END: 2021-02-13 08:40:00
+    DURATION: 00:03
+    DIVERSITY: City College of San Francisco CCD ;; Marin COE ;; San Francisco COE
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+ISSUE: NOC-642083
+    SCOPE: Router reloaded.
+    START: 2021-02-13 06:30:00
+    END: 2021-02-13 06:33:00
+    DURATION: 00:03
+    DIVERSITY: Madera County Library ;; Merced County Library
+    CONNECTIVITY: Mariposa County Library
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-642012
+    SCOPE: Multiple down circuits in the Sunnyvale region
+    START: 2021-02-12 05:15:00
+    END: 2021-02-12 07:06:00
+    DURATION: 01:51
+    DIVERSITY: Allan Hancock CCD ;; Monterey Peninsula CCD - Marina Ed Center ;; Monterey Peninsula College
+    CONNECTIVITY: MARINet ;; Pacific Grove Public Library ;; Pleasanton Public Library ;; San Jose Public Library ;; Santa Cruz Public Library
+    PROVIDER: Comcast
+    REASON: [provider maintenance] 
+
+ISSUE: NOC-641943
+    SCOPE: Multiple AT&T circuits bounced.
+    START: 2021-02-11 09:36:00
+    END: 2021-02-11 09:37:00
+    DURATION: 00:01
+    DIVERSITY: Chaffey CC CITC ;; Chaffey Joint UHSD ;; Crafton Hills College ;; Irvine Valley College ;; Moreno Valley College ;; Norco CC ;; Riverside CCD ;; San Bernardino CSS
+    CONNECTIVITY: Corona Public Library
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-641838
+    SCOPE: Multiple AT&T circuits went down in the SoCal region
+    START: 2021-02-10 01:15:00
+    END: 2021-02-10 01:28:00
+    DURATION: 00:13
+    DIVERSITY: Garfield Center ;; Glendale CC Professional Development Center ;; Glendale CCD
+    CONNECTIVITY: Altadena Public Library ;; Sierra Madre Public Library
+    PROVIDER: AT&T
+    REASON: [faulty line card] 
+
+
+3. UC
+
+ISSUE: NOC-642075
+    SCOPE: UCHS Quincy - Zayo outage
+    START: 2021-02-13 12:13:00
+    END: 2021-02-15 13:07:00
+    DURATION: 48:54
+    DIVERSITY: 
+    CONNECTIVITY: 
+    PROVIDER: Zayo
+    REASON: [fiber cut] 
+
+
+4. CSU
+
+
+5. CC
+
+ISSUE: NOC-642125
+    SCOPE: San Diego CCD 10G to Riverside was down
+    START: 2021-02-14 08:19:00
+    END: 2021-02-14 13:22:00
+    DURATION: 05:03
+    DIVERSITY: San Diego CCD
+    CONNECTIVITY: 
+    PROVIDER: Spectrum
+    REASON: [faulty line card] 
+
+ISSUE: NOC-642057
+    SCOPE: Compton CC Outage
+    START: 2021-02-12 14:45:00
+    END: 2021-02-12 16:00:00
+    DURATION: 01:15
+    DIVERSITY: El Camino College
+    CONNECTIVITY: Compton College
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-641815
+    SCOPE: The circuit between the El Monte and Santa Fe Springs locations is not passing traffic.
+    START: 2021-02-09 13:26:00
+    END: 2021-02-10 17:44:00
+    DURATION: 28:18
+    DIVERSITY: Rio Hondo CC ;; Rio Hondo CC - Fire Academy ;; Rio Hondo CC - Pico Rivera Education Center ;; Rio Hondo CC - South Whittier Education Center ;; Rio Hondo CCD El Monte Education Center
+    CONNECTIVITY: 
+    PROVIDER: Crown Castle
+    REASON: [fiber cut] 
+
+ISSUE: NOC-641757
+    SCOPE: Santa Rosa JC - Shone Agricultural Center is Down
+    START: 2021-02-10 06:46:00
+    END: 2021-02-10 07:50:00
+    DURATION: 01:04
+    DIVERSITY: 
+    CONNECTIVITY: Santa Rosa JC Shone Agriculture Center
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+ISSUE: NOC-641845
+    SCOPE: Canyon Country Education Center circuit to Los Angeles is down.
+    START: 2021-02-10 02:44:00
+    END: 2021-02-10 03:05:00
+    DURATION: 00:21
+    DIVERSITY: Canyon Country Education Center ;; College of the Canyons
+    CONNECTIVITY: 
+    PROVIDER: AT&T
+    REASON: [unknown] 
+
+ISSUE: NOC-641841
+    SCOPE: Rio Hondo College Fire Academy circuit to Tustin is unstable.
+    START: 2021-02-10 01:21:00
+    END: 2021-02-10 01:36:00
+    DURATION: 00:15
+    DIVERSITY: Rio Hondo CC ;; Rio Hondo CC - Pico Rivera Education Center ;; Rio Hondo CCD El Monte Education Center
+    CONNECTIVITY: Rio Hondo CC - Fire Academy ;; Rio Hondo CC - South Whittier Education Center
+    PROVIDER: Spectrum
+    REASON: [fiber damage] 
+
+
+6. K12/COE
+
+ISSUE: NOC-642048
+    SCOPE: Dark Fiber instability
+    START: 2021-02-12 19:57:00
+    END: 2021-02-12 21:09:00
+    DURATION: 01:12
+    DIVERSITY: Riverside - Indio COE ;; Riverside COE
+    CONNECTIVITY: 
+    PROVIDER: Environmental
+    REASON: [unknown] 
+
+ISSUE: NOC-642093
+    SCOPE: The CPEs at El Dorado COE are now reachable.
+    START: 2021-02-13 10:15:00
+    END: 2021-02-13 10:54:00
+    DURATION: 00:39
+    DIVERSITY: 
+    CONNECTIVITY: El Dorado COE
+    PROVIDER: Environmental
+    REASON: [power outage] 
+
+
+7. Library
+
+
+8. Other
+
+
