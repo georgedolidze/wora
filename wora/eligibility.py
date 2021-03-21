@@ -20,6 +20,7 @@ HAS_SLA = [
     'Wilcon',
     'SCE',
     'Charter',
+    'Cal-Ore',
     'Environmental', # Including these since they don't need to participate in non-sla list
     'CENIC Internal' # ^
 
@@ -123,6 +124,11 @@ def eligibility_print(csv_name):
     output += "\n\nWave Broadband\n"+"-"*30 + "\n"
     output += "> 1+ minutes" + "\n"
     output += str(eligibility_function(csv_name, "WaveBroadband", 1, 99999)) + "\n"
+    output += "\n" + "\n"
+
+    output += "\n\nCal-Ore\n"+"-"*30 + "\n"
+    output += "> 4+ hours" + "\n"
+    output += str(eligibility_function(csv_name, "Cal-Ore", 240, 99999)) + "\n"
     output += "\n" + "\n"
 
     output += "\n\nVendors with no SLA\n"+"-"*30 + "\n"
