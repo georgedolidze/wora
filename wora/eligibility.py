@@ -21,6 +21,7 @@ HAS_SLA = [
     'SCE',
     'Charter',
     'Cal-Ore',
+    'Southern California Edison',
     'Environmental', # Including these since they don't need to participate in non-sla list
     'CENIC Internal' # ^
 
