@@ -37,7 +37,7 @@ def eligibility_function(csv_name, vendor, lower_duration, upper_duration):
                 line_count += 1
             else:
                 if ((vendor in row[0]) and (row[6] != 'fiber cut') and (row[6] != 'fiber damage') and (hms_to_m(row[5]) >= lower_duration) and (hms_to_m(row[5]) <= upper_duration)):
-                    output += "{}: Duration is over {} minutes ({}). \nRFO: {}".format(row[1], lower_duration, row[5], row[6]) + "\n"
+                    output += "{}: Duration is over {} minutes ({}). \nRFO: {}\nVendor ticket: {}\nStart Time: {}\nEnd Time: {}\n".format(row[1], lower_duration, row[5], row[6], row[2], row[3], row[4]) + "\n"
     return output
 
 def hms_to_m(s): # For converting the H:M:S duration format to seconds/minutes
