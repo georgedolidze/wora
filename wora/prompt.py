@@ -82,6 +82,11 @@ def prompt(current_date):
             print('')
         else:
             print('\n')
+        while not out['telco_ticket_id']:
+            sys.stdout.write('\nEnter telco ticket numbers, separated by commas if multiple: ')
+            add = input()
+            out['telco_ticket_id'] = add.strip()
+            print('\n')
         if out['rfo_category'] in RFO_CATEGORIES_ENV:
             out['vendors_involved'] = ['Environmental']
         if not out['vendors_involved']:

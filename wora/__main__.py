@@ -28,10 +28,7 @@ def main():
 
 
 if __name__ == '__main__':
-    #print(main())
 
-    #filename = str(_serialize_datetime(datetime.datetime.strptime(sys.argv[1], '%Y-%m-%d'))) + '-' + str(_serialize_datetime(datetime.datetime.strptime(sys.argv[2], '%Y-%m-%d'))) + '.txt'
-    #2020-07-29 00/00/00-2020-08-05 00/00/00
     current_date = str(sys.argv[2])
     filename = current_date + '-email-blob.json'
     file = open(filename,'w')
