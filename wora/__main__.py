@@ -39,6 +39,8 @@ if __name__ == '__main__':
     
     finalized_blob = prompt(current_date)
 
+    #finalized_blob = '2021-07-10-finalized-blob copy.json' # This is for correcting a report halfway through
+
     print('\nCompiling report...')
     report(finalized_blob, current_date)
     print('='*50 + "\nReport completed successfully")

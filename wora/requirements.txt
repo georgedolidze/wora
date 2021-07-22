@@ -1,4 +1,4 @@
 bullet
 easyimap
-jira
+jira>=2,<3
 keyring # optional, for keyring support
