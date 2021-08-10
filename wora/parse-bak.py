@@ -1,7 +1,6 @@
 import re
 import logging
 import datetime
-import sys
 
 class ParseError(Exception):
     pass
@@ -92,31 +91,10 @@ class Parser():
             start = parse_date(parse_part(msg, self.patterns['start']), year)
         except ValueError as err:
             logging.warning('%s: could not parse start: %s', subj_line, err)
-
         try:
             end = parse_date(parse_part(msg, self.patterns['end']), year)
         except ValueError as err:
             logging.warning('%s: could not parse end: %s', subj_line, err)
-
-        while not start:
-            try:
-                sys.stdout.write('\n' + subj_line + '\nStart date could not be parsed in above ticket, enter exactly as the format in this example [ 18:56 PDT, Wed 08/04/2021 ] - ')
-                start = parse_date(input().strip())
-            except ValueError as err:
-                logging.warning('%s: could not parse end: %s', subj_line, err)
-
-
-        while not end:
-            try:
-                sys.stdout.write('\n' + subj_line + '\nEnd date could not be parsed in above ticket, enter exactly as the format in this example: [ 18:56 PDT, Wed 08/04/2021 ] - ')
-                end = parse_date(input().strip())
-            except ValueError as err:
-                logging.warning('%s: could not parse end: %s', subj_line, err)
-
-        #while not end:
-        #    sys.stdout.write('\nEnd date could not be parsed, enter the end date in the following format exactly: YYYY-MM-DD HH:MM:SS - ')
-        #    end = input().strip()
-
         return {
             'issue': parse_issue(subj, self.patterns['issue_old'],
                                  self.patterns['issue_new']),
