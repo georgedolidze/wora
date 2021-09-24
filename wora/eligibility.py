@@ -59,11 +59,11 @@ def non_sla(csv_name, HAS_SLA):
                     output += "{} - {} - Duration: {}. \nRFO: {}".format(row[1], row[0], row[5], row[6]) + '\n\n'
                 #print(row[0].split(';;'))
     return output
-                    
+
 def eligibility_print(csv_name):
 
     output = "\n\n\nEligible outages per Vendor SLAs\n\n\n"
-    
+
     output += "\n\nCenturyLink\n"+"-"*30 + "\n"
     output += "> 8-10hrs"  + "\n"
     output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 480, 600))  + "\n"
@@ -71,7 +71,7 @@ def eligibility_print(csv_name):
     output += "> 10-16hrs"  + "\n"
     output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 600, 960))  + "\n"
     output += "\n"  + "\n"
-    output += "> 16+hrs\n" 
+    output += "> 16+hrs\n"
     output += str(eligibility_function(csv_name, "CenturyLink (Level3)", 960, 99999))  + "\n"
 
     output += "\n\nCharter/TWC/Spectrum\n"+"-"*30 + "\n"
@@ -110,6 +110,11 @@ def eligibility_print(csv_name):
     output += "\n\nCBC/Digital 395\n"+"-"*30 + "\n"
     output += "> 15+ minutes" + "\n"
     output += str(eligibility_function(csv_name, "CBC", 15, 99999)) + "\n"
+    output += "\n" + "\n"
+
+    output += "\n\nCrown Castle\n"+"-"*30 + "\n"
+    output += "> 3 hours 40 minutes +" + "\n"
+    output += str(eligibility_function(csv_name, "Crown Castle", 220, 99999)) + "\n"
     output += "\n" + "\n"
 
     output += "\n\nGeoLinks\n"+"-"*30 + "\n"
